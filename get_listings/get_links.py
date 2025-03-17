@@ -1,11 +1,14 @@
 #! /usr/bin/env python3
 #
-# SPDX-License-Identifier: #TODO: Addd license type
+# SPDX-License-Identifier: GPL-3.0-or-later
 #
 
 '''
-Get listing links
-
+Get listing links from https://www.inmuebles24.com for houses, departments and
+houses in a gated community. The counties to check can be specified, as well as
+the number of pages to check (30 listings per page).
+Zenrows is used for web scrapping because of scrapping security measures in
+https://www.inmuebles24.com.
 
 '''
 
