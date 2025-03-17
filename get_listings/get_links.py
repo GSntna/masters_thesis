@@ -59,5 +59,5 @@ if __name__ == '__main__':
             links += new_links
     
             with open('./links.txt', 'a') as f:
-                f.write('\n'.join(links))
+                f.write('\n'.join(links) + '\n')
     
