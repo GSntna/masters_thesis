@@ -62,17 +62,17 @@ def get_summary(soup:BeautifulSoup) -> dict:
     try:
         if len(feat_values) < 4:
             if 'estac' in feat_values[2]:
-                features['bedrooms'] = 0
+                features['bedrooms'] = None
                 features['parking_spaces'] = int(re.sub(r'\D', '', feat_values[2]))
             elif 'rec' in feat_values[2]:
                 features['bedrooms'] = int(re.sub(r'\D', '', feat_values[2]))
-                features['parking_spaces'] = 0
+                features['parking_spaces'] = None
         else:
             features['bedrooms'] = int(re.sub(r'\D', '', feat_values[2]))
             features['parking_spaces'] = int(re.sub(r'\D', '', feat_values[3]))
     except:
-        features['bedrooms'] = 0
-        features['parking_spaces'] = 0
+        features['bedrooms'] = None
+        features['parking_spaces'] = None
 
     # from description
     try:
@@ -144,8 +144,7 @@ def get_icons(soup:BeautifulSoup) -> dict:
     icons = soup.select('ul[id=section-icon-features-property] > li > i')
     icons_text = soup.select('ul[id=section-icon-features-property] > li')
     keys = [icon.attrs['class'][0].split('-')[1] for icon in icons]
-        
-    #TODO: exclude antiguedad de values
+
     values = []
     for icon in icons_text:
         if any(word in icon.text for word in ['estrenar', 'construcc']):
@@ -183,19 +182,56 @@ def get_record(html:str) -> pd.DataFrame:
     return pd.DataFrame([res])
 
 
-def process_df(df:pd.DataFrame) -> pd.DataFrame:
-    pass
+# Functions to process the resulting dataframe
+
+def get_county(address:str, counties:list) -> str:
+    '''
+    Looks for the county name in the address and returns the county name if it's
+    found. Otherwise returns None
+
+    :param str address: address to scan
+    :param list[str] counties: counties options
+    :return: name of the found county in counties
+    :rtype: str
+    '''
+    for county in counties:
+        if county.lower() in address.lower():
+            return county
+    return None
 
 
-if __name__ == '__main__':
-    
-    dir_path = Path(r'../get_listings/listings')
-    df = pd.DataFrame()  # create empty dataframe
+def process_df(df:pd.DataFrame, counties:list) -> pd.DataFrame:
+    '''
+    Performs data processing to the listings dataframe:
+    1. Remove redundant columns
+    2. Rename columns (spanish to english)
+    3. Drop duplicates
+    4. Add the county column based on the address
+
+    :param pd.DataFrame df: pre-processed data with listings
+    :param list[str] counties: counties options
+    :return: processed dataframe
+    :rtype: pd.DataFrame
+    '''
     rename_cols = {
         'bano': 'full_bathroom',
         'toilete': 'half_bathroom',
         'antiguedad': 'property_age',
     }
+
+    df = df.drop(columns=['cochera', 'scubierta', 'dormitorio'])  # duplicated columns
+    df.rename(columns=rename_cols, inplace=True)
+    df = df.drop_duplicates(keep='first', ignore_index=True)
+    df['county'] = df['address'].apply(get_county, args=(counties,))
+
+    return df
+
+
+if __name__ == '__main__':
+    counties = ['Zapopan', 'Guadalajara']
+    dir_path = Path(r'../get_listings/listings')
+    df = pd.DataFrame()  # create empty dataframe
+    
     unsuccessful = 0
     
     for html in dir_path.glob('*.html'):
@@ -208,8 +244,7 @@ if __name__ == '__main__':
 
     print(f'Couldn\'t process {unsuccessful} htmls')
 
-    df = df.drop(columns=['cochera', 'scubierta'])  # duplicated columns
-    df.rename(columns=rename_cols, inplace=True)
+    df = process_df(df=df, counties=counties)
     
     df.to_csv('./processed_data/properties.txt', sep='\t', index=False)
     
