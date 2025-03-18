@@ -60,4 +60,3 @@ if __name__ == '__main__':
     
             with open('./links.txt', 'a') as f:
                 f.write('\n'.join(links) + '\n')
-    
