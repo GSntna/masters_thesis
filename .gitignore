@@ -1,4 +1,6 @@
 venv
 *.sqlite
 *.env
-get_listings/listings
+properties_table/listings
+*.ipynb
+cache
