@@ -21,7 +21,7 @@ gpkg_path = '../../database/neighborhoods.gpkg'
 utm = "EPSG:32613"  # UTM Zone 13N for Jalisco
 
 
-def save_plot(base:gpd.GeoDataFrame, grids:gpd.GeoDataFrame, figname:str):
+def save_plot(base:gpd.GeoDataFrame, grids:gpd.GeoDataFrame, title:str, figname:str):
     '''
     Creates and saves a plot of the created grids over the neighborhoods.
 
@@ -30,8 +30,13 @@ def save_plot(base:gpd.GeoDataFrame, grids:gpd.GeoDataFrame, figname:str):
     :param str figname: png filename without extension (e.g. "imageName")
     '''
     fig, ax = plt.subplots()
-    base.plot(ax=ax, color="lightgrey", edgecolor="k")
-    grids.plot(ax=ax, edgecolor="red", facecolor="none")
+    base.to_crs("EPSG:4326").plot(ax=ax, color="lightgrey", edgecolor="k")
+    grids.to_crs("EPSG:4326").plot(ax=ax, edgecolor="red", facecolor="none")
+    plt.title(title)
+    plt.xticks(rotation=90, ha='right')
+    plt.xlabel('Longitude')
+    plt.ylabel('Latitude')
+    plt.tight_layout()
     plt.savefig(f'./grids/{figname}.png')
 
 def get_grids(
@@ -66,9 +71,9 @@ def get_grids(
 
     # Convert to GeoDataFrame and clip to neighborhoods
     grid = gpd.GeoDataFrame(geometry=grid_cells, crs=utm)
-    save_plot(base=gdf, grids=grid, figname='full_grids')
+    save_plot(base=gdf, grids=grid, title='All Grids', figname='full_grids')
     grid = grid[grid.intersects(gdf.union_all())]  # Keep only cells overlapping neighborhoods
-    save_plot(base=gdf, grids=grid, figname='intersecting_grids')
+    save_plot(base=gdf, grids=grid, title='Intersecting Grids', figname='intersecting_grids')
 
     # Spatial join to assign neighborhood names to grid cells
     grid = gpd.sjoin(

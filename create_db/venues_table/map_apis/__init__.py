@@ -14,6 +14,10 @@ This module stores the functions needed to runt he following APIs:
 It also loads the API Keys/Client for Foursquare and Google Maps from a .env
 The RADIUS to use on the APIs is set to 750 and can be canged using
 map_apis.RADIUS=1000
+
+Also plotting functions are included:
+- plot_gdf_over_gdf: plot two GeoDataFrame layers
+- 
 '''
 
 import geopandas as gpd
@@ -46,7 +50,7 @@ gmaps = googlemaps.Client(key=GOOGLE_KEY)
 # Radius to use on the grids for the APIs
 RADIUS = 750
 
-# --- FOURSQUARE ------------------------------------------------------------- #
+# --- Foursquare ------------------------------------------------------------- #
 def _fsq_venues(lat:float, lon:float, category:str, limit:int=50) -> dict:
     '''
     Calls Foursquare API to return the venues withe the given category around
@@ -180,6 +184,67 @@ def get_osm_venues(
     return gpd.GeoDataFrame()
 
 
+# --- Google Maps ------------------------------------------------------------ #
+def get_google_venues(lat:float, lon:float, venue_type:str) -> dict:
+    '''
+    Calls Google Maps API to return the venues withe the given venue_type
+    around the specified lat and lon.
+
+    :param float lat: latitude
+    :param float lon: longitude
+    :param str category: venue type (e.g. 'hospital', 'school')
+    '''
+    results = gmaps.places_nearby(
+        location=(lat, lon),
+        radius=RADIUS,
+        type=venue_type
+    )
+    return results['results']
+
+def process_google_json(
+        categories:list[str],
+        centroids:pd.DataFrame
+        ) -> pd.DataFrame:
+    '''
+    Retrives the venue information from Google's API result for given centroids
+    and categories. Categories can be found here
+    
+    :param list[str] categories: list of category codes to look
+    :param pd.DataFrame centroids: dataframe with api_lat and api_lon columns
+    to iterate over
+    :returns: dataframe with name, category, category_code, lat and lon of the
+    venues
+    :rtype: pd.DataFrame
+    '''
+    all_venues = []
+    failed = 0
+    show = False
+    
+    for cat in categories:
+        
+        for _, row in centroids.iterrows():
+            venues = get_google_venues(row['api_lat'], row['api_lon'], venue_type=cat)
+            
+            for venue in venues:
+                try:
+                    all_venues.append({
+                        "name": venue["name"],
+                        'category': cat,
+                        'category_code': None,
+                        "lat": venue["geometry"]["location"]["lat"],
+                        "lon": venue["geometry"]["location"]["lng"]
+                    })
+                    time.sleep(2)  # Google requires delay for pagination
+                except:
+                    show = True
+                    failed += 1
+                
+                time.sleep(1)
+    if show:
+        logging.warning(f'Couldn\'t add {failed}')
+
+    return pd.DataFrame(all_venues)
+
 # --- Plots ------------------------------------------------------------------ #
 def plot_gdf_over_gdf(
         gdf_base:gpd.GeoDataFrame,
@@ -225,7 +290,62 @@ def plot_gdf_over_gdf(
     plt.ylabel('Latitude')
     
     # Add legend
-    from matplotlib.lines import Line2D
+    legend_elements = [
+        Line2D([0], [0], marker='o', color='w', label=legend_label,
+            markerfacecolor=layer_color, markersize=10, markeredgecolor='black'),
+    ]
+    ax.legend(handles=legend_elements, loc='upper right')
+
+    # Adjust layout
+    plt.tight_layout()
+    # Save or show the plot
+    if save:
+        filename = '_'.join(title.lower().split())
+        plt.savefig(f'{filename}.png', dpi=300, bbox_inches='tight')    
+    plt.show()
+
+def plot_df_over_gdf(
+        gdf_base:gpd.GeoDataFrame,
+        df_layer:gpd.GeoDataFrame,
+        title:str,
+        legend_label:str,
+        save:bool=False,
+        layer_color:str='red',
+        layer_edgecolor='black'
+):
+    '''
+    '''
+    # Convert venue DataFrame to GeoDataFrame
+    gdf_venues = gpd.GeoDataFrame(
+        df_layer,
+        geometry=gpd.points_from_xy(df_layer['lon'], df_layer['lat']),
+        crs="EPSG:4326"  # WGS84 coordinate reference system
+    )
+    fig, ax = plt.subplots(figsize=(12, 10))
+    # 1. Plot base layer (neighborhoods) (light gray with black borders)
+    gdf_base.plot(
+        ax=ax,
+        color='lightgray',
+        edgecolor='black',
+        linewidth=0.5,
+        alpha=0.7
+    )
+    # 2. Plot layer
+    gdf_venues.plot(
+        ax=ax,
+        color=layer_color,
+        markersize=50,
+        marker='o',
+        edgecolor=layer_edgecolor,
+        linewidth=0.5
+    )
+
+    # Add title and labels
+    plt.title('Venues Distribution Across Neighborhoods', fontsize=16)
+    plt.xlabel('Longitude')
+    plt.ylabel('Latitude')
+
+    # Optional: Add legend
     legend_elements = [
         Line2D([0], [0], marker='o', color='w', label=legend_label,
             markerfacecolor=layer_color, markersize=10, markeredgecolor='black'),
