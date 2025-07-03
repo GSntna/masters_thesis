@@ -1,3 +1,15 @@
+#! /usr/bin/env python3
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+
+'''
+Get Geopackage
+
+Creates and exports a geopackage file (.gpkg) from a given shpae (.shp) file.
+
+'''
+
 import geopandas as gpd
 
 shp_filepath = 'zmg_shp/mapa_venta.shp'
