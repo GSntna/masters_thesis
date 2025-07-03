@@ -19,7 +19,6 @@ Unidad de Medicina Familiar No. 182 IMSS	Medical Center	15016	20.78665	-103.4822
 OrtoArt	Dentist	15007	20.796441	-103.480144	Calle Zaragoza, 45200 Zapopan, Jalisco
 Homeópata	Alternative Medicine Clinic	15003	20.796415	-103.48009	45100 Tesistán, Jalisco
 Consultorio Dr. Juanjo Rivas	Doctor's Office	15031	20.799286	-103.479903	Jalisco
-Casa Hogar María Teresa, A.C.	Non-Profit Organization	12086	20.794898	-103.479077	16 de Septiembre 371, Zapopan, Jalisco
 Laboratorio Consultivo de Control	Medical Lab	15017	20.798563	-103.477263	Federalismo Norte 435, 44226 Guadalajara, Jalisco
 Asesoría nutricional L.N. Marcela Gloria	Doctor's Office	15031	20.798183	-103.476911	Jalisco 51, Zapopan, Jalisco
 Clinica Dental la Zapopana	Dentist	15007	20.794965	-103.477424	Jalisco 193, 45100, 45200 Zapopan, Jalisco
@@ -55,7 +54,6 @@ Torres Herrera Ma Consuelo	Dentist	15007	20.641403	-103.459427	Brisas Marinas 33
 GDC Intel Lab 2	Medical Lab	15017	20.66697	-103.463005	Zapopan, Jalisco
 Terminus	Assisted Living Service	15004	20.683107	-103.462613	Zapopan, Jalisco
 Clinica Odontológica UCG	Dentist	15007	20.698457	-103.465124	Zapopan, Jalisco
-Clínica de Kinesiología. Universidad Cuauhtémoc	College and University	12013	20.698642	-103.463461	Avenida del Bajío 5901, 45019 Zapopan, Jalisco
 Vetermex	Veterinarian	15054	20.715194	-103.462874	5 de Mayo 253J, 45019 Zapopan, Jalisco
 Pet's Park	Veterinarian	15054	20.777341	-103.465918	Antiguo Camino a Tesistán 7773-2 (Venustiano Carranza), 45200 Tesistán, Jalisco
 Clinica Buccal Altaluz	Dentist	15007	20.788752	-103.461159	Carretera a Colotlán 887 (Altaluz), 45200 , Jalisco
@@ -71,7 +69,6 @@ Aleaciones Dentales Zeyco SA C	Dentist	15007	20.621119	-103.456174	Avenida Sta A
 Factores de Transferencia	Alternative Medicine Clinic	15003	20.61985	-103.456947	Avenida Gpe 865, 45040 Guadalajara, Jalisco
 Control de Estres y Relajacion Solano	Alternative Medicine Clinic	15003	20.621323	-103.459522	Iturbide 115, 45230 Zapopan, Jalisco
 Hospital Santa Ana	Hospital	15014	20.62503	-103.455593	Calle Camino Nacional 2125, 45230 Zapopan, Jalisco
-Siempre Positivo	Factory	11040	20.629625	-103.452223	Mariano Otero 1520, 45067 Zapopan, Jalisco
 Dr Federico y Eloisa	Doctor's Office	15031	20.636247	-103.455649	Zapopan, Jalisco
 Perez Caro Marco Antonio	Dentist	15007	20.640938	-103.456027	Puerto de Mazatlan 3393, 45060 Zapopan, Jalisco
 Gonzalez Hernandez Arturo	Health and Medicine	15000	20.639198	-103.45147	Primavera 79, 45066 Zapopan, Jalisco
@@ -86,7 +83,6 @@ Farmacía Benavides	Health and Medicine	15000	20.649459	-103.450973	Avenida las 
 Consultorio de Nutrición	Doctor's Office	15031	20.650522	-103.456055	Avenida Guadalupe (Tepame), Zapopan, Jalisco
 Clinica de Rehabilitacion Acsencio	Medical Center	15016	20.651876	-103.45352	Zapopan, Jalisco
 Clínica Veterinaria VA-GA	Veterinarian	15054	20.649975	-103.452825	colonia paraísos del coli Calle Arrayán numero 1575 (tepame), 45069 Zapopan, Jalisco
-Mundo Láser	Technology Business	11167	20.657918	-103.454	Avenida las Torres 5301, 45010 Guadalajara, Jalisco
 Clinica y Terapia Vegetal	Health and Medicine	15000	20.650284	-103.4515	Mango 1541 2, 44900 , Jalisco
 Dentista	Dentist	15007	20.66296	-103.452812	45010 Zapopan, Jalisco
 Antares Medica	Medical Center	15016	20.657755	-103.450864	Vialactea (11), 45037 Zapopan, Jalisco
@@ -102,7 +98,6 @@ Jornadas ABCD Nutrición y Psicología en Cirugía de Obesidad	Health and Medici
 Laboratorios Senosiain	Medical Lab	15017	20.693069	-103.453331	Avenida Vallarta 6503H, 45010 Zapopan, Jalisco
 Nutriologa Zaira Medina	Medical Center	15016	20.69474	-103.451481	Zapopan, Jalisco
 Sport Medical Team	Doctor's Office	15031	20.703168	-103.45687	Avenida Inglaterra 9271 (Av. Aviación), 45018 , Jalisco
-Juntos Por Un Caminar	Education	12009	20.705718	-103.451172	Parral 55 (Emiliano Zapata), 45019 Zapopan, Jalisco
 Centro de Salud San Juan Ocotán	Medical Center	15016	20.7121	-103.4568	Zapopan, Jalisco
 Premezclas de Mexico	Health and Medicine	15000	20.714966	-103.454534	Paseos del Valle Guadalajara T 5211, 45019 Zapopan, Jalisco
 Clinica veterinaria guzman	Veterinarian	15054	20.717711	-103.455105	Avenida Colegio del Aire 5180, 45010 Zapopan, Jalisco
@@ -179,7 +174,6 @@ Express Light	Nutritionist	15023	20.608901	-103.448743	Zapopan, Jalisco
 Casa de Descanso los Pinos	Nursing Home	15022	20.606886	-103.439835	Guty Cardenas 4692, 45120 Zapopan, Jalisco
 Bio Zoo	Veterinarian	15054	20.616255	-103.444283	Carretera a Santa Ana Tepetitlán 2200, 45230 Zapopan, Jalisco
 Mexicana de Equipos Dentales	Health and Medicine	15000	20.616316	-103.444601	Camino a Santa Ana Tepetitlan 2230, 45230 Zapopan, Jalisco
-Bio Zoo	Chemicals and Gasses Manufacturer	11024	20.616373	-103.44615	Carretera a sta ana tepetitlan 2, 45230 Zapopan, Jalisco
 Clinica Santa Ana	Health and Medicine	15000	20.626888	-103.444915	Camino Nacional 2125, 45230 Zapopan, Jalisco
 Clinica Nuestra Señora de Gualupe	Hospital	15014	20.624715	-103.442504	Zapopan, Jalisco
 Enfermeria Expo Guadalajara	Doctor's Office	15031	20.630147	-103.446842	Mariano otero (Las rosas), Zapopan, Jalisco
@@ -197,9 +191,7 @@ Conie Bogart	Healthcare Clinic	15011	20.633471	-103.448279	Turquesa 2418 (Agata)
 Casa de descanso José Vivente	Assisted Living Service	15004	20.642128	-103.443623	Zapopan, Jalisco
 Cu	Assisted Living Service	15004	20.648853	-103.445264	Zapopan, Jalisco
 Centro de salud Paraísos del Colli	Doctor's Office	15031	20.649556	-103.448307	Zapopan, Jalisco
-Express Light Guadalupe Inn	Spa	11073	20.65553	-103.442532	Mision Santo Tomas 969, Zapopan, Jalisco
 Villas Juveniles San Juan	Health and Medicine	15000	20.653382	-103.446243	Zapopan, Jalisco
-Laboratorios Becar	Laboratory	11109	20.654639	-103.44748	Industria Vinicola 24, 45070 Zapopan, Jalisco
 Alphabiotico	Chiropractor	15006	20.653706	-103.44288	C. Misión de Santo Tomás 1183, 45030 Zapopan, Jalisco
 Nucleo Medico Santo Tomas	Dentist	15007	20.653677	-103.442877	Mision de Santo Tomas 1175, Zapopan, Jalisco
 Centro alfabiotico	Medical Center	15016	20.654131	-103.442994	Zapopan, Jalisco
@@ -211,7 +203,6 @@ Medı lıfe	Hospital	15014	20.650958	-103.442178	Zapopan, Jalisco
 Clinica Veterinaria Cordilleras	Veterinarian	15054	20.65553	-103.442532	Manuel J Clouthier 290G, 45030 Zapopan, Jalisco
 "Núcleo Médico ""Vives"""	Doctor's Office	15031	20.655891	-103.4428	Zapopan, Jalisco
 La Mascota ideal	Veterinarian	15054	20.652197	-103.441631	Montera 1419, 45180 Zapopan, Jalisco
-Todo para sus pies	Spa	11073	20.657319	-103.448964	45429 Zapopan, Jalisco
 Psicli	Doctor's Office	15031	20.654064	-103.440926	Avenida Piotr Tchaikovski 1142, Zapopan, Jalisco
 Huevito 41	Assisted Living Service	15004	20.655165	-103.44132	Zapopan, Jalisco
 Punto Saludable	Doctor's Office	15031	20.655922	-103.441327	Misión San Julián 6333, 45036 Zapopan, Jalisco
@@ -249,14 +240,11 @@ Consultorio Homeopatico	Alternative Medicine Clinic	15003	20.685087	-103.448288	
 Mansión Granjas	Assisted Living Service	15004	20.685014	-103.443244	Zapopan, Jalisco
 Laboratorios Julio	Medical Lab	15017	20.688794	-103.446495	Avenida Vallarta 6250, 45017 Zapopan, Jalisco
 Asilo de Ancianos Desamparados	Assisted Living Service	15004	20.689152	-103.44659	Avenida Vallarta 6313, Zapopan, Jalisco
-Health Group Industrias de Mexico	Office	11124	20.687709	-103.446084	Vallarta 6245, 45010 Zapopan, Jalisco
 Ortiz Productos Medicos Ortopedicos y de Rehabilitacion	Orthopedic Surgeon	15043	20.687539	-103.445712	Avenida Vallarta 7233, 45010 Zapopan, Jalisco
 Homeopatas Puros	Doctor's Office	15031	20.689951	-103.447353	Zapopan, Jalisco
-Gdl Medica	Music Venue	10039	20.693299	-103.44929	Zapopan, Jalisco
 Health	Alternative Medicine Clinic	15003	20.687659	-103.445895	Jalisco
 Hospital Innovare	Hospital	15014	20.701135	-103.445941	Avenida Verona 7412, 45136 Zapopan, Jalisco
 Dr. Marcos Gonzalez Cirujano Plastico	Doctor's Office	15031	20.70225	-103.446285	Avenida Naciones Unidas 7972, 45136 Zapopan, Jalisco
-Innovaspa	Spa	11073	20.702176	-103.446013	Zapopan, Jalisco
 Innovare Cirugía Plástica Especializada	Hospital	15014	20.702385	-103.445992	Avenida Verona 7412 (Naciones Unidas), Zapopan, Jalisco
 Dr Gonzalo Núñez REMBRANDT CIRUGIA PLASTICA	Health and Medicine	15000	20.702398	-103.445876	Avenida Verona 7412, 45010 Zapopan, Jalisco
 Dr Manuel Huesca - Cirujano Plástico	Doctor's Office	15031	20.702561	-103.446402	Calle Verona 7412 (Naciones Unidas), 45019 Zapopan, Jalisco
@@ -274,7 +262,6 @@ Clínica Dental Smile Center Gdl	Dentist	15007	20.746595	-103.44426	Avenida Avia
 Medicina Equina Integral	Veterinarian	15054	20.746281	-103.44253	Tuxpan 550, 45138 Zapopan, Jalisco
 Clinica Dental Troncoso	Dentist	15007	20.756421	-103.441222	Libramiento a La Base Aerea 795-1 (Prol. Acueducto y Privada Atotonilco), 45138 Zapopan, Jalisco
 Clínica Dental Troncoso	Dentist	15007	20.754446	-103.442375	Libramiento a La Base Aérea 651B, 45138 Nuevo México, Jalisco
-Sdn Enfermeria Militar 15 a Zm	Public and Social Service	12091	20.75127	-103.4431	Crr a Base Aerea Militar 5 10 s/n, Guadalajara, Jalisco
 Consultorio Dental Verónica Carranza	Dentist	15007	20.763644	-103.441195	Idolina Gaona de Cosio 4832F (Cuarta Oriente), 45200 Zapopan, Jalisco
 Villa Veterinarios	Veterinarian	15054	20.758359	-103.441354	Puerto Mexico 3551A, Zapopan, Jalisco
 Veterinaria Base Aérea	Veterinarian	15054	20.758466	-103.440954	Zapopan, Jalisco
@@ -291,7 +278,6 @@ Onasura	Veterinarian	15054	20.593779	-103.436794	Calle campanario (Calle Santa a
 Benjamin Dentista	Dentist	15007	20.589893	-103.432128	Zapopan, Jalisco
 Malitzy	Medical Center	15016	20.583637	-103.43695	Camino a La tijera 797C, 45647 Tlajomulco de Zuñiga, Jalisco
 Productos Farmaceuticos Collins	Health and Medicine	15000	20.599579	-103.436608	Lopez Mateos 1938, 45235 Zapopan, Jalisco
-Fara	Plastics Supplier	11141	20.597246	-103.434637	Agua Termal 8678A, 45235 Guadalajara, Jalisco
 Hospital Veterinario Equino	Hospital	15014	20.600742	-103.432413	Zapopan, Jalisco
 Ortho Smile	Dentist	15007	20.602391	-103.440993	Zapopan, Jalisco
 Nutriologo Ramiro Gutierrez	Doctor's Office	15031	20.6033	-103.432655	Vicente Guerrero 39, 45235 , Jalisco
@@ -299,7 +285,6 @@ Mejor Nútrete	Nutritionist	15023	20.608685	-103.435453	Enrique Díaz de León 1
 Centro de Salud Francisco Sarabia	Medical Center	15016	20.610225	-103.435683	Zapopan, Jalisco
 Nutrick	Doctor's Office	15031	20.610546	-103.43407	Zapopan, Jalisco
 Centro de Salud Animal Siglo Xxi	Veterinarian	15054	20.604285	-103.433745	Lopez Mateos Sur 3139, 45235 Zapopan, Jalisco
-Adler Pharma	Factory	11040	20.610372	-103.433207	Zapopan, Jalisco
 Dr Orozco	Doctor's Office	15031	20.610879	-103.433416	Hernan Cortez 11, Zapopan, Jalisco
 Farmacia agua blanca	Doctor's Office	15031	20.603855	-103.432579	45235 Zapopan, Jalisco
 Medicina familiar	Doctor's Office	15031	20.612008	-103.432656	Hernán Cortes 11, Zapopan, Jalisco
@@ -308,7 +293,6 @@ Laboratorio de análisis clínicos	Medical Lab	15017	20.616482	-103.435516	45236
 Dentaliz	Dentist	15007	20.614706	-103.437652	Zapopan, Jalisco
 Dental Agricola	Dentist	15007	20.617053	-103.434835	Magnolia 164, 45236 Zapopan, Jalisco
 Dra. Jesenia Gutierrez	Dentist	15007	20.616526	-103.432664	Gladiola 82 (entre obelisco y jazmin), 45237 Zapopan, Jalisco
-Acarreo de Agua en Pipas Hnos. Vazquez	Food and Beverage Service	11056	20.615172	-103.433638	Hortencia 62, 45236 Zapopan, Jalisco
 Clinica Nuestra Se?ora de Guadalupe S.c	Hospital	15014	20.626481	-103.436534	Avenida las Torres 31, 45236 Zapopan, Jalisco
 La chamba	Dentist	15007	20.625182	-103.439059	Zapopan, Jalisco
 CENTRO de SALUD el BRISEÑO	Dentist	15007	20.625112	-103.439066	45236 Zapopan, Jalisco
@@ -332,7 +316,6 @@ Dr. Aaron	Doctor's Office	15031	20.640748	-103.436392	Paseos del Sol, Zapopan, J
 Spine-Bone	Chiropractor	15006	20.640757	-103.43568	Ricardo Zermeño 1390, Jalisco
 Vive: centro de psicología y especialidades médicas	Mental Health Clinic	15019	20.631163	-103.431139	Mariano Otero 5850, Zapopan, Jalisco
 consultorio del Kin Kin	Acupuncture Clinic	15001	20.636033	-103.430172	Fidel Kosonoy 1717, Zapopan, Jalisco
-Ortoproductos	Factory	11040	20.643398	-103.436024	Calle Volcan Paricutin 6281, 44100 Zapopan, Jalisco
 clinica Relax	Doctor's Office	15031	20.642484	-103.437515	Zapopan, Jalisco
 Laboratorio Clinico Medico Empresarial (Laboratorio clínico médico empresarial)	Medical Lab	15017	20.642347	-103.436452	Volcan Ceboruco 2157, 45070 Guadalajara, Jalisco
 Centro Relax	Medical Center	15016	20.641721	-103.434376	Volcan zacatecas, Zapopan, Jalisco
@@ -348,7 +331,6 @@ Dentosalud	Dentist	15007	20.641586	-103.433158	Avenida Enrique Ladrón de Guevar
 Unidad Medico Dental	Dentist	15007	20.641485	-103.432751	Avenida Coopernico 2384 (Felipe Ruvalcaba), Zapopan, Jalisco
 CAP Centro de Atención Psicológica	Mental Health Clinic	15019	20.648459	-103.435717	6267 Calle Playa de Santiago, 45059 Zapopan, Jalisco
 ECONOgen farmacia de genericos y bioequivalentes	Doctor's Office	15031	20.643019	-103.431397	Privada Volcán Popocatépetl 5880 (Volcán Momotombo), 45070 Tlaquepaque, Jalisco
-Golden's And Lab's	Agriculture and Forestry Service	11002	20.648825	-103.438531	Moctezuma 6205 Estocada 6161, 45050 Guadalajara, Jalisco
 Nucleo Medico y Dental Coopernico	Dentist	15007	20.647348	-103.432911	Zapopan, Jalisco
 Medicina Integral Veterinaria	Veterinarian	15054	20.647539	-103.432915	Avenida Nicolás Copérnico (Esquina Avenida El Colli), 45059 Zapopan, Jalisco
 Nutrivida	Doctor's Office	15031	20.647348	-103.432911	Avenida Nicolás Copérnico 1654 (Av. El Colli), Zapopan, Jalisco
@@ -356,9 +338,6 @@ Puppylandmexico	Veterinarian	15054	20.647644	-103.43291	Nicolas Copernico 1642 (
 Dentista Jacki	Dentist	15007	20.648304	-103.433464	Zapopan, Jalisco
 Jorge Villa Medico Veterinario Zootecnista	Veterinarian	15054	20.646515	-103.431309	Zapopan, Jalisco
 Carlos Ceballos Gonzalez	Dentist	15007	20.646873	-103.431403	Avenida El Colli 5616, 45057 Zapopan, Jalisco
-Bracket Center	Community Center	12004	20.649056	-103.432807	Avenida Nicolás Copernico 1554, Zapopan, Jalisco
-Nutriologa	Coworking Space	11128	20.649339	-103.4401	Zapopan, Jalisco
-Ucin Medica	Health and Beauty Service	11061	20.642736	-103.432656	Volcan Paricutin 6596, 45070 Guadalajara, Jalisco
 Rivera Lopez Cesar Gamalier	Dentist	15007	20.647337	-103.432783	Copernico 1656, 45059 Zapopan, Jalisco
 Bronceado X	Veterinarian	15054	20.6521	-103.437883	Tepeyac 1256, Zapopan, Jalisco
 Pediatra Manuel Galan	Doctor's Office	15031	20.650867	-103.438369	Zapopan, Jalisco
@@ -392,14 +371,12 @@ Consultorio Farmacia Benavides	Doctor's Office	15031	20.659029	-103.438622	45036
 galletas	Doctor's Office	15031	20.665032	-103.437055	Zapopan, Jalisco
 Metodo Proa	Doctor's Office	15031	20.659172	-103.43948	Avenida Piotr Ilich Tchaikovski 574 (Av Guadalupe), 45030 Zapopan, Jalisco
 Dermaelite	Doctor's Office	15031	20.665121	-103.43854	Asesores 5744, 45037 Zapopan, Jalisco
-Supramax	Office	11124	20.66561	-103.436851	Avenida Tchaikovsky 566 (Asesores & Ursulo Garcia), 45030 Zapopan, Jalisco
 Consultorios Medicos Arcos de Guadalupe	Doctor's Office	15031	20.661611	-103.432081	Zapopan, Jalisco
 Dentista Tere	Dentist	15007	20.66349	-103.432348	San Luis Gonzaga (Rafael Sanzio), Zapopan, Jalisco
 Consultorio Dra. Corro	Doctor's Office	15031	20.661491	-103.431898	Zapopan, Jalisco
 Clínica Keshava Trasplante de Pelo	Medical Center	15016	20.662699	-103.43205	Del Agrónomo 5474, 45037 Guadalajara, Jalisco
 CorpoCell	Doctor's Office	15031	20.6619	-103.431899	Zapopan, Jalisco
 Unidad Medico Dental	Dentist	15007	20.658666	-103.433344	Avenida Guadalupe 5891A, 45030 Zapopan, Jalisco
-Sabiduría Eterna	Meeting Room	11129	20.661568	-103.431566	Agrónomos 5450 (Rafael Sanzio), 45037 Zapopan, Jalisco
 Imss 178	Health and Medicine	15000	20.658348	-103.439726	Avenida Guadalupe, 45010 Zapopan, Jalisco
 Ángeles Verdes	Emergency Room	15010	20.660402	-103.431656	Zapopan, Jalisco
 Clínica Dental Del Real	Dentist	15007	20.663218	-103.431694	Av. San Luis Gonzaga 5427 (Av. Rafael Sanzio), 45037 Zapopan, Jalisco
@@ -407,7 +384,6 @@ Viva Piel	Healthcare Clinic	15011	20.661785	-103.431221	Rafael Sanzio 768, 45030
 Toño Sobador	Chiropractor	15006	20.66195	-103.431278	Administradores (Rafael Sancion), 45037 Zapopan, Jalisco
 Asesoría Nutricional	Doctor's Office	15031	20.667177	-103.436713	Zapopan, Jalisco
 Ikn3Lia	Physical Therapy Clinic	15026	20.667491	-103.43731	45037 Zapopan, Jalisco
-Génesis Full Nutrition	Health and Beauty Service	11061	20.665855	-103.432567	Calle Asesores 4595, 45037 Zapopan, Jalisco
 Core - Núcleo de Fisioterapia y Osteopatía	Physical Therapy Clinic	15026	20.665388	-103.431431	Calle Comerciantes 5389, 45037 Zapopan, Jalisco
 Borzoi Veterinaria & Estética Canina	Veterinarian	15054	20.6681	-103.435784	Robert Schumann 5694B (Tchaikovsky), 45030 Guadalajara, Jalisco
 Nutrivet Servicios Veterinarios	Veterinarian	15054	20.666678	-103.432287	Avenida Nicolas Copérnico 1636B (Playa de Santiago y Av. El Colli), 45059 Zapopan, Jalisco
@@ -419,7 +395,6 @@ Centro de Actividades Para el Desarrollo Humano la Estancia	Nursing Home	15022	2
 MetroCan	Veterinarian	15054	20.676393	-103.438003	Avenida Beethoven 5800, Zapopan, Jalisco
 Iico	Medical Lab	15017	20.670665	-103.434812	Zapopan, Jalisco
 Mafira	Nutritionist	15023	20.671898	-103.434525	Franz liszt 5665, 45030 Zapopan, Jalisco
-Instituto de Investigacion Clinica D Occidente	Electrical Equipment Supplier	11032	20.670631	-103.433973	Ludwig Van Beethoven 5674, 45030 Zapopan, Jalisco
 Quetzalli Spa	Health and Medicine	15000	20.66926	-103.433167	Calle Felix Mendelson 558, 45030 Guadalajara, Jalisco
 Nucleo Médico Estético Nutricional	Medical Center	15016	20.673833	-103.434563	Zapopan, Jalisco
 Dental Integral	Dentist	15007	20.673591	-103.433744	Zapopan, Jalisco
@@ -443,15 +418,12 @@ Endocare	Health and Medicine	15000	20.667768	-103.431535	Zapopan, Jalisco
 Oral Care	Dentist	15007	20.667768	-103.431535	Zapopan, Jalisco
 Cardio Center	Doctor's Office	15031	20.667545	-103.431625	Rafael Sanzio, 45030 Zapopan, Jalisco
 Consultorio	Doctor's Office	15031	20.672347	-103.430779	Rafael Sanzio 264, Zapopan, Jalisco
-Punto facial	Health and Beauty Service	11061	20.667535	-103.431508	Avenida Rafael Sanzio 505 (Franz Shubert), 45030 Zapopan, Jalisco
 La Ceiba Nucleo Medico	Medical Center	15016	20.672584	-103.430863	Avenida Rafael Sanzio 264 (entre Wolfgang A. Mozart y Hector Berlioz), 45130 Zapopan, Jalisco
 dermatologia y Cirugía Dermatolgica	Medical Center	15016	20.669617	-103.430115	Zapopan, Jalisco
 Reyes Robles Ernesto Dr	Dentist	15007	20.674145	-103.431097	Sebastian Bach 5541, 45030 Zapopan, Jalisco
 Fysical Center	Doctor's Office	15031	20.669563	-103.429896	Zapopan, Jalisco
 Clinica Dental Integral	Dentist	15007	20.667531	-103.430567	Guadalajara, Jalisco
 Mommy Project	Doctor's Office	15031	20.672544	-103.430802	Rafael Sanzio 264, 45030 Zapopan, Jalisco
-GNC General Nutrition Centers	Skin Care Clinic	11072	20.670725	-103.431122	Avenida Vallarta y Rafael Sanzio 5455, 44100 Guadalajara, Jalisco
-Bravo Cortes Pedro Miguel	Legal Service	11111	20.671252	-103.430866	Avenida Rafael Sanzio 150, la Estancia, Jalisco
 Reyes Robles Ernesto Dr	Dentist	15007	20.6744	-103.431618	Clle Sebastian Bach 5541, 45030 Guadalajara, Jalisco
 Clinica Spa Claudia Sanchez	Healthcare Clinic	15011	20.677648	-103.43237	Rafael Sanzio 150 (Plaza Galerías), 45030 Zapopan, Jalisco
 Rodi	Medical Lab	15017	20.680082	-103.437935	Benito Juárez 5694 (C. Allende), 45018 Zapopan, Jalisco
@@ -460,7 +432,6 @@ Dr. Antonio Torres Ramirez	Doctor's Office	15031	20.681125	-103.43567	Zapopan, J
 Servicio Médico UVM Campus Guadalajara Norte	Doctor's Office	15031	20.682593	-103.435833	Zapopan, Jalisco
 Maskottchen	Veterinarian	15054	20.681938	-103.433824	Avenida Vallarta 5566, 45255 Zapopan, Jalisco
 Centro Integral de Medicina	Medical Center	15016	20.681952	-103.434166	45017 Zapopan, Jalisco
-Myhaus	Technology Business	11167	20.683258	-103.433693	Lomas Universidad, Zapopan, Jalisco
 Dentalia	Dentist	15007	20.676561	-103.43257	45018 Zapopan, Jalisco
 Unidad Medica Vallarta	Hospital	15014	20.684622	-103.438074	Clle Ramon Corona 5771 (Ignacio Allende), 45017 Guadalajara, Jalisco
 Neuroka	Mental Health Clinic	15019	20.683088	-103.43204	Joaquín Fernández de Lizardi, Jalisco
@@ -500,17 +471,14 @@ Veterinaria D Bari	Veterinarian	15054	20.758751	-103.432042	Avenida Juan Gil Pre
 Salud & Nutrición Consultorio.	Doctor's Office	15031	20.765821	-103.43965	Zapopan, Jalisco
 Mascotas Clinica Veterinaria	Veterinarian	15054	20.761468	-103.428855	18 de Marzo 1895 s/n, 45080 Zapopan, Jalisco
 Farmacias Economicas de Occidente	Health and Medicine	15000	20.760252	-103.42897	Crr Base Aerea 285 s/n, Guadalajara, Jalisco
-Ecoo Medical Supplies	Scientific Equipment Supplier	11161	20.788201	-103.434699	45134 , Jalisco
 Vormound Malinois	Veterinarian	15054	20.587654	-103.427039	Ingeniero Gómez 2990, 45609 Zapopan, Jalisco
 "Centro de salud ""Los Cajetes"""	Medical Center	15016	20.590937	-103.426066	Zapopan, Jalisco
 Centro de Salud Tulipanes	Hospital	15014	20.584122	-103.43143	La Tijera, Jalisco
 Metrovet	Veterinarian	15054	20.582734	-103.426426	Camino Real a Colima 108, Tlaquepaque, Jalisco
-Spa Can Camp and Hotel	Spa	11073	20.598236	-103.430116	Agua Azul 3000-4, Zapopan, Jalisco
 Choi Kim Hwa Seon	Physician	15027	20.602778	-103.423921	Pablo Neruda 4341 s/n, 45110 Guadalajara, Jalisco
 Consultorio Dental	Dentist	15007	20.610556	-103.425418	Durango 100D, Zapopan, Jalisco
 Consultorio Dental el Mante	Dentist	15007	20.606923	-103.423	Zapopan, Jalisco
 Dr. Fernando Cillero Martín	Doctor's Office	15031	20.611852	-103.429045	Avenida Arcos 46B, 44130 Guadalajara, Jalisco
-Proxima Frontera	Addiction Treatment Center	12001	20.604299	-103.424094	Vicente guerreo, Zapopan, Jalisco
 Enfermeras Profesionales de Occidente	Nurse	15021	20.605442	-103.424369	Hidalgo 638B, 45160 Zapopan, Jalisco
 Vitaminas Minerales y Aditivos	Veterinarian	15054	20.617316	-103.426884	Prv Corresponsales 100, 45070 Guadalajara, Jalisco
 Radent	Medical Center	15016	20.618847	-103.42291	Tlaquepaque, Jalisco
@@ -568,12 +536,10 @@ Clinica Dental la Zapopana	Dentist	15007	20.63453	-103.4259	Avenida Enrique ladr
 Dogma	Veterinarian	15054	20.636126	-103.427675	Avenida Enrique Ladron de Guevara 1768 (Paseos del Sol), 45079 Zapopan, Jalisco
 Veterinaria Marvin	Veterinarian	15054	20.633252	-103.425109	Avenida Nicolás Copérnico (Volcan Maunaloa y Cruz del Sur), 45070 Zapopan, Jalisco
 Athletic medical zone	Doctor's Office	15031	20.632195	-103.426315	Corona Boreal 4351, 45070 Zapopan, Jalisco
-Cormat	Office	11124	20.632377	-103.428953	Mariano Otero 5618, 45079 Zapopan, Jalisco
 Grupo Mexlab	Medical Lab	15017	20.636627	-103.428662	Susana Gómez Palafox 5486, 45079 Zapopan, Jalisco
 Espacio Dental	Dentist	15007	20.637438	-103.427869	Zapopan, Jalisco
 Udi	Dentist	15007	20.635424	-103.424246	Mariano Otero 5246, Zapopan, Jalisco
 Meditek	Dentist	15007	20.632408	-103.424839	Zapopan, Jalisco
-Beauty dent	Health and Beauty Service	11061	20.637574	-103.428514	Zapopan, Jalisco
 Tienda 4Life México	Alternative Medicine Clinic	15003	20.637653	-103.425957	Tomas Balcazar 5409, 45079 Zapopan, Jalisco
 Nussbaumer Dental Center	Dentist	15007	20.638047	-103.428456	Enrique Ladron de Guevara 1629-4, 45079 Zapopan, Jalisco
 Odontrak	Dentist	15007	20.636245	-103.423582	Araceli Souza 5167, Zapopan, Jalisco
@@ -656,22 +622,18 @@ CETRAMED Centro de ortopedia y medicina del deporte	Doctor's Office	15031	20.664
 Centro de Ortopedia y Medicina del Deporte	Hospital	15014	20.664879	-103.423657	Avenida Patria 649 (San Luis Gonzaga), 44740 Zapopan, Jalisco
 Consultorio del Chamán Paulino	Doctor's Office	15031	20.659674	-103.422634	Hidalgo 911, Zapopan, Jalisco
 Centramed	Doctor's Office	15031	20.665159	-103.423772	Zapopan, Jalisco
-Corporacion de Desarrollo Humano	Office	11124	20.666491	-103.428357	Calle Juan Kepler 4080, 45070 Zapopan, Jalisco
 El Horchatadero Room	Assisted Living Service	15004	20.662927	-103.421464	Zapopan, Jalisco
 Todo Para Sus Pies	Medical Center	15016	20.657893	-103.422237	Zapopan, Jalisco
 Clinica Vascular de Guadalajara Sc	Healthcare Clinic	15011	20.666157	-103.423195	Avenida Empresarios 150 15, 44670 Guadalajara, Jalisco
 Rio Laboratorio Clinico	Medical Lab	15017	20.662481	-103.420914	Zapopan, Jalisco
 Alcajym	Assisted Living Service	15004	20.666815	-103.423015	Zapopan, Jalisco
-Taller de Ilustración Digital :: UNIVA	College and University	12013	20.659289	-103.420444	Avenida Tepeyac 4800 (Av. Patria), 45050 Zapopan, Jalisco
 Dhci Dental Health & Implant Center	Dentist	15007	20.664059	-103.420499	Avenida Manuel J. Clouthier 777A (Av. Guadalupe), 45030 Zapopan, Jalisco
 O-Mart Ecomarket	Nutritionist	15023	20.663927	-103.420453	Avenida Manuel J. Clouthier 777, Zapopan, Jalisco
 Dra. Aida Uribe Lopez	Obstetrician Gynecologist (Ob-gyn)	15039	20.662166	-103.425611	Guadalupe 4083C, 45040 Zapopan, Jalisco
-Tintorama	Laundry Service	11069	20.660327	-103.429681	45040 Guadalajara, Jalisco
 Durand Padilla Rosalba Angelica	Dentist	15007	20.66411	-103.426216	Sn Luis Gonzaga 5117, Jalisco
 Dr. David Rubio Gonzalez	Obstetrician Gynecologist (Ob-gyn)	15039	20.662572	-103.423303	Guadalupe 4970, 45038 Guadalajara, Jalisco
 Cetramed	Physician	15027	20.66482	-103.423793	Patria Sur 649, 45030 Zapopan, Jalisco
 Maskottchen	Veterinarian	15054	20.659161	-103.422734	Avenida Manuel J Cloutier 888 59 y 60, 45050 Zapopan, Jalisco
-Visage	Massage Clinic	11070	20.674539	-103.430345	Rafael Sanzio 180 1B, 45030 Zapopan, Jalisco
 Psicoterapeuta Karinavazvel	Mental Health Clinic	15019	20.670673	-103.426573	Richard Wadgner 5139A, 45030 Zapopan, Jalisco
 Ifitaf	Doctor's Office	15031	20.670542	-103.427761	Velázquez 299 (Franz Liszt), Zapopan, Jalisco
 Neurología y Desarrollo	Doctor's Office	15031	20.669678	-103.427911	Calle Velázquez (Frederick Chopin), Zapopan, Jalisco
@@ -735,7 +697,6 @@ Acné Faciales Clínica de Especialidades	Doctor's Office	15031	20.688391	-103.4
 Especialidades Medicas Virreyes	Medical Center	15016	20.688677	-103.427662	Av. Naciones Unidas #5522, 45110 Zapopan, Jalisco
 UMCAD Laboratorio Medico	Medical Lab	15017	20.687889	-103.427193	Juan Palomar y Arias 534A (Naciones Unidas), 45110 Zapopan, Jalisco
 Chachi's	Assisted Living Service	15004	20.689335	-103.42661	Zapopan, Jalisco
-Plenitud	Spa	11073	20.687725	-103.42664	87049 Zapopan, Jalisco
 Gastelum	Dentist	15007	20.688365	-103.428095	Naciones Unidas 5441, Guadalajara, Jalisco
 Oxigeno	Doctor's Office	15031	20.688579	-103.4285	Naciones Unidas 5553-204, Zapopan, Jalisco
 Farmaceutica Ago del Pacifico	Health and Medicine	15000	20.690057	-103.42602	Davenida Id H Lawrence 5403, Guadalajara, Jalisco
@@ -744,7 +705,6 @@ Nutriwen	Medical Center	15016	20.687725	-103.42513	Zapopan, Jalisco
 Fitness Kids Zone	Physician	15027	20.688353	-103.424893	Ricardo Giraldes 5496, 45110 Guadalajara, Jalisco
 Dental United	Dentist	15007	20.689196	-103.428762	Avenida Naciones Unidas 5560 (Juan Palomar y Arias), 45110 Zapopan, Jalisco
 Hospital Veterinario Vetpets	Veterinarian	15054	20.687765	-103.424562	Victor Hugo 552, 45110 Zapopan, Jalisco
-Centro Terapeutico Colubri	Health and Beauty Service	11061	20.686914	-103.425295	Leon Tolstoy (Victor Hugo), 45110 Zapopan, Jalisco
 Núcleo Médico San Isidro	Doctor's Office	15031	20.690651	-103.425008	Avenida Rio Blanco 895 (Paseo De Las Aves), 45180 , Jalisco
 Perfect Smile	Dentist	15007	20.687188	-103.42436	Avenida Naciones Unidas 5303A (Víctor Hugo), 45110 Zapopan, Jalisco
 Masajito	Medical Center	15016	20.686722	-103.424666	Leon Tostoy 5287 (Victor hugo), Zapopan, Jalisco
@@ -752,7 +712,6 @@ The Glow Skin Clinic	Medical Center	15016	20.687115	-103.424306	Naciones unidas 
 Lachupicuevatrankis	Assisted Living Service	15004	20.68945	-103.423747	Zapopan, Jalisco
 Soul and Health	Alternative Medicine Clinic	15003	20.686434	-103.424565	Leon tolstoi 5287 (Victor hugo), 45110 Zapopan, Jalisco
 Super Vet Pet	Veterinarian	15054	20.687252	-103.423926	Naciones Unidas 5279, 45110 Zapopan, Jalisco
-Perea Garcia Lucia	Laboratory	11109	20.689467	-103.423097	Davenida Id H Lawrence 5315, 45110 Zapopan, Jalisco
 Dentista	Doctor's Office	15031	20.690722	-103.421741	Zapopan, Jalisco
 Bionobel	Nutritionist	15023	20.688357	-103.421188	Calle Ricardo Güiraldes, 45110 Zapopan, Jalisco
 Mind Help	Psychologist	15020	20.697252	-103.422273	Eva Briseño 702 (Santa Fe), 45168 Zapopan, Jalisco
@@ -777,7 +736,6 @@ Unidad Médica de Especialidades Girasoles	Doctor's Office	15031	20.742353	-103.
 Centro Veterinario Bourgelat	Veterinarian	15054	20.741278	-103.425411	Avenida Acueducto 1641B, 45138 Zapopan, Jalisco
 Ortho - Care	Dentist	15007	20.744724	-103.425136	45138 Zapopan, Jalisco
 Centro dental de especialidades	Health and Medicine	15000	20.744824	-103.425059	Calzada Federalistas 1542, Zapopan, Jalisco
-Policlinik	Spa	11073	20.745089	-103.427881	45138 Zapopan, Jalisco
 Proclinik	Doctor's Office	15031	20.745237	-103.42788	Avenida del Valle, Zapopan, Jalisco
 Sanus Clínica Nutricional	Doctor's Office	15031	20.745335	-103.427862	Avenida del valle 1864, 45138 Zapopan, Jalisco
 Centro Veterinario del Valle	Medical Center	15016	20.741188	-103.428925	Avenida Valle de Atemajac 2025, 45138 Zapopan, Jalisco
@@ -818,13 +776,11 @@ Farmacia San Gabriel	Doctor's Office	15031	20.618957	-103.413294	Avenida Sierra 
 Con Paciente Particula	Doctor's Office	15031	20.621651	-103.417386	Zapopan, Jalisco
 Cuicui	Assisted Living Service	15004	20.623044	-103.417701	Zapopan, Jalisco
 Hemur	Medical Center	15016	20.622814	-103.419602	Ninos heroes 108, 39690 Zapopan, Jalisco
-Saldamando Masaje	Health and Beauty Service	11061	20.624935	-103.41855	Valle de Atejamac 3384, 45080 Guadalajara, Jalisco
 Rehabilitarte Reabilitación Integral	Medical Center	15016	20.626097	-103.41898	Zapopan, Jalisco
 Salud Digna	Medical Lab	15017	20.627468	-103.418352	Zapopan, Jalisco
 Consultorio Dr. Francisco Meza	Doctor's Office	15031	20.626513	-103.415996	Zapopan, Jalisco
 "Centro de Atención al Adulto Mayor ""AiAM"""	Doctor's Office	15031	20.624367	-103.420161	Nonohalco 3485 (Av. López Mateos Sur), 45130 Zapopan, Jalisco
 La Loquera	Mental Health Clinic	15019	20.627154	-103.420225	45070 Zapopan, Jalisco
-Fresh Feet podólogos	Health and Beauty Service	11061	20.623884	-103.420463	Avenida del Pinar 3498B (López Mateos), Zapopan, Jalisco
 Psique	Doctor's Office	15031	20.622985	-103.419974	Zapopan, Jalisco
 Metaboli-k	Doctor's Office	15031	20.624811	-103.414704	Calle Atengo (Esq. Con Sierra De Mazamitla), Zapopan, Jalisco
 Dentista Liz Lascano	Dentist	15007	20.626706	-103.414941	Sierra Purificacion 1827 (Sierra Mazamitla), 45080 , Jalisco
@@ -890,7 +846,6 @@ Procura	Medical Center	15016	20.64173	-103.41842	Zapopan, Jalisco
 Physolutions - HighPro	Physical Therapy Clinic	15026	20.64163	-103.41915	Avenida Volcán Popocatépetl 4624, Zapopan, Jalisco
 Cidvid Servicios Médicos	Doctor's Office	15031	20.641207	-103.41757	C. Volcán Popocatépetl 4571 (C. Volcán Etna), 45070 Zapopan, Jalisco
 Farmagenex	Doctor's Office	15031	20.642328	-103.419998	Avenida Patria (Poppcatepetl), Zapopan, Jalisco
-Quiropractico	Massage Clinic	11070	20.644614	-103.414135	Octava Sur 5597, 45200 Zapopan, Jalisco
 Consultorio de Especialidades Médicas	Doctor's Office	15031	20.639591	-103.416966	3585 Pegaso (Casiopea), 45070 Zapopan, Jalisco
 Dental Estetic	Dentist	15007	20.641484	-103.413992	Avenida Mariano Otero 4297 (Estrella Polar), 45070 Zapopan, Jalisco
 Urologia Avanzada	Obstetrician Gynecologist (Ob-gyn)	15039	20.639991	-103.415436	Pegaso 3585, 45070 Guadalajara, Jalisco
@@ -942,7 +897,6 @@ Glow Nutrióloga	Medical Center	15016	20.658135	-103.416381	Zapopan, Jalisco
 Chavez Cardenas Minerva Dra	Healthcare Clinic	15011	20.656701	-103.413259	Tepeyac 1287, 45050 Guadalajara, Jalisco
 Life Palace Spa	Doctor's Office	15031	20.657481	-103.414219	Zapopan, Jalisco
 Ciudad Medica	Medical Center	15016	20.661879	-103.41642	San Miguel 435, Jalisco
-Mandala	Nursery School	12055	20.663261	-103.416997	Avenida Guadalupe 4745, 45047 Zapopan, Jalisco
 ONCOMEDICA - Dra. Citlalli López Arciga - Oncólogo e Internista certificado	Doctor's Office	15031	20.663301	-103.418184	Avenida Guadalupe 4560, 45050 Zapopan, Jalisco
 C’ Sano	Nutritionist	15023	20.663295	-103.41834	Avenida Guadalupe (Escultores), 45058 Zapopan, Jalisco
 Vital Médica Zapopan	Medical Center	15016	20.663326	-103.418228	Avenida Guadalupe 4560 (Escultores), 45030 Zapopan, Jalisco
@@ -959,7 +913,6 @@ Omnilab Análisis Clínicos	Medical Lab	15017	20.664593	-103.42001	J. Clouthier 
 PROVIDA Clínica de Fertilidad	Doctor's Office	15031	20.664741	-103.419848	Avenida Manuel Clouthier 669, 45040 Zapopan, Jalisco
 Dental Health Center	Dentist	15007	20.665027	-103.419496	Clouther 777, Zapopan, Jalisco
 NutriNova	Doctor's Office	15031	20.664297	-103.414449	Zapopan, Jalisco
-Beauté Belleza Médica	Spa	11073	20.665443	-103.417576	661 Calle San Luis Gonzaga, Zapopan, 45030 (Esq. San Luis Gonzaga), 45030 Guadalajara, Jalisco
 Jardines Hospital de Especialidades	Hospital	15014	20.664663	-103.42018	Avenida Manuel J Clouthier 669 (San Luis Gonzaga), 45030 Zapopan, Jalisco
 Orthocenter: Clínica de ortodoncia.	Dentist	15007	20.664394	-103.413921	Avenida Guadalupe, Zapopan, Jalisco
 Ruvalcaba Healt & Beauty Medical Spa	Doctor's Office	15031	20.658856	-103.413491	Tepeyac 447 (Prado De Los Laureles), 45047 Zapopan, Jalisco
@@ -973,7 +926,6 @@ Especialidades Medico Quirurgicas	Doctor's Office	15031	20.666104	-103.420231	Ma
 NS Fisioterapia Integral	Medical Center	15016	20.666145	-103.420076	Clouthier 596 Int 1, 45030 Zapopan, Jalisco
 Consultorio Dr Carlos Ureña	Doctor's Office	15031	20.666104	-103.420231	Zapopan, Jalisco
 Centro de Especialidades Medicas	Doctor's Office	15031	20.662487	-103.411934	Zapopan, Jalisco
-Hotel &	Spa	11073	20.658704	-103.412477	Prado de los Laureles 149, 45050 Guadalajara, Jalisco
 Consultorio Dr René Vieytez	Medical Center	15016	20.664393	-103.412422	45040 Zapopan, Jalisco
 Laboratorio Clinico Glio	Medical Lab	15017	20.671112	-103.417329	45020 Zapopan, Jalisco
 Clínica Sanyiao	Healthcare Clinic	15011	20.669611	-103.418134	Avenida Manuel J Clouthier 440 (San Juan Bosco y San Juan de Letrán), 45038 Zapopan, Jalisco
@@ -1021,7 +973,6 @@ Terapia Biomagnetismo	Doctor's Office	15031	20.685016	-103.418078	Zapopan, Jalis
 Macias Magdaleno Jorge Dr	Pediatrician	15045	20.68507	-103.419904	Lomas Altas 4980, 45120 Zapopan, Jalisco
 Therappy	Mental Health Clinic	15019	20.674337	-103.413388	Avenida Santa Teresa de Jesús 130, 45040 Zapopan, Jalisco
 Dr. Salvador Jimenez	Dentist	15007	20.686051	-103.417344	Zapopan, Jalisco
-Arv	Construction	11028	20.672897	-103.417613	Domenico Scarlatti 4812, Zapopan, Jalisco
 Sanyiao	Alternative Medicine Clinic	15003	20.677127	-103.417064	A las Colinas 107 (Av. Lazaro Cardenas Y A Las Praderas), 45020 Zapopan, Jalisco
 Agraz Encarnacion Rigoberto	Dentist	15007	20.681561	-103.41256	Acuario 4215, Jalisco
 Corpo Bello	Healthcare Clinic	15011	20.686023	-103.415727	Avenida Enida Naciones Unidas 4622, 45119 Guadalajara, Jalisco
@@ -1079,14 +1030,12 @@ Dr. Hiram Tenorio M.	Doctor's Office	15031	20.708166	-103.41467	Avenida Empresar
 Hospital Puerta de Hierro	Hospital	15014	20.70797	-103.414478	Avenida de los Empresarios 150, Zapopan, Jalisco
 Clínica de mama - BREAST	Medical Center	15016	20.70797	-103.414478	Avenida de los Empresarios 150, Zapopan, Jalisco
 Centro del Ritmo Cardiaco	Health and Medicine	15000	20.708444	-103.414797	Avenida Empresarios 150, 45116 Zapopan, Jalisco
-Instituto de Ciencias en Reproduccion Humana de Guad SC	Organization	12082	20.708444	-103.414797	Avenida Empresarios 150 10, Zapopan, Jalisco
 Luis Gonzalo Solís Fernández Dr.	Physician	15027	20.708444	-103.414797	Avenida Empresarios 150, 45116 Guadalajara, Jalisco
 Gastromedics Puerta de Hierro -Salud Digestiva Integral	Doctor's Office	15031	20.708225	-103.414689	150 Avenida Empresarios (Avenida Royal Country), 45116 Zapopan, Jalisco
 Centro de Retina Médica y Quirúrgica, S.C.	Health and Medicine	15000	20.708583	-103.414784	Boulevard Puerta de Hierro 5150-202 a, 45116 Zapopan, Jalisco
 Centro de Investigacion Cardiologica	Cardiologist	15029	20.708543	-103.414723	Avenida Empresarios 150 10, 45116 Guadalajara, Jalisco
 Neuroklinik	Doctor's Office	15031	20.708617	-103.414803	Zapopan, Jalisco
 Dr. Roberto Velázquez Salim	Doctor's Office	15031	20.708462	-103.414744	150 Avenida Empresarios, 45116 Zapopan, Jalisco
-Mivi Medical Spa	Nail Salon	11071	20.708417	-103.41482	Piso 17 consultorio 1703, Zapopan, Jalisco
 Ortiz Garcia Gabriel Virgilio	Orthopedic Surgeon	15043	20.708503	-103.414662	Avenida Empresarios 150 23, 44200 Guadalajara, Jalisco
 Piso 10 Cardioespecialistas CMPH	Doctor's Office	15031	20.708368	-103.414474	Zapopan, Jalisco
 Consultorio Doc. Lagunes Huerta	Doctor's Office	15031	20.708621	-103.414391	Avenida Empresarios, Zapopan, Jalisco
@@ -1106,7 +1055,6 @@ Ortomedica	Doctor's Office	15031	20.709228	-103.414525	Zapopan, Jalisco
 Cirugias de Nariz	Health and Medicine	15000	20.708888	-103.414253	Boulevard Puerta de Hierro. 5150, 45116 Zapopan, Jalisco
 Mediclar Lab Drive Thru	Medical Lab	15017	20.704124	-103.414441	Avenida Patria, 45116 Zapopan, Jalisco
 Dr. Pedro López Montes de Oca	Physician	15027	20.708937	-103.413971	Boulevard Puerta de Hierro 5150, 45116 Zapopan, Jalisco
-Enriquez de Rivera Campero Alejandro	Arts and Entertainment	10000	20.708878	-103.414106	Boulevard Puerta de Hierro 5150 408C, 45116 Guadalajara, Jalisco
 Centro de Ortopedia y Medicina del Deporte	Doctor's Office	15031	20.70902	-103.414047	Boulevard Puerta de Hierro 5150 (av empresarios/ paseo de los virreyes), 45116 Zapopan, Jalisco
 Centro de Retina Medico y Quirurgica	Doctor's Office	15031	20.70836	-103.413769	Zapopan, Jalisco
 Unidad de Especialidades Ortopédicas	Hospital	15014	20.708835	-103.413978	Boulevard Puerta de Hierro, 45116 Zapopan, Jalisco
@@ -1119,7 +1067,6 @@ ObesityGuadalajara Dr. Alejandro Lopez Dra. Jacqueline Osuna	Physician	15027	20.
 Andrade Andrade Enrique Dr	Physician	15027	20.708937	-103.413971	Boulevard Puerta de Hierro 5150 405B, 45116 Guadalajara, Jalisco
 Neoplastic	Plastic Surgeon	15046	20.709217	-103.414397	Bvd. Puerto de Hierro 5150, Zapopan, Jalisco
 Clinica de la voz	Medical Center	15016	20.714112	-103.417383	Dr. Servín, Zapopan, Jalisco
-Facia & Co	Spa	11073	20.720328	-103.420813	Boulevard Puerta de Hierro 6984, Zapopan, Jalisco
 Instituto de Cirugia Robotica	Hospital	15014	20.709811	-103.413949	Empresarios, 150, Zapopan, Jalisco
 Derma Heilen	Doctor's Office	15031	20.70959	-103.414228	45116 Zapopan, Jalisco
 Consultorio Dr. Rigoberto de Anda	Doctor's Office	15031	20.713931	-103.41717	Centro Medico Puerta de Hierro 8O, Zapopan, Jalisco
@@ -1134,11 +1081,8 @@ Esbeltica	Doctor's Office	15031	20.730539	-103.415845	Patria 190A (Sebastian Bac
 Odontología Integral	Dentist	15007	20.72835	-103.411395	45140 Zapopan, Jalisco
 Laboratorio de Analisis Clincos Valera's	Medical Lab	15017	20.730567	-103.419602	Zapopan, Jalisco
 Cemam Zapopan	Doctor's Office	15031	20.724985	-103.410108	Privada Santa Esther s/n, Zapopan, Jalisco
-Enciso Gonzalez Arturo	Laboratory	11109	20.727612	-103.419174	Sta Esther 382, Guadalajara, Jalisco
 Ramirez Zavala Hector	Health and Medicine	15000	20.723422	-103.41156	A Santa Ana 878, 45236 Zapopan, Jalisco
-Internacional Prode	Chemicals and Gasses Manufacturer	11024	20.7307	-103.41697	Avenida Santa Margarita 2526, 45130 Zapopan, Jalisco
 Pelayo Jones Maximiliano Dr	Dentist	15007	20.728321	-103.411462	Sta. Esther 180B, 45140 Guadalajara, Jalisco
-Centro de Integracion Juvenil	Organization	12082	20.732391	-103.416633	Cerr Vicente Ambrosi s/n, Zapopan, Jalisco
 Consultorio Dental Dra. Martha Arroyo	Dentist	15007	20.734876	-103.415472	45130 Zapopan, Jalisco
 Columbus	Hospital	15014	20.734196	-103.419009	Zapopan, Jalisco
 Odontontolgia General Adultos y Niños	Dentist	15007	20.735501	-103.418658	Zapopan, Jalisco
@@ -1148,7 +1092,6 @@ R & R Dental Care	Dentist	15007	20.737463	-103.413676	Avenida del Ajonjolí 1151
 Peluditos	Veterinarian	15054	20.738706	-103.418336	Avenida Marina Vallarta 893, 45138 Guadalajara, Jalisco
 Veterinaria Alvet	Veterinarian	15054	20.73024	-103.41179	Avenida las Torres 2137B (Santa Martha), 45140 Zapopan, Jalisco
 Conaultorio Arcos	Medical Center	15016	20.736057	-103.410499	Zapopan, Jalisco
-Veterinaria Mundican	Animal Shelter	12002	20.740395	-103.416272	Zapopan, Jalisco
 Hospital Zoquipan	Hospital	15014	20.739987	-103.41951	Zapopan, Jalisco
 Constructora Astra de Occidente	Hospital	15014	20.737509	-103.418783	Santa Margarita 3709, 45136 Zapopan, Jalisco
 Velasco Sanchez Raul Gerardo Dr	General Surgeon	15035	20.744623	-103.416651	Avenida Angel Lea O 500, 45200 Guadalajara, Jalisco
@@ -1204,7 +1147,6 @@ Otorrinolaringologia Dra. Baruch Maribel	Doctor's Office	15031	20.625364	-103.41
 Clinicos San Nicolas	Doctor's Office	15031	20.624927	-103.413225	Avenida 18 de Marzo 1609, Jalisco
 Óptica Abarca	Ophthalmologist	15041	20.629999	-103.407435	Zapopan, Jalisco
 Farmacias Tapatias	Doctor's Office	15031	20.623817	-103.403297	Zapopan, Jalisco
-Veterinaria Guau~Miau	Pet Service	11133	20.621853	-103.403634	Avenida Tabachines 3779 (Río Pinavetes), 45220 Tlaquepaque, Jalisco
 Hospital Loma Bonita	Hospital	15014	20.625663	-103.402673	Avenida Tabachines 3661, 45608 Tlaquepaque, Jalisco
 Centro de Salud Loma Bonita Ejidal	Doctor's Office	15031	20.629229	-103.404715	45085 Zapopan, Jalisco
 Consultorio de Perla Avelar	Doctor's Office	15031	20.623112	-103.413419	Zapopan, Jalisco
@@ -1217,7 +1159,6 @@ Pets Buy	Veterinarian	15054	20.631243	-103.406883	Avenida Patria 3314 (Cruz Del 
 Centro Magnético - Clínica	Doctor's Office	15031	20.631496	-103.408085	Zapopan, Jalisco
 Consultorio Dental Estetic Dent	Dentist	15007	20.625982	-103.415078	Calle Isla Antigua 3173 (Rosario Castellanos), 44950 Guadalajara, Jalisco
 Ciudad de la Salud Metlife-HP	Medical Lab	15017	20.634452	-103.408148	Zapopan, Jalisco
-Daniela Rodriguez Femme Center	Spa	11073	20.63972	-103.406588	Avenida Conchitas 3124, 45060 Zapopan, Jalisco
 Hospital Marista	Doctor's Office	15031	20.634345	-103.406809	Zapopan, Jalisco
 Medicina Integral	Medical Lab	15017	20.63459	-103.405996	4 50. Loma Bonita.., 45086 Zapopan, Jalisco
 Medicina Integral	Medical Lab	15017	20.637178	-103.408914	Calle 3, 50, 45086 Zapopan, Jalisco
@@ -1248,15 +1189,11 @@ Vive Sano!	Medical Center	15016	20.632371	-103.413168	45640 Zapopan, Jalisco
 Insumos Veterinarios	Veterinarian	15054	20.632161	-103.413104	Orion 3396, 45070 Zapopan, Jalisco
 Procreserh	Psychologist	15020	20.63881	-103.40574	Avenida Conchita 3009, Zapopan, Jalisco
 De la Garza Gomez Ricardo	Dentist	15007	20.636262	-103.402462	Avenida Conchita 2807 2, Jalisco
-Fundación Hace AC	Non-Profit Organization	12086	20.634913	-103.414564	Cll Balanza 3702, 45070 Guadalajara, Jalisco
 Energytec de México	Health and Medicine	15000	20.643185	-103.408252	Avenida Lopez Mateos Sur 1290 4, 44510 Guadalajara, Jalisco
 Chopo Laboratorio	Medical Lab	15017	20.643431	-103.407839	Avenida López Mateos Sur 4205B, 45088 Zapopan, Jalisco
-Odonsis	Health and Beauty Service	11061	20.643829	-103.407994	Lopez Mateos Sur 3700, 45050 Zapopan, Jalisco
 Establo	Assisted Living Service	15004	20.643075	-103.407602	Zapopan, Jalisco
 Nutris	Doctor's Office	15031	20.643172	-103.406205	Zapopan, Jalisco
 Dr. Ruben Hernández Alemán - Ortodoncia exclusivamente	Dentist	15007	20.644883	-103.406685	Zapopan, Jalisco
-UNE Clinica de Odontologia	College Classroom	12022	20.64551	-103.406272	Torre Milenio, Zapopan, Jalisco
-Casa Hogar Cabañas	Organization	12082	20.645332	-103.404671	Zapopan, Jalisco
 Kiropraktiko	Medical Center	15016	20.639519	-103.406284	Zapopan, Jalisco
 Visuelle	Doctor's Office	15031	20.646215	-103.404194	Circón 3171, Zapopan, Jalisco
 Centro medico Quetzalcoatl (Centro Médico Quetzalcóatl)	Doctor's Office	15031	20.648923	-103.407294	Quetzalcóatl 3785 (Cuauhtémoc), 45050 Zapopan, Jalisco
@@ -1270,18 +1207,14 @@ Clinica Renace	Doctor's Office	15031	20.639106	-103.402957	Obsidiana 3639, 45086
 Reducing Clinic	Medical Center	15016	20.647879	-103.403122	Zapopan, Jalisco
 Dentalxray	Radiologist	15048	20.647526	-103.40821	Anahuac 294, 104, 45050 Zapopan, Jalisco
 Farmacias ABC	Health and Medicine	15000	20.643745	-103.401006	Avenida Lapizlazuli 3052, 45089 Guadalajara, Jalisco
-Meci	Spa	11073	20.65645	-103.404667	Zapopan, Jalisco
 Hospice Cristina	Hospital	15014	20.651996	-103.408025	45050 Zapopan, Jalisco
 Ramon Rodriguez Manuel	Medical Lab	15017	20.653281	-103.406602	Avenida Netzahualcoyotl 2159, Veracruz
 Dental ForU	Dentist	15007	20.654701	-103.406733	Netzahualcóyotl 410 (Xochitl), 45050 Zapopan, Jalisco
-Especialidades Médicas del Sol	Laboratory	11109	20.650753	-103.405687	Avenida Moctezuma 193, Zapopan, Jalisco
 Alexander Meza Jose Francisco Dr	Health and Medicine	15000	20.650852	-103.405612	Moctezuma 187, 45050 Zapopan, Jalisco
 Dr. Enrique Navarro	Dentist	15007	20.650757	-103.40566	Avenida Moctezuma 123, Guadalajara, Jalisco
 Unidad de Cancerologia	Hospital	15014	20.650812	-103.405551	Avenida Moctezuma 187, 45050 Zapopan, Jalisco
 Laboratorio de Ecosonografia y Desintometria Osea Zapopan	Medical Lab	15017	20.650905	-103.405441	Avenida Moctezuma 193, 45050 Guadalajara, Jalisco
-Vidavi	Senior Citizen Service	12096	20.650537	-103.410308	Avenida Moctezuma 317, Zapopan, Jalisco
 Sanefro	Hospital	15014	20.651015	-103.40517	Guadalajara, Jalisco
-DIA / Desarrollo Integración Autonomía	Adult Education	12010	20.650921	-103.404902	Avenida Moctezuma 71 (Mixcoatl), 45050 Zapopan, Jalisco
 Dermatologia	Doctor's Office	15031	20.655429	-103.405923	Tlahuac 83, 45050 Zapopan, Jalisco
 Casa de Descanso del Sol (Casa De Descanso Del Sol)	Assisted Living Service	15004	20.656112	-103.408653	Avenida Cuahutemoc 2013, 45050 Guadalajara, Jalisco
 Dental Plus	Dentist	15007	20.650762	-103.404209	Avenida Moctezuma 3515L, 45050 Guadalajara, Jalisco
@@ -1299,12 +1232,10 @@ American Orthodontics Mexico	Dentist	15007	20.648374	-103.402749	Avenida Mariano
 La Chispa	Alternative Medicine Clinic	15003	20.650968	-103.401066	Sol Poniente 38, Zapopan, Jalisco
 Sun Haven	Nursing Home	15022	20.658471	-103.405374	Tizoc 592, 45050 Zapopan, Jalisco
 Dentometric	Medical Lab	15017	20.648026	-103.402783	Zapopan, Jalisco
-Animal Center	Animal Shelter	12002	20.648434	-103.402228	8 Avenida Mariano Otero 1917, Zapopan, Jalisco
 Dento Metric	Dentist	15007	20.648074	-103.402519	Mariano Otero 1917, 45086 Zapopan, Jalisco
 Derma Zapopan	Health and Medicine	15000	20.650341	-103.402812	Adolfo López Mateos Sur 2375, 45050 Zapopan, Jalisco
 Residencia Otoño Dorado Ac	Nursing Home	15022	20.656331	-103.407293	Coliman 275, 45050 Guadalajara, Jalisco
 Distribuidora de Medicamentos Fama	Health and Medicine	15000	20.649088	-103.412719	Quetzalcoatl 385, 45050 Zapopan, Jalisco
-KCHorros Pets Fashion	Animal Shelter	12002	20.649809	-103.413814	Axayacatl 4396A, 45050 Zapopan, Jalisco
 Rivera Garcia Ricardo	Plastic Surgeon	15046	20.657845	-103.405436	Avenida Niño Obrero 996 20, 45530 Guadalajara, Jalisco
 Unidad de Servicios de Patologia	Healthcare Clinic	15011	20.666695	-103.409092	Avenida Niño Obrero 998, 44650 Guadalajara, Jalisco
 Neurokin	Chiropractor	15006	20.661207	-103.407944	Prolongación Tepeyac 4030 (Niño Obrero), Zapopan, Jalisco
@@ -1387,7 +1318,6 @@ Ney Arambul Manuel de Jesus	Health and Medicine	15000	20.679999	-103.405114	Aven
 clinica Saint Joahep	Hospital	15014	20.678339	-103.404955	Zapopan, Jalisco
 Clinica St. Joseph	Hospital	15014	20.67823	-103.404901	Abedules (Av. Mexico), 45120 Zapopan, Jalisco
 Kinreh	Physical Therapy Clinic	15026	20.681152	-103.40508	Avenida Abedules 460 (Jesus D. Rojas), 45120 Zapopan, Jalisco
-Psinergia Terapeutica	Coworking Space	11128	20.680165	-103.404579	Constituyentes Jalisciences 260 (Av México), 45120 Zapopan, Jalisco
 Unidad de Salud de Cámara de Comercio	Doctor's Office	15031	20.676099	-103.407964	Zapopan, Jalisco
 Natura Grupo Médico	Dentist	15007	20.682258	-103.405732	Avenida Abedules 539 (Manuel Acuña), Zapopan, Jalisco
 Natura Torre Médica	Doctor's Office	15031	20.682386	-103.40559	Zapopan, Jalisco
@@ -1401,7 +1331,6 @@ Dentista Plaza Bonita (Dentista)	Dentist	15007	20.679687	-103.403431	Avenida Mé
 Homeopatia Integral	Doctor's Office	15031	20.678322	-103.403466	Guadalajara, Jalisco
 Dr. Martín Sáenz Ortodoncia	Dentist	15007	20.682864	-103.405133	Avenida Abedules 580 (Avenida Manuel Acuña), 45120 Zapopan, Jalisco
 Holistic Life	Nutritionist	15023	20.675052	-103.407161	Avenida Vallarta 4043O, 45049 Zapopan, Jalisco
-Globe médica	Campaign Office	11022	20.682577	-103.40408	Albino Aranda (Teatro De La República), 45120 Zapopan, Jalisco
 MédicaVitare	Medical Center	15016	20.679346	-103.402701	Avenida México 3370, 44670 Guadalajara, Jalisco
 Clinica de Alergia Asma e Imnunologia	Doctor's Office	15031	20.678448	-103.402871	Guadalajara, Jalisco
 Núcleo Yeux	Ophthalmologist	15041	20.6786	-103.4027	44670 Guadalajara, Jalisco
@@ -1419,7 +1348,6 @@ Robles Gil Jose Maria Dr.	Dentist	15007	20.682327	-103.405725	Avenida Abedules, 
 Ópticas Devlyn	Ophthalmologist	15041	20.673589	-103.404714	Avenida Vallarta 3959, 44730 Guadalajara, Jalisco
 Hospicie Lomas Altas	Assisted Living Service	15004	20.687192	-103.406927	Calle Lomas Altas 129, Zapopan, Jalisco
 Asilo de Sacerdotes	Health and Medicine	15000	20.68798	-103.4097	Zapopan, Jalisco
-Biostyle	Health and Beauty Service	11061	20.69047	-103.40887	Montreal, Zapopan, Jalisco
 Servicios Medicos Franco y Asociados Sc	Dermatologist	15030	20.68627	-103.409969	Pse Brisas 4021, 45128 Guadalajara, Jalisco
 RR Capilar	Doctor's Office	15031	20.691996	-103.409949	Avenida Pablo Neruda 4150 (Entre Paseo Jacarandas y Paseo Bugambilias), 45110 Zapopan, Jalisco
 Pablo Neruda Hospital	Hospital	15014	20.69192	-103.410735	Pablo Neruda 4150, 45110 Zapopan, Jalisco
@@ -1455,7 +1383,6 @@ Novapel & Co	Plastic Surgeon	15046	20.709156	-103.414079	Boulevard Puerta de Hie
 Novapel	Plastic Surgeon	15046	20.707607	-103.412288	Puerta de Hierro 310, 45110 Guadalajara, Jalisco
 Centro Medico Puerta de Hierro	Healthcare Clinic	15011	20.712643	-103.407372	Boulevard Puerta de Hierro 5150, 45116 Guadalajara, Jalisco
 Mora Gonzalez Fernando Dr	Optometrist	15024	20.708878	-103.414106	Boulevard Puerta de Hierro 5150 302A, 45116 Guadalajara, Jalisco
-Gomez Mendoza Carlos Dr	Arts and Entertainment	10000	20.708948	-103.414099	Puerta de Hierro 5150 307B, 44690 Guadalajara, Jalisco
 Gastro Cirujano Dr. Jaime Hernández	Health and Medicine	15000	20.709226	-103.414072	Boulevard Puerta de Hierro 5150, 45116 Zapopan, Jalisco
 Records Dental Room	Dentist	15007	20.712235	-103.409945	Real de Acueducto 405A (Real de Acueducto 405 A, Real Acueducto, 45116), 44100 Guadalajara, Jalisco
 Varices Center	Doctor's Office	15031	20.716729	-103.400492	Avenida Terranova 676, 44630 Guadalajara, Jalisco
@@ -1541,7 +1468,6 @@ Clínica Dental la Zapopana	Dentist	15007	20.623428	-103.394669	Jaime Torres Bod
 Consultorio 10 TV	Doctor's Office	15031	20.6234	-103.393052	
 dispensario Medico la medalla milagrosa	Doctor's Office	15031	20.622638	-103.393581	Isla Sanzibar, Tlaquepaque, Jalisco
 Loma Bonita Hospital	Hospital	15014	20.625726	-103.401306	3661 s/n, 45085 Zapopan, Jalisco
-Club Social Sn Martin de Bolaños Jal	Country Club	10011	20.623739	-103.402328	21 de Marzo 3, Jalisco
 Farmagenex	Doctor's Office	15031	20.634102	-103.399632	Plaza Conchitas Avenida Conchitas, Tlaquepaque, Jalisco
 Uribe Avin Enrique	Alternative Medicine Clinic	15003	20.634067	-103.39964	Avenida Conchita 4629 8A, 45607 Guadalajara, Jalisco
 Denteam - Clínica Dental	Dentist	15007	20.633764	-103.399593	Avenida Conchita 4629, 45067 Tlaquepaque, Jalisco
@@ -1566,14 +1492,12 @@ Corbp	Emergency Room	15010	20.636017	-103.393093	Guadalajara, Jalisco
 Qi-Gong	Chiropractor	15006	20.632974	-103.404667	José María Morelos 3401 (Lázaro Cárdenas), Zapopan, Jalisco
 Farmacia Homeopatica Häsler	Doctor's Office	15031	20.633824	-103.392467	
 Ema	Acupuncture Clinic	15001	20.630138	-103.393613	
-Psicoanálisis	Coworking Space	11128	20.64003	-103.400986	Zapopan, Jalisco
 Laboratorio Belen de jesus	Medical Lab	15017	20.634692	-103.391866	Isla Gomera (Isla Raza), Guadalajara, Jalisco
 Centro Analitico Veterinario	Veterinarian	15054	20.637226	-103.392455	Avenida Isla Pantenaria 2516, Jalisco
 Consultorio Médico la Salud	Doctor's Office	15031	20.640826	-103.39871	Zapopan, Jalisco
 "Veterinaria ""villa canina"""	Veterinarian	15054	20.637186	-103.392394	Calle Isla Pantenaría 2516 (Isla Gomera), 44950 Guadalajara, Jalisco
 Master Nutrition	Doctor's Office	15031	20.640171	-103.395466	Riada 3132-2 (Barra Y Bahía), 44550 Zapopan, Jalisco
 Moises Vallejo	Health and Medicine	15000	20.633375	-103.399315	Plata 4589, 45085 Zapopan, Jalisco
-Clinica Dental de Especialidades	Health and Beauty Service	11061	20.636366	-103.397334	Guadalajara, Jalisco
 Rosales Contreras Roberto Salvador	Dentist	15007	20.635996	-103.402031	Avenida Conchita 2719, Jalisco
 Veterinaria del Sol	Veterinarian	15054	20.636485	-103.403476	Cll Giralda 84, 45086 Guadalajara, Jalisco
 Dr Pet	Veterinarian	15054	20.642086	-103.398765	Lapizlazuli 2949 (Topacio), 45089 Zapopan, Jalisco
@@ -1592,7 +1516,6 @@ Nutrición y Control de Peso	Doctor's Office	15031	20.641573	-103.397594	Zapopan
 Vw's Plastic Surgery	Hospital	15014	20.642997	-103.400432	Zapopan, Jalisco
 Lend Spa	Dentist	15007	20.64261	-103.400406	Zapopan, Jalisco
 Laboratorios Homeopaticos Gliser	Medical Lab	15017	20.643244	-103.400537	Avenida Hgo 2155, 45089 Guadalajara, Jalisco
-Alas de america	Student Center	12047	20.645189	-103.397688	64000 , Nuevo León
 Leend	Dentist	15007	20.64277	-103.400649	Avenida Obsidiana 2783 (Lapislázuli), 45089 Zapopan, Jalisco
 Mediclab	Medical Lab	15017	20.644925	-103.400435	Zapopan, Jalisco
 Lab For Vets	Veterinarian	15054	20.641928	-103.401057	Avenida Obsidiana 2985, 45088 Zapopan, Jalisco
@@ -1603,15 +1526,12 @@ Doctor Ramon	Doctor's Office	15031	20.645406	-103.395205	Topacio 2852 (Lapizlazu
 Clinica Dental San Carlos	Dentist	15007	20.64194	-103.394368	Avenida Lapizlazuli 2713, 44580 Guadalajara, Jalisco
 Fisioterapia y Rehabilitacion Carlo	Physical Therapy Clinic	15026	20.640632	-103.395146	Riada 3134, 44580 Guadalajara, Jalisco
 Clinica Medica de Acupuntura	Doctor's Office	15031	20.647711	-103.399381	Obsidiana 2448 (Mariano Otero), Guadalajara, Jalisco
-Argo Farma	Agriculture and Forestry Service	11002	20.647408	-103.400383	Avenida Obsidiana 2489, 45089 Zapopan, Jalisco
 Centro Psicoterapéutico Guadalajara	Mental Health Clinic	15019	20.64762	-103.400936	Avenida Obsidiana 2442 (Turquesa), 45089 Guadalajara, Jalisco
 Sanyiao	Medical Center	15016	20.647574	-103.400861	Obsidiana 2756 (Onix y Gema), 44560 Zapopan, Jalisco
 Psicologos en Guadalajara	Mental Health Clinic	15019	20.647624	-103.400982	Avenida Obsidiana 2442 (Turquesa), 45089 Zapopan, Jalisco
-Médica Cósmetica Clinica & Spa	Massage Clinic	11070	20.641538	-103.393296	Luis Pérez Verdia 586, 44600 Guadalajara, Jalisco
 Healthy Balance	Doctor's Office	15031	20.640868	-103.393712	Jalisco
 Drogueria homeopatica CAJEME	Alternative Medicine Clinic	15003	20.640356	-103.393813	
 EsbelTips Lapizlazuli	Doctor's Office	15031	20.641079	-103.392963	Arrecife 2612 (Península y Litoral), 44580 Guadalajara, Jalisco
-LVH SPA Relaxing & Health	Massage Clinic	11070	20.641101	-103.392935	Arrecife 2612 (Litoral), 44580 Guadalajara, Jalisco
 Dental Muñoz	Dentist	15007	20.640141	-103.393396	44580 Guadalajara, Jalisco
 Dental Group	Dentist	15007	20.648034	-103.402458	Avenida mariano Otero 1917, 45089 Guadalajara, Jalisco
 C.D Alberto Codina	Dentist	15007	20.648326	-103.402035	Mariano Otero 1917, 44560 Guadalajara, Jalisco
@@ -1624,7 +1544,6 @@ Cano Garcia Alejandro Dr	Dentist	15007	20.652407	-103.400663	Plaza del Sol 25 47
 UCIM Diabetes Care center	Doctor's Office	15031	20.651038	-103.396233	44535 Guadalajara, Jalisco
 UC Unidad de cancerologia	Doctor's Office	15031	20.650192	-103.399954	Zapopán, Jalisco
 Calpini	Ophthalmologist	15041	20.650303	-103.401067	Plaza del Sol Lado Mariano Otero, Guadalajara, Jalisco
-Danatal	Student Center	12047	20.649383	-103.395846	Granate 2547, 44560 Zapopan, Jalisco
 Fundacion David Gutierrez Carbajal	Nursing Home	15022	20.651486	-103.393305	Avenida Topacio 2419, 44540 Guadalajara, Jalisco
 Dr roberto manzano	Hospital	15014	20.656025	-103.395474	Jalisco
 Clinica del Rehabilitacion el Tajo	Healthcare Clinic	15011	20.656891	-103.399376	Avenida Lopez Mateos 1724, Guadalajara, Jalisco
@@ -1638,9 +1557,7 @@ Mi Dulce Estancia AC	Assisted Living Service	15004	20.65121	-103.39328	Avenida T
 Centro de Atencion Sanofi Aventis Guadalajara	Medical Center	15016	20.656989	-103.396712	Guadalajara, Jalisco
 Visuelle - Cirugía Ocular	Doctor's Office	15031	20.657403	-103.398353	Plaza del Ángel local 17 (Av. Cubilete), Zapopan, Jalisco
 Dr Guillermo Hernandez Espinoza	Dentist	15007	20.657308	-103.399334	Cubilete 13, 45055 Zapopan, Jalisco
-Colegio de Acupuntura en Guadalajara	Education	12009	20.647478	-103.400376	Avenida Obsidiana 1609, Zapopan, Jalisco
 Clinica Sanyiao, Suc. Obsidiana	Doctor's Office	15031	20.647341	-103.400843	Obsidiana 2756B (Mariano Otero y Lapislázuli), Zapopan, Jalisco
-Esportiva Clínica de Rehabilitación	Rehabilitation Center	12093	20.655025	-103.39274	Calle Horizonte 1357, Guadalajara, Jalisco
 Saludiet	Doctor's Office	15031	20.657903	-103.401118	Avenida Cubilete 107, Zapopan, Jalisco
 Opticas Lux	Ophthalmologist	15041	20.657795	-103.401424	Avenida López Mateos Sur 2375, 45049 Guadalajara, Jalisco
 Laboratorio Dilabim	Medical Lab	15017	20.655145	-103.392531	Horizonte, Guadalajara, Jalisco
@@ -1668,7 +1585,6 @@ Odontologia	Dentist	15007	20.66305	-103.40303	Zapopan, Jalisco
 Infectio	Doctor's Office	15031	20.664496	-103.394279	Lopez mateos 1298, 45030 Zapopan, Jalisco
 Pediatricos	Health and Medicine	15000	20.666067	-103.398464	Avenida Guadalupe 605, Guadalajara, Jalisco
 Nuñez Nuñez Maria Enriqueta Dra	Pediatrician	15045	20.666305	-103.398375	Avenida Guadalupe 605, 45040 Guadalajara, Jalisco
-Nutriloga Cynthia Molina	Health and Beauty Service	11061	20.66631	-103.39737	Zona Chapalita, Guadalajara, Jalisco
 Consultorio Dr. Antonio Monroy	Doctor's Office	15031	20.666518	-103.398422	Avenida Guadalupe 614, Guadalajara, Jalisco
 Dr. Braulio Orozco	Doctor's Office	15031	20.662879	-103.392887	3173 Calle Purísima, 44500 Guadalajara, Jalisco
 Unidad de Ginecologia y Obstetricia	Obstetrician Gynecologist (Ob-gyn)	15039	20.666171	-103.401434	Guadalupe 865, 45040 Guadalajara, Jalisco
@@ -1731,7 +1647,6 @@ Somei Clinica del Sueño	Mental Health Service	15018	20.681362	-103.397397	Lacan
 Dr. Tomás Gómez	Doctor's Office	15031	20.681228	-103.396915	Tarascos 3384A, 44670 Guadalajara, Jalisco
 Clinica de Especialidades	Doctor's Office	15031	20.681558	-103.397742	
 Acupuntura Guadajalajara	Acupuncture Clinic	15001	20.681539	-103.397468	Lacandones 318-3 (Tarascos), 44670 Guadalajara, Jalisco
-Acosta Cazares Elizabeth	Computer Repair Service	11027	20.678426	-103.400475	Avenida Mexico 3370 11F, 44670 Guadalajara, Jalisco
 Nuvelé dermatologia	Health and Medicine	15000	20.681506	-103.39729	Guadalajara, Jalisco
 Dermatólogo Julio Greene	Doctor's Office	15031	20.680937	-103.39627	Monraz 3235 (Aztecas), 44670 Guadalajara, Jalisco
 Consultorio Médico Dra. Abril Rios Alatorre.	Doctor's Office	15031	20.681779	-103.397356	Lacandones 318 Consultorio 202A (Tarascos & Toltecas), 44670 Guadalajara, Jalisco
@@ -1742,7 +1657,6 @@ Neurofeedback Guadalajara	Mental Health Clinic	15019	20.681905	-103.396804	Calle
 Garibay Silver Ignacio Dr	Physician	15027	20.681093	-103.395415	Tarascos 3213, 44670 Guadalajara, Jalisco
 Cirugía Plástica con Sentido	Doctor's Office	15031	20.682463	-103.397158	Lacandones 318 (en Tarascos y Toltecas), 44670 Guadalajara, Jalisco
 Instituto Imer	Obstetrician Gynecologist (Ob-gyn)	15039	20.679161	-103.394505	3148 s/n, 44639 Guadalajara, Jalisco
-Centro de Referencia y Entrenamiento Internacional e Inmersión en Simulacion	Event Service	11038	20.68267	-103.396037	Avenida Aztecas 280 (Av. Mayas Y Toltecas), 44670 Guadalajara, Jalisco
 Fit & Co	Doctor's Office	15031	20.679993	-103.39402	Golfo de Cortez 4114, Guadalajara, Jalisco
 Vera Moncayo Hector	Dentist	15007	20.678148	-103.400503	Avenida Mexico 3370 (Teatro De La Republica), 45118 Guadalajara, Jalisco
 Meditek	Dentist	15007	20.677863	-103.393209	Guadalajara, Jalisco
@@ -1751,12 +1665,10 @@ Top dental mx	Maternity Clinic	15015	20.684856	-103.395016	Manuel Acuña 3184 (a
 Laboratorio Medico del Chopo	Medical Lab	15017	20.681134	-103.391652	Ludwig Van Beethoven 5502, 45030 Guadalajara, Jalisco
 ProSport&Health	Medical Center	15016	20.688001	-103.395895	Eulogio Parra 3200, 45050 Guadalajara, Jalisco
 Chichimecas 745	Assisted Living Service	15004	20.689601	-103.39772	44670 Guadalajara, Jalisco
-Nordin	Chemicals and Gasses Manufacturer	11024	20.690243	-103.400162	Lomas Altas 292, 45129 Guadalajara, Jalisco
 Animals Medicos Veterinarios	Veterinarian	15054	20.691039	-103.397472	Aztecas 1165, 44670 Guadalajara, Jalisco
 Cedemi	Doctor's Office	15031	20.691973	-103.397655	Paseo del Prado (circuito madrigal), 44630 Guadalajara, Jalisco
 Nucleo Medico Yaquis	Doctor's Office	15031	20.688559	-103.393133	
 Endocrinologia	Doctor's Office	15031	20.687808	-103.392827	Eulogio Parra, Guadalajara, Jalisco
-Instituto de Ciencias Biológicas	Medical School	12045	20.691801	-103.394804	Avenida Montevideo (esq. Av. Acueducto), 44330 Guadalajara, Jalisco
 Unidad Integral de Neurociencias	Doctor's Office	15031	20.687397	-103.39239	Eulogio Parra 3061, Guadalajara, Jalisco
 Dr Luis Blanco	Health and Medicine	15000	20.68701	-103.392364	Eulogio Parra 3061, Guadalajara, Jalisco
 Orthopedic	Doctor's Office	15031	20.688638	-103.392137	
@@ -1791,9 +1703,7 @@ Sanchez Rosales Adan	Veterinarian	15054	20.691069	-103.397404	Pse Aztecas 1165, 
 Platinum Dental	Dentist	15007	20.690985	-103.39729	44670 Guadalajara, Jalisco
 Torre Consultorios Angeles del Carmen	Doctor's Office	15031	20.69094	-103.397547	Jalisco
 Urgencias	Emergency Room	15010	20.69171	-103.394554	44670 Guadalajara, Jalisco
-Consultorio de Funes	Medical School	12045	20.692312	-103.393781	Jalisco
 Asociación de Hospitales Particulares de Jalisco A.C.	Hospital	15014	20.696948	-103.390922	Avenida Enida Pablo Neruda 3172, 44638 Guadalajara, Jalisco
-Laboratorio de Patologia	College Lab	12030	20.691592	-103.394825	06700 Ciudad de México, Ciudad de México
 Consultorios Montevideo	Doctor's Office	15031	20.695052	-103.391305	
 Dental Polanco	Dentist	15007	20.695316	-103.392381	Avenida Montevideo, 3246, 44630 Guadalajara, Jalisco
 Ramos Cabello Daniel Fernando	Dentist	15007	20.696715	-103.39788	Pse del Torreon 1735, 44660 Guadalajara, Jalisco
@@ -1801,10 +1711,8 @@ Animal's Spa	Veterinarian	15054	20.691456	-103.39743	Patria 3118 (Isla Gomera), 
 Ponce del Carmen Jose Alfredo	Medical Center	15016	20.695527	-103.392813	Tierra de Fuego 3287, 44630 Guadalajara, Jalisco
 Bariatric Surgeon	General Surgeon	15035	20.69623	-103.392419	Pablo Neruda 3265 68, 44638 Guadalajara, Jalisco
 Dr. Ricardo Quiñones Venegas	Dermatologist	15030	20.69626	-103.392352	Avenida Pablo Neruda 3265 5, 44630 Guadalajara, Jalisco
-Denise Machado	Tattoo Parlor	11075	20.696693	-103.391665	Torre Médica Providencia Avenida Pablo Neruda, 3265, 44630 Guadalajara, Jalisco
 Mr Active Medicina de Rehabilitacion	Physician	15027	20.695284	-103.391995	Avenida Montevideo 3350, 44630 Guadalajara, Jalisco
 Enfermeria | PSJ	Doctor's Office	15031	20.704952	-103.397904	Club Privado San Javier, Jalisco
-Psicóloga Arlette Vilorio. Centro de Especialidades en Psicologí­a Integral.	Machine Shop	11118	20.705659	-103.396278	Avenida Providencia 2574, 44630 Guadalajara, Jalisco
 Alatorre Arias Horacio	Medical Center	15016	20.716687	-103.399978	Cto Atlas Colomos 40, 45127 Zapopan, Jalisco
 Espinosa Arambula Salvador	Medical Center	15016	20.716687	-103.399978	Albino Aranda 3560, 45127 Zapopan, Jalisco
 Huma - Oxígeno y Equipo Médico	Physician	15027	20.716687	-103.399978	Maarina Cruz 5534-102, 45079 Zapopan, Jalisco
@@ -1824,7 +1732,6 @@ Hospital General de Zapopan	Hospital	15014	20.724676	-103.396137	Colón 289, 451
 Berudent	Dentist	15007	20.72418	-103.398196	Emiliano Carranza N 14 (Ramón Corona), 45100 Zapopan, Jalisco
 Centro Especializado de Medicina Alternativa Acupuntura	Acupuncture Clinic	15001	20.724386	-103.396952	Ramón Corona, Zapopan, Jalisco
 "urgencias adultos ""HGZ"""	Hospital	15014	20.72442	-103.396422	Colón 289 (Centro De Zapopan), 45100 Zapopan, Jalisco
-MS Más Salud	Laboratory	11109	20.724094	-103.396298	Calle Ramón Corona 575, 45100 Zapopan, Jalisco
 Urgencias Hospital General de Zapopan	Hospital	15014	20.723284	-103.396834	Zapopan, Jalisco
 Hospitalito	Hospital	15014	20.724856	-103.396184	Zapopan, Jalisco
 Laboratorio de Análisis Clínicos Dare	Medical Lab	15017	20.725321	-103.395878	Zapopan, Jalisco
@@ -1860,8 +1767,6 @@ Botica Nueva	Health and Medicine	15000	20.723122	-103.3913	Eva Briseño 17, 4510
 Precise Dental Internacional	Dentist	15007	20.736777	-103.399666	Eugenio Cuzin 925, 45150 Zapopan, Jalisco
 Consultorio de Nutricion	Doctor's Office	15031	20.731074	-103.394615	Del Corral 513, Zapopan, Jalisco
 Agroveterinaria San Gabriel	Veterinarian	15054	20.732363	-103.39319	45236 Zapopan, Jalisco
-Nattura Labs	Hair Salon	11064	20.7382	-103.396089	Luis Enrique Williams 609 (Av. Pedro Martínez Rivas), 45145 Zapopan, Jalisco
-Trouw Nutrition Mexico	Agriculture and Forestry Service	11002	20.73802	-103.399867	Luis Enrique Williams 792, 45150 Zapopan, Jalisco
 Salmeron Ruiz Leonardo Dr.	Physician	15027	20.731813	-103.392575	Pino suarez 771 s/n, 45190 Zapopan, Jalisco
 Diente Sano	Dentist	15007	20.738678	-103.401102	Gran Terraza Belenes Local 40 (Av. Laureles 1300. Col. Parque Industrial Belenes), 45130 Zapopan, Jalisco
 Esbeltica	Health and Medicine	15000	20.733803	-103.39121	Pino Suárez, Guadalajara, Jalisco
@@ -1881,7 +1786,6 @@ Consultori Valdepeñas	Physician	15027	20.746746	-103.398156	Avenida Valdepeñas
 Hospital la beata margarita	Hospital	15014	20.74739	-103.399583	Zapopan, Jalisco
 Unidad del Angel	Dentist	15007	20.748079	-103.397692	Zapopan, Jalisco
 Enfermeras Siglo Xxi	Nurse	15021	20.748294	-103.395668	Talavera 2700, 45130 Zapopan, Jalisco
-Clínicas Razo	Post Office	12075	20.74914	-103.397853	Avenida Valdepeñas 2712, Zapopan, Jalisco
 Farmacia Arcos	Doctor's Office	15031	20.750223	-103.397811	45130 Zapopan, Jalisco
 Clinik de Especialidades Odontologicas	Dentist	15007	20.751173	-103.399322	Zapopan, Jalisco
 Pediatria Valdepeñas	Doctor's Office	15031	20.751145	-103.399354	Zapopan, Jalisco
@@ -1912,7 +1816,6 @@ Centro de Salud Nueva España	Doctor's Office	15031	20.614532	-103.39065	Axayaca
 Tendino Muscular	Chiropractor	15006	20.615226	-103.386136	Avenida Tepeyac 27 y 28 (Misión San Francisco Y Misión San Fernando), 45053 Guadalajara, Jalisco
 Hospital Veterinario la Granja	Veterinarian	15054	20.617062	-103.385003	Laurel de la India 4443, 44980 Guadalajara, Jalisco
 Clínica dental	Dentist	15007	20.620131	-103.389218	
-Crit Centro de Rehabilitación Integral Teletón	Rehabilitation Center	12093	20.614267	-103.385185	Clle Copal 4575, Guadalajara, Jalisco
 Centro de salud arboledas del sur	Medical Center	15016	20.617778	-103.385191	Jalisco
 DHC odontologia	Dentist	15007	20.622094	-103.386122	Jalisco
 Animal's Spa	Medical Center	15016	20.625043	-103.386259	
@@ -1936,7 +1839,6 @@ Odonto Clinik	Dentist	15007	20.632492	-103.387349	Isla antigua (Isla Salomon), G
 Laboratorios Belen	Medical Lab	15017	20.632888	-103.391267	Isla Gomera 1733, Guadalajara, Jalisco
 Clinica Veterinaria Animal World	Physician	15027	20.633361	-103.386362	Isla Raza 2229, 44950 Guadalajara, Jalisco
 Clinica Dental MoraT	Dentist	15007	20.633577	-103.386084	Isla Raza 2198, 44950 Guadalajara, Jalisco
-Terapia psicologica	Office Building	11130	20.632288	-103.386017	Guadalajara, Jalisco
 Sistema de Mant y Almacenaje en Movimiento	Dentist	15007	20.632808	-103.385186	Isla Guadalupe 3231, 44987 Guadalajara, Jalisco
 KinesioCenter	Medical Center	15016	20.63832	-103.388719	Avenida Rosario Castellanos 2379, Jalisco
 Farmamedic	Doctor's Office	15031	20.637215	-103.386367	Estado de México
@@ -1958,7 +1860,6 @@ Centro de Nutrición y Control de Peso	Medical Center	15016	20.638306	-103.38353
 Ortiz Robledo Daniel Dr	Dentist	15007	20.639485	-103.391388	Avenida Cruz del Sur 3223, 44950 Guadalajara, Jalisco
 Trasformadores y Subestaciones Electricas	Health and Medicine	15000	20.638986	-103.385678	Isla Antigua 3084, 44950 Guadalajara, Jalisco
 Analisis y Recuperacion	Medical Lab	15017	20.64006	-103.391136	Avenida Cruz del Sur 3195A, Jalisco
-Vida y Nutricion	Insurance Agency	11107	20.640263	-103.391586	Faro 3051, Jalisco
 Valadez Buatista Carlos	Alternative Medicine Clinic	15003	20.640856	-103.389309	Avenida Lopez de Legazpi 2451, 44950 Guadalajara, Jalisco
 Hospital Veterinario Arboledas	Veterinarian	15054	20.643258	-103.386997	Cruz del Sur 2904 (Cruz del Sur y Paseo de la Arboleda), 44540 Guadalajara, Jalisco
 Quantum medical center	Doctor's Office	15031	20.642541	-103.388493	Avenida Tepeyac, Jalisco
@@ -1990,7 +1891,6 @@ Medical Exit	Doctor's Office	15031	20.645523	-103.383014
 Smile Clinic	Dentist	15007	20.649941	-103.386879	Barlovento 2417, 44530 Guadalajara, Jalisco
 Hospital Maria Auxiliadora	Hospital	15014	20.649348	-103.386909	Avenida Arboledas 2444, 44540 Guadalajara, Jalisco
 Laboratorio Clínico Sedi	Medical Lab	15017	20.649429	-103.386749	Avenida Arboledas 2444, 44500 Guadalajara, Jalisco
-Ocampo Rodriguez Martha	Agriculture and Forestry Service	11002	20.649525	-103.386503	Avenida Arboledas 2500A, Guadalajara, Jalisco
 Gomez Hernandez Guillermo	Dentist	15007	20.649228	-103.386727	Avenida Arboleda 2500E, 44530 Guadalajara, Jalisco
 Sanadi Clínica Dental	Dentist	15007	20.649662	-103.38612	
 Clínica Dental la Zapopana	Dentist	15007	20.64979	-103.385894	Avenida Paseo de la Arboleda 2500 (Nuez), 44530 Guadalajara, Jalisco
@@ -2037,7 +1937,6 @@ Dr Marcos Fabian Monzalvo Hernandez	Health and Medicine	15000	20.665615	-103.391
 Diagnóstico por Imagen Doctores Juan Antonio y Ricardo Bañuelos Acosta	Health and Medicine	15000	20.666292	-103.38801	Avenida Niños Héroes 2915, Guadalajara, Jalisco
 Axial Rehabilitacion	Doctor's Office	15031	20.665617	-103.385382	Guadalajara, Jalisco
 Traumatologa Dra Mariana Mojica	Doctor's Office	15031	20.665831	-103.391858	Nebulosa 3061 int 103 (Placeres), 44520 Guadalajara, Jalisco
-Consultorio de especialidades Dentales	Office Building	11130	20.666178	-103.390872	44520 Guadalajara, Jalisco
 Consultorio Dra. Itzel P. Pérez Villa	Doctor's Office	15031	20.661958	-103.382552	Rayo 2633 (Av Arcos y La Cauda), 44520 Guadalajara, Jalisco
 Consultorio Dra. Rosa Márquez	Doctor's Office	15031	20.666978	-103.390332	Jalisco
 Dispensario Vera-Cruz	Doctor's Office	15031	20.667516	-103.388406	
@@ -2050,7 +1949,6 @@ Medimarcas	Physician	15027	20.668137	-103.39126	Avenida López Mateos 595, 44520
 Fisioterapia	Doctor's Office	15031	20.668945	-103.390014	Guadalajara, Jalisco
 Rehab Time	Doctor's Office	15031	20.671886	-103.389917	
 Linea y Vida	Doctor's Office	15031	20.672435	-103.388286	López Mateos Sur 123, Guadalajara, Jalisco
-Linea y Vida	Office Building	11130	20.672591	-103.388427	Avenida Adolfo López Mateos Sur 127, 44130 Guadalajara, Jalisco
 Casa de enlace Enrique Aubry	Assisted Living Service	15004	20.67234	-103.387408	Avenida La Paz 2820 (joaquin arrieta), 44130 Guadalajara, Jalisco
 Organización Kaypacha	Alternative Medicine Clinic	15003	20.672799	-103.386965	Joaquín Arrieta 27, 44130 Guadalajara, Jalisco
 Generix	Doctor's Office	15031	20.67203	-103.385583	
@@ -2116,9 +2014,7 @@ Centro de Atencion Dermatologica	Doctor's Office	15031	20.68512	-103.387693	Manu
 "Edificio ""DR. JAVIER IBARRA FARAH"""	Doctor's Office	15031	20.685103	-103.386657	Avenida Manuel Acuña 2844, 44670 Guadalajara, Jalisco
 Medica Providencia	Pediatrician	15045	20.684591	-103.385541	Manuel Acuña 2755, 43630 Guadalajara, Jalisco
 Hospital Terranova	Hospital	15014	20.685015	-103.38686	Avenida Terranova 556 (Av. Manuel Acuña), 44670 Guadalajara, Jalisco
-Instituto Jaliscience de Metabolismo	Education	12009	20.684978	-103.385568	Manuel Acuña 2760 -202, 44670 Guadalajara, Jalisco
 H. T. sala de hemodinamia	Hospital	15014	20.685455	-103.386817	
-Casa Tibet México sede Guadalajara	Arts and Entertainment	10000	20.677905	-103.3818	Justo Sierra 2570, 44600 Guadalajara, Jalisco
 Oftalmologia y Retina Especializada	Doctor's Office	15031	20.685618	-103.386531	2822 Calle Domingo Sarmiento (Terranova), 44670 Guadalajara, Jalisco
 Farmacias Abc de Mexico	Health and Medicine	15000	20.681976	-103.385283	Ruben Dario 307, 44680 Guadalajara, Jalisco
 Torre Medica San Javier	Health and Medicine	15000	20.688026	-103.388958	Quebec 631 (José María Heredia), 44240 Guadalajara, Jalisco
@@ -2181,7 +2077,6 @@ Gastelum Shimizu Michael Jeffr Dr	Dentist	15007	20.698636	-103.382912	Bogota 276
 Centro Frances D'Endermologie	Medical Center	15016	20.698872	-103.38237	Rio de Janeiro 2729, Zapopan, Jalisco
 Vamasa	Dentist	15007	20.695265	-103.382405	Milan 2704 (Ruben dario y ontario), 44008 Guadalajara, Jalisco
 Ojologa	Doctor's Office	15031	20.691739	-103.386385	Jose Ma Vigil (Terranova), Guadalajara, Jalisco
-Magenta Educacion Perinatal	Repair Service	11157	20.702791	-103.385286	La Rioja 2983, 44660 Guadalajara, Jalisco
 Dr Heriberto Gutierrez Arambula	Doctor's Office	15031	20.6927	-103.383954	Ruben Dario 1208, 44648 Guadalajara, Jalisco
 Dra. Susana de la Rosa Hernández	Doctor's Office	15031	20.691315	-103.386223	Avenida Jose Maria Vigil 2929, 44647 Guadalajara, Jalisco
 Dr. Salvador Hernández Higareda	Physician	15027	20.691318	-103.386224	Avenida Jose Maria Vigil 2929, 44670 Guadalajara, Jalisco
@@ -2200,7 +2095,6 @@ Camas de Bronceado Nice Tan	Healthcare Clinic	15011	20.701919	-103.383623	Ruben 
 Lderme	Medical Center	15016	20.701798	-103.38344	Jalisco
 Clinica de Mioterapia Paravertebral	Hospital	15014	20.712413	-103.385949	Avenida Americas 334, Zapopan, Jalisco
 Antesala del Juicio Final	Mental Health Clinic	15019	20.702767	-103.382339	
-Integra-T	Trade School	12063	20.702687	-103.382315	2655 Avenida Montevideo, Guadalajara, 44630, Guadalajara, Jalisco
 Dr Christian Ramos - Cirujano Plástico	Doctor's Office	15031	20.702744	-103.382278	Montevideo 2655 (esq. Ontario), 44630 Guadalajara, Jalisco
 Vazquez Villegas Vicente	Medical Center	15016	20.702918	-103.38469	Ruben Dario 1754, 44630 Guadalajara, Jalisco
 Mora Esquivias René Crisanto Dr.	Plastic Surgeon	15046	20.700303	-103.388255	Lapislázuli 3050, 44560 Guadalajara, Jalisco
@@ -2208,7 +2102,6 @@ Centro Oftalmológico San Pablo	Ophthalmologist	15041	20.713615	-103.383949	Aven
 Hospital Regional Dr. Valentín Gómez Farías - ISSSTE	Hospital	15014	20.718831	-103.387708	Avenida Soledad Orozco 203 (Javier Mina), 45100 Zapopan, Jalisco
 Centro Oftalmologico de Guad C	Health and Medicine	15000	20.714852	-103.387626	Avenida Americas 1200, 45160 Guadalajara, Jalisco
 Quirutex	Dermatologist	15030	20.716878	-103.38868	Americas 580 (Mixton), 45160 Zapopan, Jalisco
-Vifac	Office	11124	20.714736	-103.389477	Altamira 253, 45160 Zapopan, Jalisco
 San Center	Dentist	15007	20.7143	-103.386026	Zapopan, Jalisco
 GineMed	Doctor's Office	15031	20.715973	-103.385702	Avenida Avila Camacho 291 (Sta Martha), Zapopan, Jalisco
 terapia gestal Doc.Ruben Mendoza	Alternative Medicine Clinic	15003	20.713822	-103.39039	Zapopan, Jalisco
@@ -2246,7 +2139,6 @@ Clínica Dental de Bari	Dentist	15007	20.719609	-103.38439	Avenida Aurelio Orteg
 Doctor George: podólogos profesionales	Doctor's Office	15031	20.721386	-103.388102	Zapopan, Jalisco
 Salud Digna	Medical Lab	15017	20.721408	-103.388359	45150 Zapopan, Jalisco
 ReVive	Chiropractor	15006	20.717019	-103.381966	Ávila Camacho 3340, Zapopan, Jalisco
-Nutrióloga y Homeópata Elizabeth Gómez Maciel	Office	11124	20.717223	-103.382229	Avenida Manuel Avila Camacho 3340L (Labaro Patrio), 45160 Zapopan, Jalisco
 Quirófanos HRVGF ISSSTE	Medical Center	15016	20.71196	-103.38281	Zapopan, Jalisco
 Urgencias Unidad de Medicina Familiar No. 53 IMSS	Hospital	15014	20.721413	-103.38649	Zapopan, Jalisco
 Neurocirugia y Mapeos Cerebrales	Doctor's Office	15031	20.717231	-103.381904	Zapopan, Jalisco
@@ -2262,7 +2154,6 @@ Dental G	Dentist	15007	20.721896	-103.389247	Zapopan, Jalisco
 Chopo	Medical Lab	15017	20.721578	-103.388731	Hidalgo 265, 45100 Zapopan, Jalisco
 Centro Comunitario de Salud Mental #1	Hospital	15014	20.721689	-103.3871	Zapopan, Jalisco
 Pediatra	Doctor's Office	15031	20.724292	-103.38509	Zapopan, Jalisco
-Distribuidora Quimica y Hospitalaria Gap	Petroleum Supplier	11136	20.723565	-103.384774	Calle Prolongacion Pino Suarez 1039 5, 45100 Zapopan, Jalisco
 Consultorio Nutricion	Doctor's Office	15031	20.727002	-103.390331	Zapopan, Jalisco
 Odontopediatria	Dentist	15007	20.728802	-103.38879	94580 Zapopan, Jalisco
 Unidad de Salud Animal	Veterinarian	15054	20.727972	-103.383817	Terraceria s/n (Av. De los Laureles 380), Zapopan, Jalisco
@@ -2288,8 +2179,6 @@ CEPOS San isidro	Medical Center	15016	20.741787	-103.384754	Zapopan, Jalisco
 Oculus Technologies Of Mexico	Health and Medicine	15000	20.746229	-103.390168	Industria Vidriera 81, 45130 Zapopan, Jalisco
 ODONTAL - Estética y Salud Dental	Dentist	15007	20.747003	-103.385616	Boulevard Bosque de San Isidro 780 (La Grana), 45132 Zapopan, Jalisco
 Odontal	Dentist	15007	20.747104	-103.385419	Avenida Bosques de San Isidro 780 (La Grana), 45132 Zapopan, Jalisco
-Dental	Computer Repair Service	11027	20.74237	-103.389495	Calle Industria del Plástico 2113, 45130 Zapopan, Jalisco
-Manufacturera Dental Continental	Chemicals and Gasses Manufacturer	11024	20.742203	-103.389496	Industria del Plastico 2113, Guadalajara, Jalisco
 Terrafauna	Veterinarian	15054	20.741871	-103.385351	Periferico Norte 221 s/n, 45184 Zapopan, Jalisco
 Especies mundus	Veterinarian	15054	20.753305	-103.384601	Rio Blanco 1307, Zapopan, Jalisco
 Laboratorio Valher	Medical Lab	15017	20.753503	-103.383958	45187 Zapopan, Jalisco
@@ -2312,7 +2201,6 @@ Centro de Salud Francisco I. Madero	Doctor's Office	15031	20.602619	-103.375499	
 Uribe Brambila Ana Sindy	Dentist	15007	20.610212	-103.377978	Tepeyac 266, Guadalajara, Jalisco
 Laboratorios Tornel	Hospital	15014	20.617681	-103.37976	Avenida Enida Lazaro Cardenas 2305, Guadalajara, Jalisco
 Farmacia Reyna	Health and Medicine	15000	20.614243	-103.377577	Hidalgo 48, 45500 Guadalajara, Jalisco
-Laaif Gomco	Laboratory	11109	20.618737	-103.380238	Miguel Orozco Camacho 4373, 44950 Guadalajara, Jalisco
 Unidad Médica Guadalupe	Hospital	15014	20.619854	-103.377213	Jesús Reyes Heroles, 44986 Guadalajara, Jalisco
 Veterinaria Animalópolis	Veterinarian	15054	20.618372	-103.374964	Avenida Reyes Heroles 3720 (Bruno Martínez), 44980 Guadalajara, Jalisco
 Especialidades Dentales Egipto	Dentist	15007	20.617253	-103.373715	45607 Guadalajara, Jalisco
@@ -2336,7 +2224,6 @@ Animal Health & Beauty	Veterinarian	15054	20.638157	-103.382063	Isla Antigua 317
 Homeopata	Doctor's Office	15031	20.63852	-103.377911	Isla La Palma 1859
 IMSS Clínica No. 34	Hospital	15014	20.638317	-103.376346	Avenida Miguel López de Legazpi (esq. Av. Colón), 44960 Guadalajara, Jalisco
 Veterinaria Clinica-Hospital Castillo	Hospital	15014	20.638997	-103.3787	Avenida Lopez de Legazpi 1897, Jalisco
-Laboratorio de Análisis Clínicos	Laboratory	11109	20.638049	-103.376174	44200 Guadalajara, Jalisco
 Nucleo de Estudios Cardiologicos Guzman	Doctor's Office	15031	20.63901	-103.378058	Lopez de Legaspi 1860 (Nuevo Mundo), 44950 Guadalajara, Jalisco
 Corporativo Medico Sur	Dentist	15007	20.63911	-103.380025	
 Dia Dental Integral del Ahorro	Dentist	15007	20.630371	-103.374741	Othon Blanco Caceres 3490 (Entre Longinos cadena y Andrés Balvanera), 44960 Guadalajara, Jalisco
@@ -2349,7 +2236,6 @@ Grupo Simo	Medical Center	15016	20.639782	-103.37598	Republica de Colombia 327, 
 Cruz Roja Mexicana	Health and Medicine	15000	20.635476	-103.372484	Avenida Adolph Bosque Horn Jr s/n, Guadalajara, Jalisco
 Dr. Kurt	Doctor's Office	15031	20.631254	-103.374394	Jalisco
 Confort Celular	Health and Medicine	15000	20.632295	-103.381933	Isla Raza 1939, 44950 Guadalajara, Jalisco
-Club de Nutrición Minerva	Social Club	12097	20.635087	-103.374142	Agustin Yañez 2829, 44120 Guadalajara, Jalisco
 Chopo	Medical Center	15016	20.645717	-103.381958	Avenida Cruz del Sur 2593 (Isla Antillas), 44950 Guadalajara, Jalisco
 Farmacias Abc de Mexico SA CV	Health and Medicine	15000	20.643532	-103.380103	Avenida Francisco Vazquez 2083, 44950 Guadalajara, Jalisco
 Clinica DentAll	Dentist	15007	20.644766	-103.378461	Isla Cozumel 2685A (Fray Andres de Urdaneta), 44950 Guadalajara, Jalisco
@@ -2394,10 +2280,8 @@ Balarmony	Veterinarian	15054	20.646297	-103.378791	Isla Tortuga 2652, 44950 Guad
 Dr Liliana Levy	Doctor's Office	15031	20.66332	-103.380914	
 Clinica de los Mosquitos	Doctor's Office	15031	20.662486	-103.38178	Guadalajara, Jalisco
 Imeci	Doctor's Office	15031	20.663867	-103.379828	Universo 851 (Dia), Guadalajara, Jalisco
-Meci	Repair Service	11157	20.663938	-103.380275	54950 , Estado de México
 Consultorio Médico: Healthy Beauty Medicine	Doctor's Office	15031	20.662044	-103.382796	Rayo 2644 (Av. Arcos y Cauda), 44520 , Jalisco
 Especialidades Medicos del Bosque	Doctor's Office	15031	20.660835	-103.383434	Cosmos 2673, 44520 Guadalajara, Jalisco
-Clínica Veterinaria del Fresno	Pet Service	11133	20.660116	-103.37301	Membrillo 2148 (Guamuchil), 44900 , Jalisco
 Instituto Jalisciense de Psicoterapia Cognitivo-Conductual	Health and Medicine	15000	20.665393	-103.379889	Lope de Vega 791 (Hércules y Noche), 44130 Guadalajara, Jalisco
 Medicina Empresarial Empresarial en Movimiento	Medical Lab	15017	20.661642	-103.383874	Avenida Arcos 956 (Rayo), 44520 Guadalajara, Jalisco
 Oscar I Ramirez Montes	Dentist	15007	20.664674	-103.382404	Cauda 793 9, 44520 Guadalajara, Jalisco
@@ -2414,7 +2298,6 @@ Mireles Chavez Eduardo Dr.	Dentist	15007	20.667677	-103.378866	Avenida Agustin Y
 Villaran Muñoz Benjamin Dr	Plastic Surgeon	15046	20.667677	-103.378866	Circ Agustín Yañez 2457, 44150 Guadalajara, Jalisco
 Kinsport	Doctor's Office	15031	20.667692	-103.3788	Avenida Circunvalacion Agustin Yañez 2457, 44130 Guadalajara, Jalisco
 Cardiologo Luis Lasso	Doctor's Office	15031	20.667538	-103.37888	Jalisco
-Viveros Neri Consuelo Ivette	Community and Government	12000	20.661155	-103.383921	Avenida de los Arcos 966, 44520 Guadalajara, Jalisco
 Senda del Ser SC	Psychologist	15020	20.665343	-103.382371	Cll Cauda 763, 44520 Guadalajara, Jalisco
 Dr. Ricardo Gomez Espinoza	Physician	15027	20.662428	-103.384716	Clle Eclipse 2745, 44520 Guadalajara, Jalisco
 Pet's House	Veterinarian	15054	20.666827	-103.378937	Niños Heroes 242, 44740 Guadalajara, Jalisco
@@ -2434,11 +2317,9 @@ Medicos Especializados	Doctor's Office	15031	20.672687	-103.37759
 Consultorios de alta especialidad	Doctor's Office	15031	20.671437	-103.376029	Miguel lerdo de tejada 2344 (Juan luis de alarcón), Guadalajara, Jalisco
 Gutierrez Hermosillo Corvera Claudia	Dentist	15007	20.668261	-103.376498	Cll Mexicaltzingo 2366, 44160 Guadalajara, Jalisco
 Médicos Especializados	Doctor's Office	15031	20.671385	-103.376042	Lerdo de Tejada 2342 (Juan Ruiz Montenegro), Guadalajara, Jalisco
-Urodifen de Occidente, S.c	Laboratory	11109	20.671756	-103.376062	Juan Ruiz de Alarcon 176, 44130 Guadalajara, Jalisco
 Dallas Hand Carry Lines de Mexico	Healthcare Clinic	15011	20.6682	-103.376287	Cll Mexicaltzingo 2353, 44100 Guadalajara, Jalisco
 Spine Center	Medical Center	15016	20.673487	-103.380491	Guadalajara, Jalisco
 Dr. Rodolfo René Acosta Dominguez	Health and Medicine	15000	20.673097	-103.376188	Cll Juan Ruiz de Alarcon 117, 44680 Guadalajara, Jalisco
-Gonzalez Castanedo Jesus	Arts and Entertainment	10000	20.668412	-103.375035	Miguel de Cervantes Saavenida Edra 396, 44150 Guadalajara, Jalisco
 Medicina Integral Privada	General Surgeon	15035	20.675035	-103.376319	Juan Ruiz de Alarcon 20, 44140 Guadalajara, Jalisco
 Diagnosport	Doctor's Office	15031	20.671877	-103.37456	Avenida union (Av la paz), Guadalajara, Jalisco
 Medica Vallarta	Doctor's Office	15031	20.674635	-103.381075	Guadalajara, Jalisco
@@ -2456,7 +2337,6 @@ Kaulike	Doctor's Office	15031	20.671367	-103.373079	Lerdo de Tejeda 2221, 44150 
 Dr Rafael Angel Escarcega Dentista Para Niños	Dentist	15007	20.669047	-103.372963	Montenegro 2213, 44150 Guadalajara, Jalisco
 Duran Ramos Oscar Dr	General Surgeon	15035	20.673273	-103.373644	Avenida Union 163 305, 44100 Guadalajara, Jalisco
 Asesores Medicos	Doctor's Office	15031	20.679658	-103.378839	Mexico 2472, 44650 Guadalajara, Jalisco
-Núcleo de Diagnóstico	Laboratory	11109	20.679593	-103.379753	Avenida Mexico 2488, 44650 Guadalajara, Jalisco
 Excellence Dental	Dentist	15007	20.678426	-103.378768	Francisco Rojas González 123, 44600 Guadalajara, Jalisco
 Opticas Dakini	Ophthalmologist	15041	20.678751	-103.379793	Pablo Villaseñor (Av Mexico y justo sierra), Zapopan, Jalisco
 Servicio Podologico	Doctor's Office	15031	20.67889	-103.380147	Pablo Villaseñor 134A (Av. México y Justo Sierra), 44680 Guadalajara, Jalisco
@@ -2490,7 +2370,6 @@ Fast Clinic	Doctor's Office	15031	20.676156	-103.373582	De las Americas 26, Guad
 Panduro B J Guadalupe Dr	Obstetrician Gynecologist (Ob-gyn)	15039	20.680521	-103.372727	Reforma 1598, 44600 Guadalajara, Jalisco
 Unidad de Cardiodiagnóstico	Medical Center	15016	20.685003	-103.380732	Avenida López Mateos Norte 567, 44680 Guadalajara, Jalisco
 Ortopedia Tapatia	Orthopedic Surgeon	15043	20.679388	-103.372581	Avenida Mexico 2190, 44226 Guadalajara, Jalisco
-Joule's Lab	Juice Bar	13059	20.68731	-103.381123	Eulogio Parra 2584-3 (Montreal), 44657 Guadalajara, Jalisco
 Clinica Para el Tratamiento Medico Quirurgico de la Calvicie	General Surgeon	15035	20.689154	-103.378413	Jesus Garcia 2447, 44648 Guadalajara, Jalisco
 Centro Med del Trasplante de Pelo	Health and Medicine	15000	20.689184	-103.378345	Jesus Garcia 2447 502, 44657 Guadalajara, Jalisco
 Cirugía Pediatrica de Mínima Invasión	Doctor's Office	15031	20.687198	-103.379553	
@@ -2525,7 +2404,6 @@ Guillermo de Jesus Collignon N	Obstetrician Gynecologist (Ob-gyn)	15039	20.68875
 Americas Hospital	Hospital	15014	20.69466	-103.372939	Avenida Americas 932 (Avenida Adolfo Lopez Mateos), 44620 Guadalajara, Jalisco
 Dermimed	Health and Medicine	15000	20.696359	-103.378667	Colomos 2528, Guadalajara, Jalisco
 Perfectum	Nutritionist	15023	20.698584	-103.37706	Avenida Pablo Neruda 2136 (Ottawa), 44630 Guadalajara, Jalisco
-Hogares de la Caridad, A. C.	Non-Profit Organization	12086	20.699846	-103.377654	Guadalajara, Jalisco
 Doctor Fernando Arreola	Doctor's Office	15031	20.699438	-103.381449	
 Lomas Providencia Unidad Medica	Hospital	15014	20.70084	-103.3782	Calle Victoria 1515, 44630 Guadalajara, Jalisco
 Nutriesteves	Nutritionist	15023	20.693805	-103.380763	Florencia 2590A, 44648 Guadalajara, Jalisco
@@ -2562,7 +2440,6 @@ Dres Garcia Rulfo Romo y Asociados	Dentist	15007	20.702609	-103.378823	Providenc
 Arriola Valdes Alberto Rafael	Dentist	15007	20.702559	-103.378633	Avenida Providencia 2450, 44630 Guadalajara, Jalisco
 Nucleo Dental Medico	Dentist	15007	20.702462	-103.379162	
 Dominguez Cross Mario J	Dentist	15007	20.7025	-103.378769	Avenida Providencia 2450, 44630 Guadalajara, Jalisco
-Elanco	Office	11124	20.703183	-103.376433	Vazquez de Leon 12, Jalisco
 Svenson	Doctor's Office	15031	20.702609	-103.378823	Avenida Providencia 2450 (Montreal), 44630 Guadalajara, Jalisco
 Urgencias San Francisco de Asís	Emergency Room	15010	20.710665	-103.379629	
 Hospital San Francisco de Asís de Gda	Hospital	15014	20.71099	-103.379738	Avenida Américas 1946, 44610 Guadalajara, Jalisco
@@ -2572,7 +2449,6 @@ Grupo Oftalmológico Aldana	Ophthalmologist	15041	20.702054	-103.376482	44630 Gu
 Depiux	Assisted Living Service	15004	20.701945	-103.380963	
 Dr. Carlos Barrero	Doctor's Office	15031	20.701081	-103.37729	44630 , Jalisco
 Centauro Clinica Dental	Dentist	15007	20.712028	-103.378728	Zapopan, Jalisco
-Clinica de Radioterapia de Occidente	Computer Repair Service	11027	20.710707	-103.382683	Patria 2073 (Av américas), 44667 Zapopan, Jalisco
 Nutricion Integral	Doctor's Office	15031	20.701573	-103.38248	
 Liposser	Doctor's Office	15031	20.700356	-103.378094	Ottawa 1483, Guadalajara, Jalisco
 Takiba	Veterinarian	15054	20.711382	-103.382143	Patria 83A, 45160 Guadalajara, Jalisco
@@ -2604,7 +2480,6 @@ Nutrinizate	Doctor's Office	15031	20.724426	-103.382031	Manuel H. Alatorre 89B (
 Club de Mascotas	Veterinarian	15054	20.72633	-103.375589	Zapopan, Jalisco
 PerioDent Seattle	Dentist	15007	20.727945	-103.377996	Avenida Enrique Díaz de León Norte 345 (Avenida Doctor Luís Farah), 45150 Zapopan, Jalisco
 Veterinaria Zoo-E	Veterinarian	15054	20.722896	-103.374534	769 Calle Paulino Navarro, Zapopan, 45150, Zapopan, Jalisco
-Protección Animal Zapopan	Animal Shelter	12002	20.727844	-103.383959	Calle Santa María 430 (boulevard panamericano), 45150 Zapopan, Jalisco
 Nutriologo zapopan	Doctor's Office	15031	20.724731	-103.372856	Zapopan, Jalisco
 Servicios Ortopedicos Profecionales	Orthopedic Surgeon	15043	20.722876	-103.372592	Paulino Navarro 866, 45150 Guadalajara, Jalisco
 Sorp	Doctor's Office	15031	20.722777	-103.372666	Paulino Navarro 866, 45230 Zapopan, Jalisco
@@ -2614,7 +2489,6 @@ Cruz Verde Zapopan Norte	Hospital	15014	20.727092	-103.384617	Zapopan, Jalisco
 Sanatorio Maternidad del Angel	Hospital	15014	20.728036	-103.373115	Venustiano Carranza 824 (L.G Monzon), 45180 Zapopan, Jalisco
 Vazquez Haro Eliseo	Health and Medicine	15000	20.722209	-103.378103	Avenida 1496 s/n, Guadalajara, Jalisco
 Clinica Dental Belenes	Dentist	15007	20.723555	-103.384645	45147 Zapopan, Jalisco
-Albergue Infantil la Casa de Jesus y de Maria Ac	Public and Social Service	12091	20.723555	-103.384645	45087 Zapopan, Jalisco
 Clinica Quirurgica Soledad	Doctor's Office	15031	20.723555	-103.384645	Calle Volcan Ajusco 5137, 45070 Zapopan, Jalisco
 Cuspis	Medical Center	15016	20.723555	-103.384645	Avenida Avenida Patria 323, 45110 Zapopan, Jalisco
 Medigroup	Health and Medicine	15000	20.723565	-103.384774	Calle Santo Tomas de Aquino 5157, 45030 Zapopan, Jalisco
@@ -2648,12 +2522,10 @@ Hospital Nuestra Señora de Medugorie	Hospital	15014	20.626978	-103.369703	Aveni
 Medical Center Rommel	Dentist	15007	20.626634	-103.372328	
 Dental Feliz	Dentist	15007	20.627865	-103.369507	
 Centro Veterinario Val-Yam	Veterinarian	15054	20.628046	-103.369622	Avenida 8 de Julio 3274, 44960 Guadalajara, Jalisco
-Benazir Clinica de Diagnostico	Scientific Equipment Supplier	11161	20.628358	-103.369436	8 de Julio 3270, 44960 Guadalajara, Jalisco
 Clínica Dental San Carlos	Dentist	15007	20.628628	-103.369347	
 Farmacias Tapatias	Health and Medicine	15000	20.624803	-103.365839	Carlos A. Carrillo 1433, Guadalajara, Jalisco
 Bio|Labs	Medical Lab	15017	20.627601	-103.369187	Jalisco
 Dental Futura	Dentist	15007	20.62912	-103.368751	Longinos Cadena
-Diagnostico de Imagen	Laboratory	11109	20.629248	-103.368764	Jalisco
 Centro de Esterilización Gratuita	Veterinarian	15054	20.6294	-103.369332	Andrés Balvanera 1618, Jalisco
 Clínica Dental la Zapopana	Dentist	15007	20.629318	-103.368757	Avenida 8 de Julio 3190 (Andrés Balvanera), 44960 Guadalajara, Jalisco
 Método Integra Guadalajara	Doctor's Office	15031	20.628936	-103.367953	Othon Blanco Cáceres 3581A (Paula Verjan), 44960 Guadalajara, Jalisco
@@ -2680,7 +2552,6 @@ MediCan	Veterinarian	15054	20.64351	-103.372608	Tikal 1561 (Tajín y Sierra de M
 Origami Veterinaria	Veterinarian	15054	20.642893	-103.372757	44930 Guadalajara, Jalisco
 Consultorio Dr. Manuel Cárdenas	Doctor's Office	15031	20.645974	-103.371892	Carabelas (Bolivia), Guadalajara, Jalisco
 Clinica Dental	Dentist	15007	20.64623	-103.371607	Avenida Cruz del Sur 2342, Guadalajara, Jalisco
-Fada Industrial	Factory	11040	20.644811	-103.367991	Calle 2 2711, 44940 Guadalajara, Jalisco
 Consultorio Dental Dental Place	Health and Medicine	15000	20.646597	-103.371376	Bolivia 2333, Guadalajara, Jalisco
 Reiki	Acupuncture Clinic	15001	20.648151	-103.37025	16030 Guadalajara, Jalisco
 Consultorio Dental	Dentist	15007	20.646779	-103.374014	44920 Guadalajara, Jalisco
@@ -2690,7 +2561,6 @@ Pesqueira Melgarejo Roberto Dr	Dentist	15007	20.647688	-103.36689	Avenida Enida 
 Espinosa Basave Irene Josefina	Dentist	15007	20.645535	-103.375498	Isla La Martinica 2530 4 s/n, 44950 Guadalajara, Jalisco
 Instituto de Medicina Tradicional China de Mexico SC	Acupuncture Clinic	15001	20.655051	-103.369368	Eucalipto 1882, 44909 Guadalajara, Jalisco
 Laboratorio de Medicina Industrial	Medical Lab	15017	20.651392	-103.364939	Golondrina 1594, 44919 Guadalajara, Jalisco
-Laboratorio de Medicina del Trabajo	Laboratory	11109	20.651421	-103.364871	Guadalajara, Jalisco
 Pedicurista	Doctor's Office	15031	20.651619	-103.364722	44960 Guadalajara, Jalisco
 Farmacias del Pueblo	Health and Medicine	15000	20.656775	-103.368613	Fresno 1880, 44907 Guadalajara, Jalisco
 Fish & Animals	Veterinarian	15054	20.657064	-103.368714	Roble , 1367A (Roble), 44900 Guadalajara, Jalisco
@@ -2712,7 +2582,6 @@ Productos Rivial	Blood Bank	15005	20.655858	-103.365984	1680 s/n Col del Fresno,
 Sanchez Hernandez Juan Camilo Dr	Dentist	15007	20.657929	-103.370701	Cll Naranjo 1382, 44900 Guadalajara, Jalisco
 Farmacia la paz	Health and Medicine	15000	20.663958	-103.364788	España 1803, 45030 Guadalajara, Jalisco
 Sintesis Laboratorio	Medical Lab	15017	20.658682	-103.368359	Cipres 1904, 44960 Guadalajara, Jalisco
-Quiropie	Health and Beauty Service	11061	20.658687	-103.371403	Durazno 1357, 44900 Guadalajara, Jalisco
 Oficinas del Medico	Doctor's Office	15031	20.664398	-103.369018	
 Hospital General IMSS 89	Hospital	15014	20.664202	-103.367744	Agustín Yáñez (Av. Chapultepec), Guadalajara, Jalisco
 Ladron de Guevara B Ciro Dr	Orthopedic Surgeon	15043	20.6647	-103.369962	Avenida Circunvalación Agustín Yañez 2457, 44190 Guadalajara, Jalisco
@@ -2723,11 +2592,9 @@ Quirofanos	Hospital	15014	20.664515	-103.367548
 Rehabilila T	Physical Therapy Clinic	15026	20.664537	-103.367128	España 1907 (Colonias), 44150 Guadalajara, Jalisco
 Health & Life	Doctor's Office	15031	20.664595	-103.36659	España 1892 (Colonias), Guadalajara, Jalisco
 MARO DIagnóstico Integral	Medical Lab	15017	20.664412	-103.366039	España 1854 (Colonias y Bruselas), 44190 Guadalajara, Jalisco
-Biophylax - Oficial	Business Center	11021	20.665288	-103.36647	Cerro del Colli 1405 (Francia), 44190 Guadalajara, Jalisco
 Sanefro	Doctor's Office	15031	20.663213	-103.364668	Venezuela 821, 45030 Guadalajara, Jalisco
 Veterinaria Arca de Noe	Veterinarian	15054	20.665517	-103.372213	Avenida Mariano Otero (E/ Agustín Yañez), Guadalajara, Jalisco
 Consultorio Pisa FLP	Doctor's Office	15031	20.663771	-103.365066	Farmacia La Paz, Jalisco
-Biomiral Oficinas	Factory	11040	20.666131	-103.367236	Francia 1920, Guadalajara, Jalisco
 Gomez Perez Lilia Margarita	Dentist	15007	20.65837	-103.363725	Avenida de los Tabachines 1207, 45188 Guadalajara, Jalisco
 Nutricion Integral	Doctor's Office	15031	20.666541	-103.366736	
 Clínica IMSS No. 46	Hospital	15014	20.666589	-103.372042	
@@ -2770,7 +2637,6 @@ Casa de Descanso Asilo Carmen	Nursing Home	15022	20.676333	-103.371654	Calle Alf
 Gutierrez Villaseñor Jaime Dr.	Dentist	15007	20.67304	-103.36317	Pricilianno Sanchez 1081, 44160 Guadalajara, Jalisco
 Vetderm	Veterinarian	15054	20.666993	-103.363129	Niños Heroes (Argentina), 44150 Guadalajara, Jalisco
 Centro del Bosque	Healthcare Clinic	15011	20.670743	-103.372276	Avenida Hidalgo 1625, Guadalajara, Jalisco
-CUAM Guadalajara	Community Center	12004	20.671963	-103.366258	Avenida La Paz 1344, 44160 Guadalajara, Jalisco
 Frederick International	Healthcare Clinic	15011	20.669943	-103.365552	Cll Efrain Gonzalez Luna 1854, 44160 Guadalajara, Jalisco
 Mama Coneja	Physician	15027	20.6843	-103.367556	Manuel Acuña 1484, 44600 Guadalajara, Jalisco
 Casa de descanso Sagrada Familia	Assisted Living Service	15004	20.679164	-103.370159	
@@ -2786,7 +2652,6 @@ Cosmeto Medica	Medical Center	15016	20.677956	-103.374035	Guadalajara, Jalisco
 Sanatorio Guadalajara	Hospital	15014	20.67795	-103.371299	Justo Sierra 2130 (entre Chapultepec y Américas), 44600 Guadalajara, Jalisco
 clinica de hernias DR. Felix Torres	Doctor's Office	15031	20.677862	-103.371502	Justo Sierra 2143, Guadalajara, Jalisco
 Cardiologos Asociados de Jalisco Cs	Doctor's Office	15031	20.677862	-103.371502	Cll Justo Sierra 2222 (Av Americas), 44600 Guadalajara, Jalisco
-Hernandez Santiago Luis Alberto	Arts and Entertainment	10000	20.676964	-103.370814	Avenida Hgo 1601, 44600 Guadalajara, Jalisco
 Dra. Martha Leticia Pacheco	Dentist	15007	20.678641	-103.3665	Guadalajara, Jalisco
 Dra. Rosy Jaime	Medical Center	15016	20.681016	-103.372354	Bernardo de Balbuena (garibaldi), Guadalajara, Jalisco
 Visa dental	Dentist	15007	20.682155	-103.371722	Guadalajara, Jalisco
@@ -2807,13 +2672,11 @@ Lenero Garcia Gabriel Dr	Physician	15027	20.677032	-103.366531	Avenida Hgo 1362 
 Consultorio Médico Beas	Doctor's Office	15031	20.688353	-103.368807	
 ISSSTE CLINICA No2 MEDICINA FAMILIAR	Doctor's Office	15031	20.687239	-103.369207	Eulogio Parra 1700 (Pedro Buzeta), Guadalajara, Jalisco
 Hospital Mexico Americano Urgencias	Hospital	15014	20.689717	-103.369511	Guadalajara, Jalisco
-Clinica Veterinaria Basenji	Pet Service	11133	20.691632	-103.367668	Andres Terán 866C (José Maria Vigil y Colomos), 44100 Guadalajara, Jalisco
 Dentista Alma Celia Sanchez	Dentist	15007	20.687941	-103.366675	Ramos Millan 723A (Arista), 44600 Guadalajara, Jalisco
 Juan Carlos Salcido Fernandez	General Surgeon	15035	20.690677	-103.369253	Pedro Buzeta 870, 44620 Guadalajara, Jalisco
 ONA Cirugia Plastica y Reconstructiva	Hospital	15014	20.690536	-103.370698	
 MediAccess	Doctor's Office	15031	20.690959	-103.369505	
 Servicio Podológico Celeste A. Sanchez Mercado	Doctor's Office	15031	20.687094	-103.366176	Ramos Millan 669A (Eulogio Parra), Guadalajara, Jalisco
-Sane Nutricion	Office	11124	20.690944	-103.367848	Pedro Buzeta 716, 44600 Guadalajara, Jalisco
 óptica Visión 20/20	Ophthalmologist	15041	20.685019	-103.36972	Guadalajara, Jalisco
 centro uno dinámico de Jalisco	Medical Lab	15017	20.69142	-103.369469	Antonio Pedro Buzeta 842, Guadalajara, Jalisco
 Especialista Master Reiki	Physical Therapy Clinic	15026	20.687891	-103.365568	Calle Arista 1881, 44600 Guadalajara, Jalisco
@@ -2823,7 +2686,6 @@ Farmacias GI	Doctor's Office	15031	20.684616	-103.367762	Andres Teran 542
 Fashion Kn Boutique Canina	Veterinarian	15054	20.685214	-103.372016	Juan Alvarez, 1623 (Pedro Buzeta), 44620 Guadalajara, Jalisco
 Hospital Veterinario Cherses	Veterinarian	15054	20.684957	-103.371702	Juan Alvarez 1702, 44600 Guadalajara, Jalisco
 Desntista	Dentist	15007	20.685549	-103.366211	
-Asociación Psicoanalítica Jaliscience	Student Center	12047	20.691662	-103.371423	Alfredo R Plascencia 896, 44650 Guadalajara, Jalisco
 Dentista	Dentist	15007	20.692299	-103.369544	Clle Ayuntamiento 2062, 44620 Guadalajara, Jalisco
 Villa Hogar	Nursing Home	15022	20.692152	-103.370143	Ayuntamiento 2076 (Manuel M. Diéguez), 44620 Guadalajara, Jalisco
 B Country Núcleo Medico	Doctor's Office	15031	20.691892	-103.371571	Calle Alfredo R. Plascencia 889 (Calle Colomos), 44620 Guadalajara, Jalisco
@@ -2833,12 +2695,10 @@ Servicio Nafarrate	Medical Center	15016	20.687366	-103.374573	General Eulogio Pa
 centro de rehabilitacion Neurologica 'Grupo Siente'	Doctor's Office	15031	20.691775	-103.374069	Florencia, Guadalajara, Jalisco
 Dra. Fernanda Alvarez	Dentist	15007	20.693784	-103.36786	Avenida de los maestros 2016 (Manuel Cambre), 44620 Guadalajara, Jalisco
 Clinicas Teo	Healthcare Clinic	15011	20.684273	-103.374038	Manuel Acuña 1769, 44650 Guadalajara, Jalisco
-Meditex	Factory	11040	20.681884	-103.369287	Pedro Buzeta 332, 44600 Guadalajara, Jalisco
 Dr Cresenciano	Doctor's Office	15031	20.693556	-103.372725	
 Centro Montaña	Doctor's Office	15031	20.690336	-103.362602	Francia 2271, Jalisco
 Clínica No. 2 IMSS	Hospital	15014	20.689223	-103.364797	Jesus Garcia 1480 (Jaime Nuno), 44200 Guadalajara, Jalisco
 Barba Contreras Luis Benjamin	Medical Center	15016	20.687579	-103.375459	Agustin de la Rosa 637, 44600 Guadalajara, Jalisco
-Perros del mundo	Pet Service	11133	20.701482	-103.366427	Avenida Circunvalación Jorge Álvarez del Castillo 1434, Guadalajara, Jalisco
 Krouf Medical Group	Medical Center	15016	20.69724	-103.370438	Jalisco
 Farmatodo Guadalajara	Health and Medicine	15000	20.697747	-103.370428	Avenida Jorge Alvarez del Castillo 1124A, 44610 Guadalajara, Jalisco
 Reslab	Medical Lab	15017	20.698537	-103.369378	Avenida Circunbalacion J. Alvarez Castillo 1184 4, 44620 Guadalajara, Jalisco
@@ -2877,7 +2737,6 @@ Servicios Medicos GCC	Doctor's Office	15031	20.704761	-103.369759
 Proben	Hospital	15014	20.708138	-103.368097	Avila Camacho 2280, 44270 Guadalajara, Jalisco
 Espejo Plascencia Jose Ismael	Physician	15027	20.708007	-103.367786	Avenida Manuel Avenida Ila Camacho 2262 (Calle A-4), 42210 Guadalajara, Jalisco
 Chavez Quinones Monica Sabrina	Veterinarian	15054	20.708781	-103.369524	Avenida Manuel Avenida Ila Camacho 2350, 44210 Guadalajara, Jalisco
-Canopolis	Pet Grooming Service	11134	20.708903	-103.369472	Avenida Ávila Camacho 2350 (Av. De La Presa Y A-3), Guadalajara, Jalisco
 Centro Sekhmet	Medical Lab	15017	20.707203	-103.36637	Ciudad de México
 Oraldenk	Dentist	15007	20.708935	-103.369553	Avila Camacho 2364, 44210 Guadalajara, Jalisco
 Periodent Country	Dentist	15007	20.706038	-103.36585	Avenida Avila Camacho 1891-4 (Mar Blanco), 44610 Guadalajara, Jalisco
@@ -2988,8 +2847,6 @@ Samcor Laboratorio	Doctor's Office	15031	20.738969	-103.371831	Paseo de los Bamb
 Clinica Veterinaria Colibri	Veterinarian	15054	20.741192	-103.3686	Rosario Castellanos 6042, 45110 Zapopan, Jalisco
 Compromiso de Salud	Doctor's Office	15031	20.740649	-103.370447	Zapopan, Jalisco
 Cazares Rodriguez Claudia Lizbeth	Veterinarian	15054	20.74174	-103.365915	Pse de las Caobas 3001, 45188 Guadalajara, Jalisco
-Cedimed centro de diagnostico medico	Laboratory	11109	20.74027	-103.365932	Zapopan, Jalisco
-Cima lab tabachines	Laboratory	11109	20.740343	-103.364235	Zapopan, Jalisco
 Centro de salud la martinica	Doctor's Office	15031	20.746734	-103.366973	Zapopan, Jalisco
 Farmacia de Daniel	Health and Medicine	15000	20.74174	-103.365915	Pas Almendros 3150, 45188 Guadalajara, Jalisco
 Farmacias Monroy	Doctor's Office	15031	20.749343	-103.37114	Calzada del Vergel 1379A, 45180 Zapopan, Jalisco
@@ -3009,7 +2866,6 @@ Ana C y Rx Octe Srl	Health and Medicine	15000	20.620414	-103.355186	Avenida Patr
 Consultorio Medico	Doctor's Office	15031	20.625992	-103.355617	Calle Pedro Garcia Conde 377 (López de Legazpi), 44970 Guadalajara, Jalisco
 Bustos Hernandez Erik Gerardo Dr	Dentist	15007	20.63267	-103.361817	Avenida Hidalgo 1042 2, 44800 Guadalajara, Jalisco
 Wendy	Health and Medicine	15000	20.638701	-103.358418	44940 Guadalajara, Jalisco
-Laboratorio Raam de Sahuayo	Laboratory	11109	20.634862	-103.353566	Avenida Cinco (Calle 28), Guadalajara, Jalisco
 IMSS Hospital General Regional No. 46	Hospital	15014	20.647389	-103.360471	Avenida Lázaro Cárdenas 2063 (esq. 8 de Julio), 44910 Guadalajara, Jalisco
 Auditorio General Hospital General Regional 46	Medical Center	15016	20.64662	-103.359927	Guadalajara, Jalisco
 Consulta Dermatologia Hgr 46 Imss	Hospital	15014	20.647122	-103.359469	Loro 1875 (Av 8 De Julio), 44910 Guadalajara, Jalisco
@@ -3021,7 +2877,6 @@ Navarro Lopez Carlos Alberto	Orthopedic Surgeon	15043	20.647537	-103.361112	Aven
 Urgencias Pediatría HGR 46 IMSS	Emergency Room	15010	20.647792	-103.360374	Guadalajara, Jalisco
 Perinatología	Hospital	15014	20.647701	-103.360124	IMSS Hospital General Regional 46 (Lázaro Cárdenas 2063), Guadalajara, Jalisco
 Dra. Eva C. Limón Santa Ana	Medical Center	15016	20.646466	-103.355962	Clarín 928 (Huitlacoche), 44910 Guadalajara, Jalisco
-Acuario las Torres	Aquarium	10002	20.648393	-103.361155	Plaza las Torres L-17k Plaza las Plaza las Torres L-1, Guadalajara, Jalisco
 Urgencias Adultos HGR 46	Emergency Room	15010	20.648457	-103.360373	8 de Julio, Guadalajara, Jalisco
 Ópticas Devlyn	Doctor's Office	15031	20.648464	-103.361732	Avenida 8 de Julio Plaza las Torres 1896, 44910 Guadalajara, Jalisco
 Traumatología y Ortopedia HGR 46	Hospital	15014	20.648898	-103.359933	Guadalajara, Jalisco
@@ -3083,8 +2938,6 @@ Psicología Optimista	Medical Center	15016	20.672574	-103.361338	Prisciliano San
 Terapía	Doctor's Office	15031	20.672905	-103.35813	
 Psico Hernandez	Mental Health Clinic	15019	20.670434	-103.363581	Robles Gil 382 (La Paz Y Guadalupe Zumo), Jalisco
 Consultorio Médico Dra. Marina Escudero	Doctor's Office	15031	20.667837	-103.356346	Mexicalzingo, 44190 Guadalajara, Jalisco
-Espacio Psicoanalítico A.C.	College Arts Building	12016	20.67321	-103.357581	787 Calle Francisco I Madero, Guadalajara, 44160, 44160 Guadalajara, Jalisco
-Aceves Barajas Leon Bernardo	Manufacturer	11120	20.674106	-103.359954	Cll Lopez Cotilla 968 1B, 44160 Guadalajara, Jalisco
 Huerta Rivera Pablo	Doctor's Office	15031	20.670732	-103.364502	Bruselas 159, 44160 Guadalajara, Jalisco
 Unidad Medica San Javier	Hospital	15014	20.670028	-103.355113	Avenida Federalismo sur 1272 (Av La Paz), Guadalajara, Jalisco
 "Unidad Integral en Artritis ""St.Pau Clinic"""	Hospital	15014	20.6738	-103.362187	
@@ -3097,7 +2950,6 @@ Campo Resplandor Ac	Mental Health Service	15018	20.674793	-103.35941	Cll Hector 
 Maska Mansion	Assisted Living Service	15004	20.673649	-103.356112	Madero 720 (penitenciaria), 46160 Guadalajara, Jalisco
 Consultorío Homeópata-Pediatra Dra. Aurora Castillo	Doctor's Office	15031	20.671736	-103.355007	Guadalajara, Jalisco
 Dr. E. Angel Velazquez Herrera	Doctor's Office	15031	20.668387	-103.354758	Guadalajara, Jalisco
-Cuidados a tu Alcance	Laboratory	11109	20.667911	-103.354935	Avenida Federalismo 561, 44180 Guadalajara, Jalisco
 Ortoclinic	Dentist	15007	20.667936	-103.35487	Calzada Federalismo 567 (Mexicaltzingo), 44180 Guadalajara, Jalisco
 Udgym	Weight Loss Center	15055	20.675134	-103.358815	Avenida Juárez 976 (Enrique Díaz de Leon), 44100 Guadalajara, Jalisco
 Dentilandia	Dentist	15007	20.674818	-103.363058	Avenida Vallarta 1191 (Robles Gil), 44160 Guadalajara, Jalisco
@@ -3127,7 +2979,6 @@ Consultorio del Doctor Robles	Doctor's Office	15031	20.680869	-103.357401	Jalisc
 Fisioterapia Hospital Sta. Margarita	Hospital	15014	20.681635	-103.358151	Garibaldi 880, Guadalajara, Jalisco
 Dr. León Felipe	Doctor's Office	15031	20.679533	-103.356497	San Felipe 809 (Jesús), 44510 Guadalajara, Jalisco
 Gomez Garcia Alberto	Dentist	15007	20.676181	-103.358173	Morelos 941, 44800 Guadalajara, Jalisco
-Juandiego	Massage Clinic	11070	20.680228	-103.356428	Reforma 811 (Jesús), 44200 Guadalajara, Jalisco
 Clinica de Retina	Hospital	15014	20.678534	-103.355431	Juan Manuel 857 (Puebla), 44200 Guadalajara, Jalisco
 Clínica dental de Jesús	Dentist	15007	20.681204	-103.355099	Garibaldi 722 Int. 15 (E/ Puebla Y Federalismo), Guadalajara, Jalisco
 Ledezma Cardenas Enrique	Health and Medicine	15000	20.67978	-103.354399	Federalismo 561, 44180 Guadalajara, Jalisco
@@ -3140,7 +2991,6 @@ Hospital Arista	Hospital	15014	20.687288	-103.359612	Arista 1525 (Enrique Díaz 
 Familias Cuánticas	Mental Health Clinic	15019	20.689071	-103.360424	Guadalajara, Jalisco
 Aparatos Ortopedicos	Orthopedic Surgeon	15043	20.687848	-103.358325	Calle Arista 1466, 44200 Guadalajara, Jalisco
 Unidad Médica de Oncología	Doctor's Office	15031	20.686426	-103.358078	Juan N Cumplido 634B, Guadalajara, Jalisco
-Equipos Para Laboratorio Dental D' Morones	Scientific Equipment Supplier	11161	20.686849	-103.357258	Cll Eulogio Parra 1020, 44200 Guadalajara, Jalisco
 Dr Martin Alett Oliva Gomez	Orthopedic Surgeon	15043	20.686849	-103.357258	Federalismo Norte 722 1, 44200 Guadalajara, Jalisco
 Ginecologia y Obstetricia Dra. Norma Guzman	Doctor's Office	15031	20.685281	-103.359488	Herrera y Cairo 1125, Guadalajara, Jalisco
 UMF No. 2	Hospital	15014	20.690233	-103.362169	
@@ -3161,8 +3011,6 @@ Consultorio Dental Dr. Zavala	Dentist	15007	20.693535	-103.360998
 Corporación Medica Federalismo	Medical Center	15016	20.687274	-103.353745	Guadalajara, Jalisco
 Unidad de Especialidades	Physician	15027	20.693361	-103.361858	Avenida de los Maestros 1637, 44260 Guadalajara, Jalisco
 SAMCOR Federalismo	Health and Medicine	15000	20.686135	-103.353701	Guadalajara, Jalisco
-Samcor	Laboratory	11109	20.686177	-103.353741	Avenida Federalismo 616, 44100 Guadalajara, Jalisco
-Centro Terapéutico Holistico Grasya A.c.	Spiritual Center	12098	20.687201	-103.353527	Avenida Federalismo 311 (Aristas), Guadalajara, Jalisco
 Medicamentos Naturales	Alternative Medicine Clinic	15003	20.682846	-103.3631	Herrera y Cairo 1262, 44600 Guadalajara, Jalisco
 Dr. Julio César Liparoli Preciado (Dr Julio César Liparoli P.)	Doctor's Office	15031	20.681885	-103.359838	Angulo 979, 44200 Guadalajara, Jalisco
 Perez Ruvalcaba Irma Dra	Health and Medicine	15000	20.686129	-103.365948	Jose Clemente Orozco 575, 44600 Guadalajara, Jalisco
@@ -3199,7 +3047,6 @@ Laboratorio Regional de Referencia Epidemiológica IMSS	Medical Lab	15017	20.697
 Canopolis I	Veterinarian	15054	20.700309	-103.356888	Avenida Manuel Ávila Camacho 1465, 44260 Guadalajara, Jalisco
 Dentista Dra. Castro	Dentist	15007	20.697725	-103.364209	Jalisco
 Unidad Medica del Country	Hospital	15014	20.701415	-103.35924	Andrés Terán 1944, 44260 Guadalajara, Jalisco
-Medico Neurocirujano el Mejor Neurocirujano en Guadalajara	Advertising Agency	11001	20.696863	-103.364703	Avenida Plan de San Luis, 1831, 44260 Guadalajara, Jalisco
 Instituto de Oftalmologia de Jalisco Dr. Guillermo Avalos Urzua	Medical Center	15016	20.69505	-103.354944	Avenida Federalismo Norte 1277, 44260 Guadalajara, Jalisco
 Operadora Hospitalaria San Miguel Country	Hospital	15014	20.702344	-103.360314	Manuel Avila Camacho 1643, 44260 Guadalajara, Jalisco
 clínica 2 ISSTE	Doctor's Office	15031	20.694779	-103.354535	
@@ -3210,7 +3057,6 @@ consultorio dra Marisela Delgado	Doctor's Office	15031	20.70027	-103.355142
 Inservimed del Pacífico	Doctor's Office	15031	20.698686	-103.354198	
 Casa Ameyal	Chiropractor	15006	20.699417	-103.364754	Andres Terán 1475 (Mallorca), 45053 Guadalajara, Jalisco
 Nucleo Dermatologia Integral	Doctor's Office	15031	20.700056	-103.354704	Jalisco
-Mar_ Virg	Scientific Equipment Supplier	11161	20.701096	-103.355384	Chiapas 1620A, Guadalajara, Jalisco
 Animal Care	Veterinarian	15054	20.7011	-103.35504	Guadalajara, Jalisco
 Dr. Eulalio Villalobos	Doctor's Office	15031	20.69758	-103.366327	
 Dr. Godinez, Ortopedista	Doctor's Office	15031	20.706468	-103.358477	Mariscala 1637
@@ -3245,7 +3091,6 @@ Pet Health Servicios Veterinarios	Veterinarian	15054	20.714561	-103.361429	Zapop
 Animal World	Veterinarian	15054	20.714045	-103.361545	Zapopan, Jalisco
 Wordl Animal Clinica Veterinaria	Veterinarian	15054	20.714045	-103.361545	Enrique Díaz de Leon 2197, 45178 Zapopan, Jalisco
 Dental del Country	Dentist	15007	20.712453	-103.359241	Avenida Fidel Velazquez 1690 (Enrrique Dias De León), 44217 Guadalajara, Jalisco
-Instituto de Terapia Oriental MIN	Education	12009	20.712629	-103.36052	Enrique Díaz de Leon 2316, 44220 Guadalajara, Jalisco
 Centro Homeopatico Atemajac	Alternative Medicine Clinic	15003	20.71389	-103.3567	Fidel Velazquez 1550, 44220 Guadalajara, Jalisco
 BIO4 Plaza Atemajac	Physician	15027	20.713928	-103.356307	Fidel Velazquez 1528 (Av. Federalismo), 44230 Guadalajara, Jalisco
 Laboratorio del Estado	Medical Lab	15017	20.717721	-103.361503	Zapopan, Jalisco
@@ -3260,7 +3105,6 @@ Pet 21 Veterinaria	Veterinarian	15054	20.719539	-103.361451	Enrique Díaz de Le�
 DailyDerm Skincare technology	Health and Medicine	15000	20.711918	-103.35573	Avenida Federalismo, Jalisco
 Consultorio Dr. Ernesto Mora	Doctor's Office	15031	20.711846	-103.355284	Federalismo 2304, 44240 Guadalajara, Jalisco
 Zoolopets	Veterinarian	15054	20.713345	-103.35441	Mezquitán (Fidel Velázquez), Guadalajara, Jalisco
-Candypet	Pet Service	11133	20.713041	-103.354485	Jesús Ortiz #2598, 45190 Guadalajara, Jalisco
 Laboratorio Pecsa Análisis Clínicos	Medical Lab	15017	20.713459	-103.354021	Fidel Velázquez 1470
 Nyha Homeópatia	Doctor's Office	15031	20.719069	-103.355523	Zaragoza 24A (5 de mayo), 45190 Zapopan, Jalisco
 Farmanerix	Doctor's Office	15031	20.719697	-103.356364	Zapopan, Jalisco
@@ -3287,17 +3131,14 @@ Biosoma Laboratorios de Analisis Clinicos	Medical Lab	15017	20.720554	-103.35422
 "Instituto Dermatologico de Jalisco ""Dr. José Barba Rubio"""	Hospital	15014	20.722911	-103.352624	Federalismo Norte 3102, 45190 Zapopan, Jalisco
 Centro de Atención Dermatológica ME Piel	Doctor's Office	15031	20.722583	-103.352855	Calle Occidental (Av. Federalismo), 45190 Zapopan, Jalisco
 Farmacia Dermatologica	Health and Medicine	15000	20.722822	-103.352827	Calle Occidental 116A (Av. Federalismo), 45190 Zapopan, Jalisco
-Asociacion Jaliscience Contra la Lepra, A.C.	Organization	12082	20.722852	-103.35276	Avenida Federalismo 3102, 45190 Guadalajara, Jalisco
 Centro de Atencion Dermatologica M. e Piel	Doctor's Office	15031	20.721662	-103.353203	Federalismo 3000A (Cuauhtémoc), 45190 Zapopan, Jalisco
 Clínica del Varón	Doctor's Office	15031	20.726456	-103.361604	Jalisco
-Instituto Dermatológico de Jalisco	College and University	12013	20.722932	-103.352881	45190 Zapopan, Jalisco
 Centro de Salud Constitucion	Medical Center	15016	20.731341	-103.360923	Zapopan, Jalisco
 Consultorio No.5	Doctor's Office	15031	20.731169	-103.36071	Centro de Salud Constitución, 46180 Constitución, Jalisco
 Clínica Dental Sonrisso	Health and Medicine	15000	20.735754	-103.361326	Avenida de los Tabachines (Paseo de los Sabinos), 45788 Zapopan, Jalisco
 Ecos	Medical Lab	15017	20.737198	-103.36183	32543 Zapopan, Jalisco
 Centro Quiropráctico Tabachines	Chiropractor	15006	20.733297	-103.353904	45180 Zapopan, Jalisco
 Umet	Medical Center	15016	20.737725	-103.361842	Zapopan, Jalisco
-PetZera	Zoo	10056	20.737688	-103.361673	Avenida de los Tabachines 1535 (Tilos), 45188 Zapopan, Jalisco
 Express Light	Doctor's Office	15031	20.738761	-103.362517	Tabachines 2497 (paseo de las galateras), 45188 Zapopan, Jalisco
 Medicina Naturista	Doctor's Office	15031	20.739374	-103.360644	Zapopan, Jalisco
 Huerta Rivera Gabriel	Health and Medicine	15000	20.735514	-103.360961	Federalismo 3080, 45190 Zapopan, Jalisco
@@ -3305,11 +3146,9 @@ Sanyiao	Health and Medicine	15000	20.733001	-103.355572	Plan de San Luis 1869 (E
 Clínica Physiotherapy REHAVIBA	Doctor's Office	15031	20.741591	-103.357664	Paseo de los Abetos 1633 (Paseo de las Tuyas), 45188 Zapopan, Jalisco
 Consultorio Rehabilitación Física Villamar	Doctor's Office	15031	20.741578	-103.357618	Paseo de los Abetos 1633 (Paseo De Las Tuyas), 45188 , Jalisco
 Clínica Castillo Valencia	Dentist	15007	20.744412	-103.356842	Zapopan, Jalisco
-Núcleo Médico Atemajac	Laboratory	11109	20.747759	-103.361555	Zapopan, Jalisco
 Centro de Salud Balcones de la Cantera	Doctor's Office	15031	20.746023	-103.354281	Zapopan, Jalisco
 Cima Lab	Medical Lab	15017	20.752001	-103.359446	Huejotes 42 (Ave. Tabachines), 45180 , Jalisco
 Aluminios ALUMIGLASS	Health and Medicine	15000	20.754899	-103.358898	Jesús garcía 82 (López cotilla), 45050 Zapopan, Jalisco
-Terralta	Residential Building	12094	20.60809	-103.355199	44990 Tlaquepaque, Jalisco
 ISSSTE Umf Miravalle	Medical Center	15016	20.60634	-103.352459	Tlaquepaque, Jalisco
 UMF ISSSTE No.2	Doctor's Office	15031	20.60626	-103.352986	Tlaquepaque, Jalisco
 Consultorio Dental Teatro de las Americas	Dentist	15007	20.604919	-103.34904	Tlaquepaque, Jalisco
@@ -3325,7 +3164,6 @@ Luzoma Dental	Dentist	15007	20.615788	-103.346356	Avenida Artes Plasticas 249, 4
 Jazher Farmacia	Doctor's Office	15031	20.620087	-103.352838	
 Unidad Medico Quirurgica Miravalle	Healthcare Clinic	15011	20.615609	-103.345707	Braque 4133, 44990 Guadalajara, Jalisco
 Farmacia Veloz	Health and Medicine	15000	20.61422	-103.345846	Hermenegildo Bustos 4215 (Av. Pintura), 44990 Guadalajara, Jalisco
-Laboratorio Ofelia Cardona	Laboratory	11109	20.616144	-103.345395	Jalisco
 Boticelli Odontología Integral	Dentist	15007	20.612444	-103.345825	Pierrot de la Francesa 347, 44990 Guadalajara, Jalisco
 Consultorio Dr. Gustavo	Doctor's Office	15031	20.620646	-103.34773	Jalisco
 Consultorio medico San Judas Tadeo	Doctor's Office	15031	20.618577	-103.345152	Calle 4, 1, 45403 Guadalajara, Jalisco
@@ -3339,7 +3177,6 @@ Sanchez Avila, Yadira	Health and Medicine	15000	20.612554	-103.346465	R. Castell
 Dentista de los Machines	Dentist	15007	20.625224	-103.353103	Jalisco
 Implementos Agropecuarios de Occidente	Health and Medicine	15000	20.627067	-103.353105	Privada Ada del Oro 420, 44970 Guadalajara, Jalisco
 Best Massage	Alternative Medicine Clinic	15003	20.626362	-103.346512	Avenida Gobernador Curiel #3323, 44940 Guadalajara, Jalisco
-Centramed	Rehabilitation Center	12093	20.62182	-103.347084	Patria 649, 45030 Guadalajara, Jalisco
 Enfermeras Kirius	Nurse	15021	20.620801	-103.34493	Oleo 124, 44990 Guadalajara, Jalisco
 De Silva Davila Jose Luis	Dentist	15007	20.621855	-103.347092	Avenida Patria 368 1, Guadalajara, Jalisco
 Centro de Salud la NOGALERA	Medical Center	15016	20.632669	-103.349904	Jalisco
@@ -3356,10 +3193,8 @@ Clínica Veterinaria Vet E.R.	Veterinarian	15054	20.646692	-103.351014	Calle 10 
 Diaplisa biomedica	Veterinarian	15054	20.647043	-103.35002	
 Cunero Patológico	Medical Center	15016	20.648052	-103.347393	Guadalajara, Jalisco
 Clinica Medica Quirurgica Ferrocaril	Healthcare Clinic	15011	20.646213	-103.351009	Cll 10 1796, 44440 Guadalajara, Jalisco
-Centro Veterinario Mexico	Animal Shelter	12002	20.655923	-103.349782	Cincinati 22, Ciudad de México, Ciudad de México
 Avigasa	Physician	15027	20.654927	-103.347484	Avenida Washington 428, 44460 Guadalajara, Jalisco
 Cesepcom	Medical Center	15016	20.654167	-103.344645	Avenida Héroes Ferrocarrileros 1325 (Av. Doctor Roberto Michel), 44460 Guadalajara, Jalisco
-Centro de Rehabilitacion Neurologica	Rehabilitation Center	12093	20.653806	-103.344098	Calle 3H 3285, Guadalajara, Jalisco
 Hospital Angeles del Carmen	Doctor's Office	15031	20.655212	-103.344994	Guadalajara, Jalisco
 Cadipsi	Assisted Living Service	15004	20.657951	-103.348799	Guadalajara, Jalisco
 Male Velazquez Edgar Dr.	General Surgeon	15035	20.659726	-103.349597	Nicolas Copernico 11, 45070 Guadalajara, Jalisco
@@ -3392,7 +3227,6 @@ Farmacia Mendoza	Health and Medicine	15000	20.663375	-103.346253	Calle 25, 88, 4
 Nishikawa Yakabi Adriana Kumik	Dentist	15007	20.665866	-103.345874	Avenida 75 s/n, 44460 Guadalajara, Jalisco
 Dra. Judith Ruiz Ramirez	Dentist	15007	20.669213	-103.349492	Colón 483A, 44180 Guadalajara, Jalisco
 Nueva Farmacia	Health and Medicine	15000	20.670451	-103.34864	Galeana 396, Guadalajara, Jalisco
-Clinica Flor de Loto	Japanese Restaurant	13263	20.669757	-103.34717	Avenida 16 de Septiembre 495, 62632 Guadalajara, Jalisco
 Homeópata - Dra. Mónica Gama	Doctor's Office	15031	20.672822	-103.351296	490 Calle Prisciliano Sánchez (Enrique Gonzalez Martinez), 44100 Guadalajara, Jalisco
 Clinica Club Clide	Health and Medicine	15000	20.667743	-103.353332	Epigmenio González 1213, 44100 Guadalajara, Jalisco
 Dra Silvia Guillen Rincon	Dentist	15007	20.671394	-103.346618	Ramon Corona 370 25, 45190 Guadalajara, Jalisco
@@ -3414,13 +3248,10 @@ Galindo Jiménez Rafael E. Dr. (Galindo Jimenez Rafael E Dr)	Psychiatrist	15047	
 Farmacia Bali	Health and Medicine	15000	20.673756	-103.348067	Madero 311, Jalisco
 Fregoso Duncan Ana Paulina	Health and Medicine	15000	20.669705	-103.354173	Avenida Libertad 1482B, 44100 Guadalajara, Jalisco
 Laboratorio Optico Express	Ophthalmologist	15041	20.673556	-103.351586	217 Calle Enrique González Martínez, Guadalajara, 44100, 44100 Guadalajara, Jalisco
-Centro Optico Nutricional	Business and Strategy Consulting Office	11020	20.67439	-103.351503	Enrique Gonsalez Martinez 140, 44100 Guadalajara, Jalisco
 Analisis Clinica Rx Octe Sdrl D C	Healthcare Clinic	15011	20.667593	-103.354902	Avenida Federalismo 577, 44100 Guadalajara, Jalisco
 Cirugía Laser Ocular	Physician	15027	20.674309	-103.353066	Avenida Manuel López Cotilla 630, Guadalajara, Jalisco
 Jose Antonio Arreola Pineda	Dentist	15007	20.674358	-103.347295	16 de Septiembre 146, 45100 Guadalajara, Jalisco
 Gomez Juliett Ivanessa	Health and Medicine	15000	20.675825	-103.352332	8 de Julio 20, 44100 Guadalajara, Jalisco
-Universidad Actitudinal de Mexico	Education	12009	20.668666	-103.356868	Rayon 558, 44170 Guadalajara, Jalisco
-Grupo de Alcoholicos Anonimos	Laboratory	11109	20.677842	-103.350446	Gonzalez Ortega 89, 44200 Guadalajara, Jalisco
 Consultorio	Medical Center	15016	20.677572	-103.34907	Avenida Guadalupe 865
 Aguilar Quiroz Silvia	Health and Medicine	15000	20.67779	-103.348118	Pedro Loza 81, Guadalajara, Jalisco
 Consultorio Dental	Dentist	15007	20.676266	-103.353	Morelos 695 (Pavo y Ocho de Julio), 44100 Guadalajara, Jalisco
@@ -3441,7 +3272,6 @@ Muebles y Equipos Medico	Physician	15027	20.685073	-103.350178	Gonzalez Ortega 5
 Mejia Sandoval Armida	Veterinarian	15054	20.684547	-103.353989	Juan Alvarez 1577, 44600 Guadalajara, Jalisco
 Urgencias Adultos	Health and Medicine	15000	20.688515	-103.343484	Antiguo Hospital Civil de Guadalajara Fray Antonio Alcalde (Hospital 278), Guadalajara, Jalisco
 Klinikken	Dentist	15007	20.688231	-103.348077	Guadalajara, Jalisco
-Campollo Rivas Octavio Dr	Machine Shop	11118	20.685894	-103.349513	Clle Santa Monica 621, 44200 Guadalajara, Jalisco
 Rodolfo Valencia Romero	Doctor's Office	15031	20.688975	-103.34778	Jesus Garcia 495 (Av. Alcalde), 44270 Guadalajara, Jalisco
 Albergue Fray Antonio Alcalde y Barriga.	Assisted Living Service	15004	20.685954	-103.347692	Avenida Alcalde 576, 44200 Guadalajara, Jalisco
 Clínica Oftalmológica Alcalde 951	Ophthalmologist	15041	20.691345	-103.348485	44260 Guadalajara, Jalisco
@@ -3475,14 +3305,12 @@ Auditorio Magno HCFAA	Hospital	15014	20.687381	-103.343338
 Farmacia Dermatologica	Health and Medicine	15000	20.69404	-103.353106	os Heroes 270, 44520 Guadalajara, Jalisco
 Dr. Leonardo Salmeron R.	Psychologist	15020	20.688401	-103.346347	Pino Suárez 771, 45500 Guadalajara, Jalisco
 Salud de los Enfermos Ac	Health and Medicine	15000	20.691996	-103.347867	Gobernador Curiel 951, 44270 Guadalajara, Jalisco
-Hospital Civil de Guadalajara Ac	College and University	12013	20.685587	-103.344017	Hospital 252, Guadalajara, Jalisco
 Nutrivitia	Doctor's Office	15031	20.696867	-103.350427	Ávila Camacho 1088, Guadalajara, Jalisco
 Consultorio 14	Doctor's Office	15031	20.697804	-103.349357	
 Consultorio 17	Doctor's Office	15031	20.69786	-103.349331	
 Urgencias IMSS Clinica # 51	Hospital	15014	20.697985	-103.349538	Magisterio 1495 (Mar Rojo), Guadalajara, Jalisco
 Imss Uninet	Doctor's Office	15031	20.697796	-103.349362	Magisterio 1425 (Zacatecas), 44266 Guadalajara, Jalisco
 Unidad de Medicina Familiar No. 51 IMSS	Hospital	15014	20.697975	-103.349409	Guadalajara, Jalisco
-Larre	Laboratory	11109	20.698461	-103.34936	Jalisco
 Clinica Down DIF	Doctor's Office	15031	20.697003	-103.347821	Guadalajara, Jalisco
 Joel Ortiz y Sucesores S. de R.L. de C.V.	Orthopedic Surgeon	15043	20.696709	-103.352322	Plan de San Luis 1526, 44260 Guadalajara, Jalisco
 Consultorio Dental	Dentist	15007	20.699937	-103.35025	
@@ -3491,7 +3319,6 @@ Denticlinik	Dentist	15007	20.699609	-103.352227
 Centro de Rehabilitacion Integral	Hospital	15014	20.701133	-103.348242	Guadalajara, Jalisco
 Dr Luis Partida Contreras	Doctor's Office	15031	20.700855	-103.347372	Avenida Antonio Alcalde 1826, Guadalajara, Jalisco
 Clínica dental del bebe	Dentist	15007	20.693518	-103.346354	Guadalajara, Jalisco
-Tatoo shop	Laboratory	11109	20.696378	-103.35553	Jalisco
 Clinica Dental Padre Benjamin Velazquez	Dentist	15007	20.691795	-103.347563	Guadalajara, Jalisco
 Enlaces Especializados Odontologicas	Dentist	15007	20.700055	-103.345004	Avenida los Cientificos 765, 44270 Guadalajara, Jalisco
 Bañuelos Radiólogos	Hospital	15014	20.69148	-103.348456	Guadalajara, Jalisco
@@ -3505,7 +3332,6 @@ Salud de los Enfermos A.C.	Health and Medicine	15000	20.690771	-103.347471	Juan 
 Unidad Dental Colinas	Dentist	15007	20.698061	-103.343244	Paseo de los Filósofos 1347, Guadalajara, Jalisco
 Hospital Alcalde	Hospital	15014	20.69091	-103.347457	Guadalajara, Jalisco
 Cuartitou	Assisted Living Service	15004	20.690898	-103.347398	44278 Guadalajara, Jalisco
-Dif Jalisco	Government Building	12064	20.696137	-103.347519	Avenida Alcalde 1220, 44270 Guadalajara, Jalisco
 Laboratorio MarVir	Medical Lab	15017	20.69946	-103.3435	
 Dr. Oscar Franco Dentista	Dentist	15007	20.697861	-103.34294	Paseo de los Filosofos, 1347A, 44270 Guadalajara, Jalisco
 Medical Pluss	Health and Medicine	15000	20.693777	-103.350346	Avenida de los Maestros, 44158 Guadalajara, Jalisco
@@ -3520,7 +3346,6 @@ Odonto-Health C.D.Raúl Parra	Dentist	15007	20.703317	-103.347201	Félix Palavic
 Sanatorio Versalles	Hospital	15014	20.708341	-103.346365	Avenida Alcalde 2170, 44220 Guadalajara, Jalisco
 Consultorio Dental Dra Rosario Mora	Dentist	15007	20.70921	-103.347121	Guadalajara, Jalisco
 Servicios Asistenciales Regina A.C.	Assisted Living Service	15004	20.710116	-103.351492	
-Centro de Desarrollo de la Consciencia AC	Education	12009	20.704741	-103.345623	Felix Palavicini 2032, 44298 Guadalajara, Jalisco
 Unidad Medica São Paulo	Medical Center	15016	20.703003	-103.345797	Guadalajara, Jalisco
 Dentocek	Medical Center	15016	20.709705	-103.34673	Guadalajara, Jalisco
 Laboratorio Clínico	Medical Lab	15017	20.708047	-103.347043	Prolongación Avenida Alcalde 2183, 44220 Guadalajara, Jalisco
@@ -3554,7 +3379,6 @@ Infectologia Molecular/HEILEN MEDICAL	Physician	15027	20.713222	-103.346915	Sant
 Romero Ochoa Juan Manuel	Health and Medicine	15000	20.718256	-103.348816	Guadalajara, Jalisco
 Muñoz Aguayo Elodia Ana Bertha	Plastic Surgeon	15046	20.718287	-103.348778	Zapopan, Jalisco
 Psicopedagogia Con Perspectiva	Psychologist	15020	20.718304	-103.348801	Avenida Paseo de los Virreyes 92 7C, Jalisco
-Aceite de Hueso de Mamey	Oil Change Service	11013	20.712495	-103.346599	Avenida Fidel Velázquez Sánchez 1020, 44220 Guadalajara, Jalisco
 Diagnostico Paraclinico	Medical Lab	15017	20.716341	-103.344789	Avenida Mexico 2798A, 45190 Guadalajara, Jalisco
 Lopez Muñoz Jose	Dentist	15007	20.720535	-103.353188	Avenida Federalismo 2820, Jalisco
 Farmacias GI	Health and Medicine	15000	20.721644	-103.346204	Occidental 430A (Av. Alcalde), 45190 Zapopan, Jalisco
@@ -3577,7 +3401,6 @@ Torres Lozano Carlos Dr.	Physician	15027	20.733523	-103.346919	Guadalupe 605, 45
 UMF ISSSTE Estatuto Juridico Tuzania	Doctor's Office	15031	20.737131	-103.347446	Avenida Laureles (A. Periférico Manuel Gómez Morin Nte.), 45180 Zapopan, Jalisco
 La Consul	Doctor's Office	15031	20.74078	-103.348692	Zapopan, Jalisco
 Productos Farmaceuticos Collins	Health and Medicine	15000	20.749981	-103.348618	Agua Prieta 100, 44008 Guadalajara, Jalisco
-Clinica Veterinaria Medical Vet	Pet Grooming Service	11134	20.750421	-103.344563	San Pedro 4583C, 45189 Zapopan, Jalisco
 Pesqueira Melgarejo Roberto Dr.	Dentist	15007	20.763574	-103.347658	Remaso de los laureles 2083, 45238 Zapopan, Jalisco
 Agencia de Enfermeras Nuestra Señora de Fatima	Nurse	15021	20.774571	-103.351667	Clle Ostol Nª995, 45189 Guadalajara, Jalisco
 Ambulancias Privadas Sos	Ambulance Service	15009	20.606773	-103.342638	Andador Francisco Centeno 266, 44990 Guadalajara, Jalisco
@@ -3592,9 +3415,7 @@ Natural Scents de México	Alternative Medicine Clinic	15003	20.616454	-103.33811
 Dental San Jorge CD. Jorge Romero Hdez. Odontologia Integral.	Dentist	15007	20.613726	-103.336893	Calle San Jorge 93D (Calle San Juan), 45590 Tlaquepaque, Jalisco
 Liendrera Magica	Physician	15027	20.620443	-103.344685	Caballete 62, 44860 Guadalajara, Jalisco
 Laboratorios Pisa	Medical Lab	15017	20.617888	-103.335118	Cll Broca 2501, 44490 Guadalajara, Jalisco
-Alfa New Life Internacional	Juice Bar	13059	20.621783	-103.342824	Patria Norte 138, 45027 Guadalajara, Jalisco
 Centros de Integracion Juvenil	Physician	15027	20.632834	-103.340037	Arroz 501 14, 44470 Guadalajara, Jalisco
-Simec Imss	Taco Restaurant	13306	20.638791	-103.341321	Ramal del Ferrocarril (Lazaro Cardenas), Guadalajara, Jalisco
 Cajaplax	Home Health Care Service	15012	20.649995	-103.342923	Gabino Barreda 1290, 9, 44460 Guadalajara, Jalisco
 Enfermeria Megacall	Emergency Room	15010	20.65035	-103.33492	Guadalajara, Jalisco
 Farmatec	Veterinarian	15054	20.653628	-103.334723	Silverio Garcia 1438, 44430 Guadalajara, Jalisco
@@ -3614,7 +3435,6 @@ CETEN H. Sagrado Corazon	Hospital	15014	20.67018	-103.339085	Guadalajara, Jalisc
 Hospital del Sagrado Corazón	Hospital	15014	20.669952	-103.338923	Antonio Rosales 204 (Col. Analco), 44450 Guadalajara, Jalisco
 Gabinete de Cardiologia H.S.C.	Doctor's Office	15031	20.670346	-103.338171	Guadalajara, Jalisco
 Secretaria de Salubridad y Asistencia Ss	Healthcare Clinic	15011	20.672086	-103.342273	Aldama 75, 44008 Guadalajara, Jalisco
-Estetica paty	Health and Beauty Service	11061	20.670431	-103.337515	Guadalajara, Jalisco
 Homeopata	Alternative Medicine Clinic	15003	20.667656	-103.34314	28 de Enero 492B, Guadalajara, Jalisco
 Aleaciones Dentales Zeyco	Health and Medicine	15000	20.669623	-103.344268	Constitucion 65, Guadalajara, Jalisco
 Veterinaria la Vaquita	Veterinarian	15054	20.670318	-103.344199	Calzada Independencia Sur 331 (Esq Avenida Revolucion), 44100 Guadalajara, Jalisco
@@ -3633,14 +3453,12 @@ Consultorio Dental	Dentist	15007	20.666367	-103.335394	Revolución 572, 44450 Gu
 Huerta Aguilar Leni T. Dra.	Physician	15027	20.671704	-103.341469	Aldama 105, 52180 Mexicaltzingo, Estado de México
 Hospital del Valle de Atemajac	Hospital	15014	20.672356	-103.34257	Cll 55 s/n, 45190 Guadalajara, Jalisco
 Farmacias del Pueblo	Health and Medicine	15000	20.673754	-103.342107	Gigantes 21, 44360 Guadalajara, Jalisco
-Sanando Acupuntura Estética y Auriculoterapia Diplomados en Guadalajara	Education	12009	20.674481	-103.3386	Avenida Francisco Javier Mina 3122, 44810 Guadalajara, Jalisco
 Flores Ramirez Gabriela	General Surgeon	15035	20.673159	-103.336594	Alvaro Obregon 320, 44360 Guadalajara, Jalisco
 Farmacias el Fenix del Centro	Health and Medicine	15000	20.673659	-103.344773	Francisco I Madero 90, 45400 Guadalajara, Jalisco
 Centro de Urologia Integral Dr. Godofredo Neyra Argote	Health and Medicine	15000	20.672671	-103.334505	Azteca 288, Guadalajara, Jalisco
 Dr. Hugo Trejo Gallegos. Ortodoncia y Ortopedia	Dentist	15007	20.672671	-103.334505	Avenida Hidalgo 2092-104, 44600 Guadalajara, Jalisco
 Laboratorios Sophia	Medical Lab	15017	20.672671	-103.334505	Pse del Norte 5255, 45010 Guadalajara, Jalisco
 Abyvet Veterinaria	Medical Center	15016	20.683606	-103.339633	Guadalajara, Jalisco
-Anaquimet	Engineer	11034	20.677479	-103.340115	Republica 17 Local 28 (Calzada independencia), 44360 Guadalajara, Jalisco
 Secretaria de Salud	Hospital	15014	20.67886	-103.341986	Doctor Baeza Alzaga 107 (Independencia), 44100 Guadalajara, Jalisco
 Cruz Roja Mexicana	Hospital	15014	20.679338	-103.342262	Juan Manuel 52 (Baeza Alzaga), 44100 Guadalajara, Jalisco
 Cruz Roja Mexicana Delegacion Guadalajara	Hospital	15014	20.679635	-103.342038	Doctor Baeza Alzaga s/n, 44280 Guadalajara, Jalisco
@@ -3660,17 +3478,14 @@ Veterinaria Safari	Veterinarian	15054	20.684481	-103.336837	Belisario Dominguez 
 Homeópatas Hahnemann	Health and Medicine	15000	20.676398	-103.346119	Calle Pedro Moreno 912, 44200 Guadalajara, Jalisco
 Dra. Adriana Tarcila Velásquez Pérez	Obstetrician Gynecologist (Ob-gyn)	15039	20.68282	-103.34496	Herrera y Cairo 219, 44270 Guadalajara, Jalisco
 Edmundo Robles Santoyo	Medical Center	15016	20.680003	-103.334615	Mariano Jimenez 527, 44360 Guadalajara, Jalisco
-Checcos A. C.	Organization	12082	20.684954	-103.342803	Coronel Calderón 613, 44100 Guadalajara, Jalisco
 Hospital Civil de Guadalajara	Hospital	15014	20.685871	-103.333964	Salvador Quevedo 750 (Sierra Nevada), 44340 Guadalajara, Jalisco
 Rayos X	Medical Lab	15017	20.686788	-103.342943	Guadalajara, Jalisco
 Instituto Jaliscience de Cancerologia	Hospital	15014	20.686892	-103.342933	Gral Calderon 715 (Hospital), 44280 Guadalajara, Jalisco
 Otorrinolaringologia H. Fray Antonio Alcalde	Hospital	15014	20.686724	-103.343015	Guadalajara, Jalisco
-Nutrición Clínica	Medical School	12045	20.686642	-103.342967	Guadalajara, Jalisco
 Ortopedia la Anericana	Doctor's Office	15031	20.685968	-103.342767	Guadalajara, Jalisco
 Reumatología	Doctor's Office	15031	20.686029	-103.343084	Antiguo Hospital Civil de Guadalajara Fray Antonio Alcalde (Hospital 278), Guadalajara, Jalisco
 Quirofanos Torre de Ginecologia	Hospital	15014	20.688517	-103.343938	Antiguo Hospital Civil de Guadalajara Fray Antonio Alcalde, Guadalajara, Jalisco
 Ka-an	Veterinarian	15054	20.69131	-103.340419	
-Sub delegación reforma libertad IMSS	Government Building	12064	20.691719	-103.337038	Guadalajara, Jalisco
 Nouvelle	Doctor's Office	15031	20.692888	-103.342454	Guadalajara, Jalisco
 Banco de sangre Hospital Civil de Guadalajara Dr. Juan I. Menchaca	Medical Lab	15017	20.686646	-103.334016	Sierra Nevada 815, Guadalajara, Jalisco
 Unidad Medica AVBA	Doctor's Office	15031	20.693851	-103.338092	De los Maestros 311, Guadalajara, Jalisco
@@ -3680,14 +3495,12 @@ Urgencias Gineco-obstetricia	Hospital	15014	20.685871	-103.333964	Guadalajara, J
 Clínica de Terapia Física	Doctor's Office	15031	20.68738	-103.333543	Guadalajara, Jalisco
 Quirófanos piso 2	Hospital	15014	20.686344	-103.333701	Guadalajara, Jalisco
 Unidad Materno Fetal HCJIM	Doctor's Office	15031	20.686049	-103.333775	Guadalajara, Jalisco
-Animal Life	Pet Service	11133	20.702687	-103.342393	Avenida Circunvalación División del Norte 713, 44298 Guadalajara, Jalisco
 Consultorio Dental Alma	Dentist	15007	20.696442	-103.341462	Guadalajara, Jalisco
 Doctora Lupita	Medical Center	15016	20.69699	-103.3418	Guadalajara, Jalisco
 Petzu	Veterinarian	15054	20.6968	-103.338425	Normalistas 455, 44270 , Jalisco
 Veterinaria Izquierdo	Veterinarian	15054	20.697367	-103.341628	Luis Cabrera 529, 44270 Guadalajara, Jalisco
 Piesalutare	Doctor's Office	15031	20.695029	-103.339205	Guadalajara, Jalisco
 Pie de Salutare	Doctor's Office	15031	20.695168	-103.339191	Paseo de los Artistas 1159 (Normalistas), 44270 Guadalajara, Jalisco
-Instituto Jaliscience de Cancerologia	College and University	12013	20.696658	-103.342801	Loma Alta s/n, 44270 Guadalajara, Jalisco
 ClisDEnt	Dentist	15007	20.696779	-103.33789	Guadalajara, Jalisco
 Dr Alejandro Reynoso Pediatra Nefrólogo	Doctor's Office	15031	20.696648	-103.337697	Avenida Normalistas 1291, 44270 Guadalajara, Jalisco
 Consultorio Dental	Dentist	15007	20.699019	-103.342112	Guadalajara, Jalisco
@@ -3704,7 +3517,6 @@ El Cardenal	Veterinarian	15054	20.701105	-103.340218	Francisco Labastida 579, 44
 Natural Life Biophysics Nutrition Center	Medical Center	15016	20.696242	-103.335649	Marsella 570, Guadalajara, Jalisco
 Ortodoncia Camacho	Dentist	15007	20.694685	-103.336319	Guadalajara, Jalisco
 Garcia Quirarte Raul Dr	General Surgeon	15035	20.701239	-103.339298	Circunvalacion División del Norte 513, 44260 Guadalajara, Jalisco
-Clinica Mexfam	Non-Profit Organization	12086	20.695836	-103.33582	Avenida de los Maestros, Guadalajara, Jalisco
 Ramirez Gaona Marisela	Physician	15027	20.692782	-103.34254	Avenida de los Maestros 545, 44270 Guadalajara, Jalisco
 Odontologia Integral	Dentist	15007	20.692712	-103.342547	Calle Fray Junípero Serra (Pedro Gómez Maraver), Guadalajara, Jalisco
 Clinica Santo Domingo	Pediatrician	15045	20.701189	-103.339108	Circunvalacion División del Norte 513, 44260 Guadalajara, Jalisco
@@ -3720,7 +3532,6 @@ Gonzalez Sandoval Elpidio Alberto Dr	Obstetrician Gynecologist (Ob-gyn)	15039	20
 Maygo Especialidades Médicas	Maternity Clinic	15015	20.694907	-103.334173	Guadalajara, Jalisco
 Centro de Atencion Integral al Pie	Medical Center	15016	20.703013	-103.342102	
 Beauty&health -Consultorio Dental	Dentist	15007	20.699333	-103.334045	Guadalajara, Jalisco
-Innovanut	Coworking Space	11128	20.694727	-103.333857	Avenida de los maestros 67 (Alameda), Guadalajara, Jalisco
 Cisadent	Dentist	15007	20.706955	-103.341266	44298 Guadalajara, Jalisco
 Consultorio Homeopatico	Doctor's Office	15031	20.70494	-103.342104	Guadalajara, Jalisco
 Núcleo Médico Hernández	Dentist	15007	20.704829	-103.342298	Calle Jorge Villaseñor 748 (Aurelio González), 44298 Guadalajara, Jalisco
@@ -3745,7 +3556,6 @@ Nucleo Medico Quirurgico	Doctor's Office	15031	20.704947	-103.33964	Calle Juan d
 Consultorio Medico	Doctor's Office	15031	20.71499	-103.341165	Avenida Patria
 Clínica Veterinaria Huizar	Veterinarian	15054	20.716182	-103.341176	Avenida Experiencia 3257 (Fraccionamiento Autocinema), Guadalajara, Jalisco
 Centro de Salud Rosales	Hospital	15014	20.716702	-103.338568	Avenida Rosales, Guadalajara, Jalisco
-Definitive	Massage Clinic	11070	20.71399	-103.336274	Patria 1507, 45059 Guadalajara, Jalisco
 Dental Plus	Dentist	15007	20.719225	-103.34152	Cádiz 2904 (Setubal Y Cintra), 45134 Guadalajara, Jalisco
 Hospital de la Mujer	Hospital	15014	20.71925	-103.336047	Guadalajara, Jalisco
 Majonica Samael AC	Psychologist	15020	20.715726	-103.333962	Martin Gonzalez 3967 (Jose maria montenegro), 44240 Guadalajara, Jalisco
@@ -3765,7 +3575,6 @@ Berny's Vet	Veterinarian	15054	20.731457	-103.342407	Zapopan, Jalisco
 Especialidades Veterinarias de Guadalajara	Veterinarian	15054	20.730125	-103.334338	Tepeyac Sn 10, 45050 Zapopan, Jalisco
 Centro de Salud Arroyo Hondo	Doctor's Office	15031	20.747333	-103.343251	Zapopan, Jalisco
 NOVAPROT, Consultoría Ejecutiva Dental	Dentist	15007	20.747512	-103.343297	Guadalajara, Jalisco
-Abastecedora Veterinaria de Jal.	Loans Agency	11054	20.743971	-103.340734	Cordoba 39A, 45186 Guadalajara, Jalisco
 Martin Huizar Damian	Dentist	15007	20.744404	-103.336761	Jalisco
 Cruz Verde Villa de Guadalupe	Emergency Room	15010	20.755964	-103.342518	45180 Zapopan, Jalisco
 Cruz Verde Villas de Guadalupe	Medical Center	15016	20.755948	-103.342893	Carretera a Saltillo 100 (Casiano Torres), 45180 Zapopan, Jalisco
@@ -3827,9 +3636,6 @@ Unidad Medicina Familiar Unidad Modelo ISSSTE	Doctor's Office	15031	20.659823	-1
 Isra Vett	Veterinarian	15054	20.661895	-103.331302	Guadalajara, Jalisco
 Psicologia Ivonne	Doctor's Office	15031	20.66158	-103.330041	Guadalajara, Jalisco
 Dr Descuento	Doctor's Office	15031	20.662873	-103.33043	Guadalajara, Jalisco
-Escuela Primaria Unidad Modelo	College Classroom	12022	20.659773	-103.328538	Periquillo, Guadalajara, Jalisco
-Issste - Guadalajara	Insurance Agency	11107	20.658468	-103.329704	Boulevard Marcelino Garcia Barragan 1261, Guadalajara, Jalisco
-Organismo de Nutricion Infantil	Office	11124	20.658567	-103.32963	Boulevard Marcelino Garcia Barragan 1280, 44430 Guadalajara, Jalisco
 Clinica de los Ojos	Ophthalmologist	15041	20.658314	-103.329669	Boulevard Gral. Marcelino García Barragán 1290, 44438 Guadalajara, Jalisco
 Laboratorio de los papás de Abraham	Medical Lab	15017	20.662398	-103.328923	Guadalajara, Jalisco
 Laboratorio Clinico Hera	Medical Lab	15017	20.662807	-103.329206	Avenida Revolución 1172 2, 44400 Guadalajara, Jalisco
@@ -3838,7 +3644,6 @@ Sanyiao	Health and Medicine	15000	20.661536	-103.32739	Revolución 1276 (Perez A
 Calle Docto. Arce # 181, Fraccionamiento Observatorio, Jalisco, Mexico, 44400	Doctor's Office	15031	20.664358	-103.327626	Guadalajara, Jalisco
 Consultorio de Psicologia	Doctor's Office	15031	20.665984	-103.329284	Guadalajara, Jalisco
 Consultorio Dental - Dra. Godínez	Dentist	15007	20.66609	-103.333737	Guadalajara, Jalisco
-Geeo	Telecommunication Service	11170	20.663963	-103.32624	Marconi 280, 44400 Guadalajara, Jalisco
 Becerra Medina Adrian	Dentist	15007	20.66446	-103.328005	Pensador Mexicano 1193, 44400 Guadalajara, Jalisco
 "Casa de Descanso ""San Pedro """	Nursing Home	15022	20.670038	-103.33276	Gomez Farias 1020B, 44280 Guadalajara, Jalisco
 Clinica Dental Casillas Hernandez	Dentist	15007	20.671665	-103.330394	Álvaro Obregón 657 (Bélisario Domínguez), Guadalajara, Jalisco
@@ -3852,7 +3657,6 @@ Clinica 3	Emergency Room	15010	20.670164	-103.328342	Guadalajara, Jalisco
 Consultorio Dental	Dentist	15007	20.671812	-103.328682	Guadalajara, Jalisco
 Dr. Hugo Luna	Doctor's Office	15031	20.667739	-103.333767	Calzada del Ejército, Guadalajara, Jalisco
 Clinica Santa Teresa	Ophthalmologist	15041	20.672667	-103.330229	Belisario Dominguez 120 (Javier Mina), 44750 Guadalajara, Jalisco
-Seg Ingenieria y Equipos Para Gases Medicinales	Chemicals and Gasses Manufacturer	11024	20.672112	-103.3286	Javier Mina 735, 44380 Guadalajara, Jalisco
 Consultorio Dra. Arcelia Varela	Doctor's Office	15031	20.673449	-103.330247	Guadalajara, Jalisco
 Salud Digna	Medical Lab	15017	20.673257	-103.332697	Javier Mina 511, 44360 Guadalajara, Jalisco
 Clinica de Nuestra Señora del Rosario	Orthopedic Surgeon	15043	20.674407	-103.332194	Dionisio Rodriguez 493, 44360 Guadalajara, Jalisco
@@ -3860,7 +3664,6 @@ Santa Isabel Maternidad y Sanatorio	Hospital	15014	20.674344	-103.329738	Belisar
 Unidad Médica Dr. Manuel Gutiérrez	Doctor's Office	15031	20.674977	-103.329351	Guadalajara, Jalisco
 Centro de Salud 1	Doctor's Office	15031	20.672419	-103.325789	Guadalajara, Jalisco
 Salud Integral Romero	Medical Center	15016	20.670511	-103.325056	Avenida Javier Mina 860 (La 34), Guadalajara, Jalisco
-Monort'z Servicios Medicos Veterinarios	Agriculture and Forestry Service	11002	20.672434	-103.325717	Gomez de Mendiola 17, Guadalajara, Jalisco
 Clinica Hospitalaria Oblatos	Hospital	15014	20.675304	-103.32938	Belisario Domínguez 288, 44360 Guadalajara, Jalisco
 Dermika Piel y Belleza	Dermatologist	15030	20.67565	-103.330709	Cll Manuel Acuña 1895, 44100 Guadalajara, Jalisco
 Camas de Hospital Ortiz	Health and Medicine	15000	20.67565	-103.330709	Manuel Acuña 1152, 44600 Guadalajara, Jalisco
@@ -3872,7 +3675,6 @@ Farmacia Minerva	Health and Medicine	15000	20.670888	-103.328204	Cll Emiliano Za
 Ven a Sanki Mayor	Nutritionist	15023	20.672395	-103.329479	Javier Mina 691, 44380, 44380 Guadalajara, Jalisco
 Meraz Rios Luis Angel	Obstetrician Gynecologist (Ob-gyn)	15039	20.672671	-103.334505	Avenida Manuel J Clouthier 911, Guadalajara, Jalisco
 Productos Zilk	Physician	15027	20.674915	-103.328293	Aquiles Serdan 219, Jalisco
-Dr. Juan Carlos Olmedo Camaño Cirujano Plastico	Health and Beauty Service	11061	20.67565	-103.330709	Manuel Acuña 2844, 44670 Guadalajara, Jalisco
 Endocirugia	General Surgeon	15035	20.671775	-103.324941	Esteban Loera 138 7, 44700 Guadalajara, Jalisco
 UMAE Pediatría	Health and Medicine	15000	20.683581	-103.32822	Guadalajara, Jalisco
 Legoff Engwall Victor	Dentist	15007	20.678327	-103.329599	Jarauta 482, 44360 Guadalajara, Jalisco
@@ -3899,7 +3701,6 @@ MSDental Industry	Dentist	15007	20.684687	-103.333629	Calle López Portillo 774,
 Tococirugía UMAE	Medical Center	15016	20.684377	-103.327763	Guadalajara, Jalisco
 Clinica Odontopediatria	Dentist	15007	20.685164	-103.332505	Calle Sierra Mojada
 Farmacia de Gine	Doctor's Office	15031	20.684294	-103.327188	44340 Guadalajara, Jalisco
-Drive In Centro Medico de Occidente	Speakeasy	13021	20.684388	-103.327892	Guadalajara, Jalisco
 Fundación San Elías	Medical Center	15016	20.677505	-103.326442	Guadalajara, Jalisco
 Varela Garcia Felipe Dr	General Surgeon	15035	20.680453	-103.327767	Belisario Dominguez 590, 44360 Guadalajara, Jalisco
 Gobierno del Estado de Jalisco	Hospital	15014	20.68433	-103.33185	Salvador Quevedo y Zubieta s/n, 44340 Guadalajara, Jalisco
@@ -3973,19 +3774,16 @@ Izaguirre Arrieta Marcelo	General Surgeon	15035	20.693168	-103.329412	Sierra Nev
 Hall Martinez Judith Ann Dra	Physician	15027	20.695677	-103.326699	Circunvalacion Doctor Atl 154, Guadalajara, Jalisco
 Perez Rios Alma Minerva Dra	Obstetrician Gynecologist (Ob-gyn)	15039	20.695449	-103.3267	Avenida Circunvalacion Doctor Atl 154 3, 44840 Guadalajara, Jalisco
 Endocrinologia Pediatrica	Health and Medicine	15000	20.695249	-103.326612	Circunvalacion Doctor Atl 312, 44340 Guadalajara, Jalisco
-Centro de Investigaciones de Patologia Clinica	Laboratory	11109	20.701188	-103.329777	Sr. Atl 188, 44290 Guadalajara, Jalisco
 Odontológia Integral	Dentist	15007	20.704721	-103.332664	Samuel Ramos (Monte Olivette), 44290 Guadalajara, Jalisco
 Loyola Dental Center	Dentist	15007	20.708148	-103.332581	
 Casa de salud estadio	Medical Center	15016	20.709599	-103.328998	Guadalajara, Jalisco
 Nueva Sonrisa Dental	Dentist	15007	20.701944	-103.332695	Cll Monte Sn Elias 1573 (Monte Olivete), 44290 Guadalajara, Jalisco
 Rossette	Hospital	15014	20.710095	-103.330701	Circunvalación, Guadalajara, Jalisco
-Consultorio Médico Pediatría	Taco Restaurant	13306	20.707848	-103.328528	Monte Tabor 154 (Sierra leona), 44240 Guadalajara, Jalisco
 Unidad Medica Gineco-obstetrica	Doctor's Office	15031	20.708241	-103.324165	Mesa del Norte 374A, Guadalajara, Jalisco
 Rehintegra Deportiva	Chiropractor	15006	20.711396	-103.326942	Guadalajara, Jalisco
 Farmacias ABC	Health and Medicine	15000	20.700472	-103.327904	Calzada Independencia 138, 44100 Guadalajara, Jalisco
 Bustos Zermeño Raíl Dr.	Optometrist	15024	20.716829	-103.330352	Guadalupe Zuno 1789, Guadalajara, Jalisco
 Garcia Perez Vicente Dr	Physician	15027	20.717024	-103.331435	J Guadalupe Zuno 2185 s/n, 44160 Guadalajara, Jalisco
-Lotus Salón y Spa	Massage Clinic	11070	20.717016	-103.328217	Eutimio Punzón 827, Guadalajara, Jalisco
 Dental Wonka	Dentist	15007	20.715177	-103.326808	44370 Guadalajara, Jalisco
 TERAPIA INTENSIVA Hospital General de Occidente	Hospital	15014	20.717111	-103.327408	Guadalajara, Jalisco
 Centro de Salud Rancho Nuevo	Health and Medicine	15000	20.718328	-103.326443	Juán B. Berdeja (Daniel Larios), 44240 Guadalajara, Jalisco
@@ -4012,7 +3810,6 @@ Hospital San Jose de Tlaquepaque	Hospital	15014	20.633286	-103.316676	Camarena 2
 Maver	Health and Medicine	15000	20.633355	-103.316669	Oleoducto 2804, 44490 Tlaquepaque, Jalisco
 Distribuidora Médica Tapatía	Health and Medicine	15000	20.638234	-103.320585	Calle Río Juárez 495, 44890 Guadalajara, Jalisco
 Centro de Imagen Radiograficas	Doctor's Office	15031	20.632591	-103.316746	Tlaquepaque, Jalisco
-Ortopedista	Taco Restaurant	13306	20.632906	-103.316325	Camarena 210, Tlaquepaque, Jalisco
 Ortodoncia Dental Studio	Dentist	15007	20.638308	-103.319969	Rio Juarez, 44890 Tlaquepaque, Jalisco
 Cuevas Bahena Sandra Dra	Obstetrician Gynecologist (Ob-gyn)	15039	20.637726	-103.318733	5 de Febrero 86, 45430 Guadalajara, Jalisco
 Consultorio de la Doctora Sara	Doctor's Office	15031	20.63829	-103.319997	Jalisco
@@ -4032,7 +3829,6 @@ Dra. Maria Emilia Sanchez Ornelas	Obstetrician Gynecologist (Ob-gyn)	15039	20.64
 Medica Bosques del Boulevard	Medical Center	15016	20.642765	-103.319031	Jalisco
 Consultorio del Dr Jose Luis y Dra. Rosana	Doctor's Office	15031	20.642634	-103.318721	Jalisco
 Centro Podologico Boulevard	Doctor's Office	15031	20.644294	-103.318878	
-Tlaquepaque Pueblito	Residential Building	12094	20.643963	-103.318264	Boulevard Marcelino García Barragan 1501 (Río Tuito), 44880 Tlaquepaque, Jalisco
 Dentimex	Dentist	15007	20.64721	-103.31915	Guadalajara, Jalisco
 Sanatorio Providencia de Tlaquepaque	Hospital	15014	20.638559	-103.316473	Niños Heroes 29 (Juárez), 44890 Tlaquepaque, Jalisco
 UNIMEF IPEJAL Tlaquepaque	Hospital	15014	20.644174	-103.314885	
@@ -4056,7 +3852,6 @@ Nutriologo	Doctor's Office	15031	20.657488	-103.320235	Guadalajara, Jalisco
 CONAFAN. Centro Odontologico y Nutriciónal de acondicionamiento Físico y Alimentación Saludable	Medical Center	15016	20.656105	-103.320612	Revolución 776, Guadalajará, Jalisco
 Rehabimed	Doctor's Office	15031	20.654527	-103.315523	Avenida Revolución 1989 (Calzada Olímpica), Guadalajara, Jalisco
 Clínica de Enfermedades Respiratorias	Doctor's Office	15031	20.654407	-103.315341	
-Comodiks	Manufacturer	11120	20.652785	-103.320297	José Rolón 1826, 44840 Guadalajara, Jalisco
 Veterinaria Akita	Veterinarian	15054	20.661775	-103.323932	Guadalajara, Jalisco
 Icaafyd	Doctor's Office	15031	20.658784	-103.323778	Guadalajara, Jalisco
 Ortopedia General	Orthopedic Surgeon	15043	20.663159	-103.319065	Antonio Tello Calle 52 162A, 44410 Guadalajara, Jalisco
@@ -4073,7 +3868,6 @@ Dentary	Dentist	15007	20.668161	-103.323618	Guadalajara, Jalisco
 Barajas Castellanos Jorge Alberto Dr	General Surgeon	15035	20.66908	-103.319056	Cll Javier Mina 1150, 44700 Guadalajara, Jalisco
 Cruz Verde	Hospital	15014	20.669476	-103.318831	Calle DE, Guadalajara, Jalisco
 Centro Odontologico de Occidente	Dentist	15007	20.668308	-103.32383	Gigantes 968A (Marconi Y Corregidora), Guadalajara, Jalisco
-Clinica de la Mujer Saludable Soc Civil	Health and Beauty Service	11061	20.669636	-103.324235	Alvaro Obregon 930, 44382 Guadalajara, Jalisco
 Dr. Ozono	Doctor's Office	15031	20.672311	-103.32126	Guadalajara, Jalisco
 Casa de la 42	Assisted Living Service	15004	20.672528	-103.320914	Manuel Cuesta Gallardo (Dionicio Rodigues), Guadalajara, Jalisco
 Sanatorio San Geronimo	Hospital	15014	20.669126	-103.318339	Javier Mina 1236 (Álvarez del Castillo & Rita Pérez de Moreno), 44730 Guadalajara, Jalisco
@@ -4106,7 +3900,6 @@ Clínica Integral de Odontología	Dentist	15007	20.67925	-103.316614	Jose Maria 
 Hogares Trinitarios A.c	Nursing Home	15022	20.680124	-103.316591	Pablo Valdez 1525, 44360 Guadalajara, Jalisco
 Veterinaria Animal Kingdom	Veterinarian	15054	20.683381	-103.319958	Guadalajara, Jalisco
 Consultorio del Dr. Jesús Sánchez	Doctor's Office	15031	20.683691	-103.320316	José María Lozano 1284 (Calle 34), Guadalajara, Jalisco
-El Ranchero	Mexican Restaurant	13303	20.6772	-103.315976	
 Hospital Fray Antonio de Segovia	Hospital	15014	20.681883	-103.316674	Calle Ramón Blancarte 699, 44370 Guadalajara, Jalisco
 Clinica San Juan Bosco	Healthcare Clinic	15011	20.676146	-103.315952	Industria 1428, 44380 Guadalajara, Jalisco
 Consultorio dental san juan bosco	Dentist	15007	20.676369	-103.315971	Jalisco
@@ -4117,9 +3910,7 @@ Nutrition center	Doctor's Office	15031	20.687863	-103.322037	Cerro del Borrego (
 Dentista Jose de Jesus Iñiguez	Dentist	15007	20.687475	-103.322011	Guadalajara, Jalisco
 Laboratorio	Medical Lab	15017	20.688614	-103.322665	Guadalajara, Jalisco
 Benessere's	Physical Therapy Clinic	15026	20.687976	-103.319175	Puerto melaque 1231A (San idelfonso), 44350 Guadalajara, Jalisco
-Parroquia Santa María Reina	Temple	12111	20.688017	-103.317551	San Mateo s/n (San Esteban), Guadalajara, Jalisco
 Medicina Nuclear C.M.N.O	Doctor's Office	15031	20.686966	-103.325172	Guadalajara, Jalisco
-Laboratorio de Asis	Scientific Equipment Supplier	11161	20.689637	-103.32484	Belisario Dominguez 1247, Guadalajara, Jalisco
 De Haro Ochoa Guillermina	Healthcare Clinic	15011	20.688952	-103.325038	Avenida Belisario Dominguez 1191, Guadalajara, Jalisco
 CMO urgencias toco	Hospital	15014	20.687214	-103.325212	Guadalajara, Jalisco
 Genera Alternativas A. C.	Mental Health Service	15018	20.68883	-103.31721	Manuel Acuña 469 (Pedro), 44100 Guadalajara, Jalisco
@@ -4159,7 +3950,6 @@ Consultorio Drs. Franco	Doctor's Office	15031	20.69938	-103.3197	Belisario Domí
 Veterinaria Garritas	Veterinarian	15054	20.69449	-103.32378	Guadalajara, Jalisco
 Nucleo de Diagnostico	Medical Lab	15017	20.694104	-103.324199	Avenida Circunvalacion Doctor Atl. N³ 276, 44370 Guadalajara, Jalisco
 Confort Dental	Dentist	15007	20.700644	-103.321083	Calle Lopez Mateos, 23468 Guadalajara, Jalisco
-Plata Leon Angela Ma	Hair Salon	11064	20.700584	-103.322903	Monte Alban 2118, 44320 Guadalajara, Jalisco
 Chenda's Place	Medical Center	15016	20.69462	-103.31689	Guadalajara, Jalisco
 Residencial Beverlisario Inn	Assisted Living Service	15004	20.699531	-103.317371	
 Núcleo Médico Oblatos	Doctor's Office	15031	20.692818	-103.31769	Calzada Circunvalación Oblatos 1328, 44350 Guadalajara, Jalisco
@@ -4172,7 +3962,6 @@ Clinica Oftalmologica Argus	Ophthalmologist	15041	20.694172	-103.327562	44340 Gu
 Hospital Rosette	Hospital	15014	20.694612	-103.324408	Circunvalacion Doctor Atl 487, 44340 Guadalajara, Jalisco
 Franco Flores Salvador Dr	Pediatrician	15045	20.700789	-103.318606	Belisario Dominguez 1967, 44320 Guadalajara, Jalisco
 Lara Velez Juan Victor Manuel	Medical Center	15016	20.694259	-103.325996	Sierra Mojada 1521, 44340 Guadalajara, Jalisco
-Club Dilectus SPA	Spa	11073	20.699329	-103.326412	Calle Puerto Altata 146, 44320 Guadalajara, Jalisco
 Clinica Dental Belisario	Dentist	15007	20.705025	-103.321007	Guadalajara, Jalisco
 Dental FRANCO	Dentist	15007	20.704763	-103.32061	Mesa central 300B (Sierra Mojada), 44300 Guadalajara, Jalisco
 Farmacia Nicaragua	Health and Medicine	15000	20.704863	-103.320402	Mesa Central 283, 44320 Guadalajara, Jalisco
@@ -4187,7 +3976,6 @@ Homeozone	Health and Medicine	15000	20.704121	-103.317366	Cerro de la Campana 22
 Esther Amaral Ruelas	Health and Medicine	15000	20.703575	-103.31755	Cerro de las Campanas 2295, 44320 Guadalajara, Jalisco
 Farmacias Familiares	Doctor's Office	15031	20.703049	-103.317538	Guadalajara, Jalisco
 Chopo	Medical Lab	15017	20.709539	-103.323563	Calzada Independencia Norte 2453, 44240 Guadalajara, Jalisco
-Cesa	Education	12009	20.706241	-103.316311	Cubolete 96, 44000 Guadalajara, Jalisco
 Diagnóstico Dental	Dentist	15007	20.710279	-103.320686	Guadalajara, Jalisco
 Archivo CECIS	Hospital	15014	20.710181	-103.32402	Guadalajara, Jalisco
 Issste Ce+Cecis	Health and Medicine	15000	20.710515	-103.323919	San Félix (Calzada Independencia Norte), 44240 Guadalajara, Jalisco
@@ -4216,7 +4004,6 @@ Fin del Mundo	Assisted Living Service	15004	20.734188	-103.319406
 ProHealth	Doctor's Office	15031	20.733432	-103.314174	Volcán Patamban 29 (Calzada Independencia), Guadalajara, Jalisco
 Minakata Ochoa Guillermo	Obstetrician Gynecologist (Ob-gyn)	15039	20.732176	-103.320416	Virgen 5586, Guadalajara, Jalisco
 Martha Selene Orozco Nuñez Dra	Dentist	15007	20.732747	-103.317742	Volcan Jorullo 11, 45070 Guadalajara, Jalisco
-El Fin del Mundo	Fast Food Restaurant	13145	20.733671	-103.319594	Monte Cáucaso (at Sierra Nevada), Guadalajara, Jalisco
 Laboratorios Sn Gabriel	Medical Lab	15017	20.734634	-103.315921	Cll Volcan Paricutin 6279, 45070 Guadalajara, Jalisco
 Morales Palomera Elsa Noemi	Health and Medicine	15000	20.739562	-103.315829	Volcan Toliman 5832, 44250 Guadalajara, Jalisco
 Dermatologico Tlaquepaque	Health and Medicine	15000	20.638517	-103.314534	Juarez 240 (Alfareros), 45500 Tlaquepaque, Jalisco
@@ -4226,7 +4013,6 @@ Consultorio Nutricional	Doctor's Office	15031	20.642018	-103.311269	Obregon 155 
 Dentista Nataly Rivas	Dentist	15007	20.642023	-103.310555	Tlaquepaque, Jalisco
 Diagnosis Servicios de Diagnóstico Integral	Medical Lab	15017	20.643471	-103.313525	Tlaquepaque, Jalisco
 Veterinaria Martín	Veterinarian	15054	20.640825	-103.311259	Constitución, 78 (Madero), Tlaquepaque, Jalisco
-San Dimas Ac Casa Hogar Para Ancianos	Non-Profit Organization	12086	20.640651	-103.312118	Guillermo Prieto 87, 45580 Tlaquepaque, Jalisco
 Consultorio Médico Rubén	Doctor's Office	15031	20.640634	-103.311442	Tlaquepaque, Jalisco
 Iliana Ferreira Ruiz Dentista	Dentist	15007	20.640157	-103.312491	Morelos 194, 45580 Tlaquepaque, Jalisco
 Diagnosticos Tlaquepaque	Medical Lab	15017	20.643692	-103.314146	Niños Heroes 240, 45500 Tlaquepaque, Jalisco
@@ -4286,7 +4072,6 @@ Imagenologia	Medical Center	15016	20.649497	-103.309355	44860 Guadalajara, Jalis
 Moreno Ramirez Everardo	Doctor's Office	15031	20.654962	-103.311464	Europa 2153, 45140 Guadalajara, Jalisco
 Centro de Salud Bucal	Dentist	15007	20.649623	-103.308759	Avenida Revolución 2514, Jalisco
 consultorio DR.Urbano	Doctor's Office	15031	20.654129	-103.309863	
-Hogar de Niños Ejercito de Salvación	Public and Social Service	12091	20.654156	-103.314848	Avenida Revolución 2011, 44800 Guadalajara, Jalisco
 Laboratorio Artes Análisis Clínicos	Medical Lab	15017	20.655506	-103.309142	Calle Artes (Calle Egipto), Jalisco
 Deposito Dentall Fong	Dentist	15007	20.648958	-103.306111	Avenida Chamizal 269, Guadalajara, Jalisco
 Veterinaria Terracota	Veterinarian	15054	20.651931	-103.305743	690 Calle Chamizal, Guadalajara, 44810, 44800 Guadalajara, Jalisco
@@ -4305,7 +4090,6 @@ Vela.nova Medrano	Doctor's Office	15031	20.657764	-103.30877	Ramon Lopez Velarde
 Sanchez Sanchez Jorge Francisco Dr	Physician	15027	20.658211	-103.307964	Clle Medrano 2301, 44800 Guadalajara, Jalisco
 Dr.Jorge S.S	Doctor's Office	15031	20.657992	-103.307857	
 Dental Art Nutrition	Dentist	15007	20.665307	-103.310299	Avenida Alvaro Obregón 1692, Ciudad de México, Ciudad de México
-Biosoma Laboratorio Suc Obregón	Laboratory	11109	20.665866	-103.310697	Jalisco
 Consultorio Dr. Eduardo Oliva	Doctor's Office	15031	20.666803	-103.311445	Avenida Javier Mina (Esquina Callé 64), Guadalajara, Jalisco
 Dentista	Dentist	15007	20.659864	-103.305078	Calle Ejido 438A, Guadalajara, Jalisco
 Encuentro contigo mismo	Hospital	15014	20.666803	-103.311445	Gigantes (Rivas Guillen), Guadalajara, Jalisco
@@ -4353,11 +4137,9 @@ Parroquia Santa María Reina	Assisted Living Service	15004	20.689261	-103.314016
 Veterinaria Zoohealth	Veterinarian	15054	20.686338	-103.308914	Juan de Dios Robledo 966 (entre Santa Clemencia y San Pablo), 44710 Guadalajara, Jalisco
 Sanatorio Maternidad Anita	Healthcare Clinic	15011	20.690427	-103.314912	Juan Pablo Ii 1493, 44350 Guadalajara, Jalisco
 Clinica de Diagnostico Integral	Medical Center	15016	20.68986	-103.307647	Guadalajara, Jalisco
-Gamma Dog Veterinaria	Animal Shelter	12002	20.689627	-103.315835	Guadalajara, Jalisco
 Pom's Mania Veterinaria	Veterinarian	15054	20.692146	-103.313645	Avenida Circunvalacion Oblatos 1522, Jalisco
 La Casa del Terapeuta Quiropráctico	Chiropractor	15006	20.688728	-103.306472	1887 Calle Santa Fe, 44710 Guadalajara, Jalisco
 Servicio y Venta de Eq Electromedico	Physician	15027	20.692836	-103.312274	Puerto Altata 1078, Guadalajara, Jalisco
-Altos Oriente	Housing Development	12079	20.69337	-103.313646	Calle Cairo 1317 (Rancho Grande), 44760 Guadalajara, Jalisco
 Consultorio Salvador Menchaca	Doctor's Office	15031	20.687042	-103.304944	
 Unidad Docente Asistencial Modelo	Doctor's Office	15031	20.697395	-103.310198	Avenida de la Cruz 2005, 44330 Guadalajara, Jalisco
 Consultorio Dental Dr. FEDERICO	Dentist	15007	20.697674	-103.309494	Unidad Modelo 35
@@ -4371,7 +4153,6 @@ Farmacia el Perdon	Doctor's Office	15031	20.700659	-103.307723	Guadalajara, Jali
 EcoFarma	Health and Medicine	15000	20.700769	-103.307786	San Patricio 2221, 44700 Guadalajara, Jalisco
 Veterinaria DPG	Veterinarian	15054	20.696108	-103.305661	Juan de dios Robledo 1980, Guadalajara, Jalisco
 Casa de Descanso Jose Vicente Ac	Nursing Home	15022	20.70101	-103.315344	Cllpuerto de Guaymas 19, 45060 Guadalajara, Jalisco
-Club de Nutricion	Tea Room	13036	20.701694	-103.315146	Guadalajara, Jalisco
 Centro de Salud la Aurora y la Esperanza	Health and Medicine	15000	20.701788	-103.314164	San Ignacio 2712, 44300 Guadalajara, Jalisco
 Clinica Dental Paris	Dentist	15007	20.704473	-103.312729	Avenida de la Cruz 2373, Guadalajara, Jalisco
 Consultorio Dr. Ruben Amador	Doctor's Office	15031	20.705341	-103.313485	Guadalajara, Jalisco
@@ -4390,7 +4171,6 @@ Administradora Dental	Dentist	15007	20.723519	-103.307453	Cam Viejo a Tesistan 8
 Veterinaria Lala	Veterinarian	15054	20.727714	-103.313255	Volcan Acatenango 123, 44250 Guadalajara, Jalisco
 Campaña de Vacunacion Antirrabica	Medical Center	15016	20.730011	-103.313479	Volcan kenia (Volcan mixtic), Guadalajara, Jalisco
 Huentipets	Veterinarian	15054	20.734434	-103.31313	Calzada Independencia Norte 4281C, 44250 Guadalajara, Jalisco
-Natura Spa	Massage Clinic	11070	20.738078	-103.308069	Volcan Cayambe 4492, 44250 Guadalajara, Jalisco
 Landao	Doctor's Office	15031	20.641938	-103.302274	Avenida Rio Nilo 2773 (A cuadra y media de Revolucion), Guadalajara, Jalisco
 Mauvet Centro Médico Felino	Veterinarian	15054	20.642847	-103.30218	Azucena 317 (Pinguica), 45510 Tlaquepaque, Jalisco
 Clinica del Azucar	Medical Center	15016	20.643131	-103.303344	Avenida Revolución, 45500 Tlaquepaque, Jalisco
@@ -4421,7 +4201,6 @@ Ginob	Doctor's Office	15031	20.647044	-103.300467
 Dr. Fernando Moreno. Pediatra.	Doctor's Office	15031	20.64676	-103.30532	Revolución 2784, 44860 Guadalajara, Jalisco
 Ortopedia Garduño	Orthopedic Surgeon	15043	20.645153	-103.297936	Rio Nilo 3006B, 45418 Guadalajara, Jalisco
 Fimbres Urias Jorge Antonio	Medical Lab	15017	20.647513	-103.300732	Avenida Sn Jacinto 1024, 44860 Guadalajara, Jalisco
-Don Marcos	Beer Garden	13007	20.645808	-103.297806	Francisco Lopez de Gomara 1123 (Manuel Rivera Cambas), 44860 Guadalajara, Jalisco
 Dinalab	Medical Lab	15017	20.640538	-103.296762	Hidalgo 559, Tlaquepaque, Jalisco
 Consultorio Dental Marlene Covarrubias	Dentist	15007	20.647882	-103.300469	José María Marroquí (Rio Nilo), 44817 Guadalajara, Jalisco
 Dental SER	Dentist	15007	20.646275	-103.297953	Marquesa de Calderón 3019-1, 44860 Guadalajara, Jalisco
@@ -4445,15 +4224,12 @@ Clinica #78 IMSS	Hospital	15014	20.651773	-103.300447	Rio Nilo y Revolución, Gu
 Dental Plus	Dentist	15007	20.650267	-103.300095	
 Medico Internista Dr. Andrés Lupercio	Doctor's Office	15031	20.652653	-103.30014	Avenida San jacinto 500, 44810 Guadalajara, Jalisco
 Consultorio Farmacias Similares	Doctor's Office	15031	20.652623	-103.299714	
-Imss Atencion y Orientacion al Derechohabiente	Insurance Agency	11107	20.652842	-103.299822	Avenida San Jacinto 588, Guadalajara, Jalisco
 Handy Dent	Dentist	15007	20.64899	-103.300272	Avenida San Jacinto 945, Guadalajara, Jalisco
 Dr. Juan Montes Vega	General Surgeon	15035	20.65083	-103.298793	Ayuntamiento 2062A, 44620 Guadalajara, Jalisco
 Nutriologo Ramon Sahagun	Nutritionist	15023	20.649693	-103.299038	2921 Avenida Historiadores, 44860 Guadalajara, Jalisco
-Casa Esoterica Luna Magica	Psychic and Astrologer	10046	20.655096	-103.303353	Delgadillo y Araujo 493, 44800 Guadalajara, Jalisco
 ISSSTE Clinica de Medicina Familiar No 3	Hospital	15014	20.648553	-103.296689	Juan Suarez de Peralta, Guadalajara, Jalisco
 Medikagen	Doctor's Office	15031	20.649654	-103.298133	
 SpacioZen	Doctor's Office	15031	20.65551	-103.304542	Jalisco
-Bio Analisis Artes	Advertising Agency	11001	20.654954	-103.298096	Calle Artes, 2319, 44810 Guadalajara, Jalisco
 Servicios Medicos Caja Popular San Rafael	Medical Center	15016	20.656188	-103.299616	Avenida San Jacinto 350, Guadalajara, Jalisco
 ISSSTE Clinica de Medicina Familiar No 3	Doctor's Office	15031	20.648612	-103.296897	
 Unid Med Fam 3 del Issste	Healthcare Clinic	15011	20.648534	-103.296885	Juan Suares de Parelta 3055, 44860 Guadalajara, Jalisco
@@ -4461,7 +4237,6 @@ Amikoo	Veterinarian	15054	20.655592	-103.297072	Adrian Puga, 44810 Guadalajara, 
 Gonzalez Hurtado Hector Eduardo	Health and Medicine	15000	20.64836	-103.304934	Juan Suarez de Peralta 2621, 44860 Guadalajara, Jalisco
 Sanches Ochoa Jose Roberto	Hospital	15014	20.646857	-103.300745	Manuel Romero 2853, 44860 Guadalajara, Jalisco
 Raudry Ramirez Celia Ma Guadalupe	Dentist	15007	20.646203	-103.304697	Calzada Ada Revolución 2673, 44860 Guadalajara, Jalisco
-Issste	Insurance Agency	11107	20.648275	-103.296717	Juan Suárez de Peralta 3055, Guadalajara, Jalisco
 Centro de Diagnostico	Medical Lab	15017	20.660047	-103.30221	Delgadillo Araujo 116
 Sillas Economicas	Health and Medicine	15000	20.661311	-103.302666	Agustin Bancalari 68, 44810 Guadalajara, Jalisco
 Farmacia Pedro	Health and Medicine	15000	20.659589	-103.303875	Manuel Martinez Valadez 199, 44810 Guadalajara, Jalisco
@@ -4481,7 +4256,6 @@ Unidad medica de pensiones	Medical Center	15016	20.664258	-103.298484	Tlaquepaqu
 Unimef	Health and Medicine	15000	20.66262	-103.296899	Jalisco
 Dueñas Corona Rosa Elizabeth	Veterinarian	15054	20.664475	-103.298139	Plutarco Elias Calles 137, 44755 Guadalajara, Jalisco
 Centro de Salud San Andrés II	Doctor's Office	15031	20.666281	-103.301465	
-Pasion Por el Color	Arts and Entertainment	10000	20.662566	-103.299625	Avenida 8 de Julio 3295, 44960 Guadalajara, Jalisco
 Vergara Jose de Jesus	Dentist	15007	20.663002	-103.304894	Gigantes 2391, 44756 Guadalajara, Jalisco
 Cond Cto de Diag Integral	Optometrist	15024	20.665194	-103.298607	C 3514 s/n, Jalisco
 Sivana Centro Veterinario	Hospital	15014	20.668316	-103.304245	44730 Guadalajara, Jalisco
@@ -4577,7 +4351,6 @@ Healthy Feet	Medical Center	15016	20.644428	-103.292568	Rio Nilo 3302 (Jose Guzm
 Clínica Veterinaria Animal Care & Health	Veterinarian	15054	20.645615	-103.291672	Jalisco
 Global Beauty	Medical Center	15016	20.645766	-103.293924	Marquesa de Calderon 3259
 Marce Dentista	Dentist	15007	20.644982	-103.290375	Jalisco
-SALUD y Belleza	Spa	11073	20.645172	-103.296056	Avenida Rio Nilo 3145 (Luis Alfaro Piña Y Diego Duran), Guadalajara, Jalisco
 Silva Guerrero Ana Ma Dra	Health and Medicine	15000	20.644418	-103.289072	Avenida Rio Nilo 3487, 44820 Guadalajara, Jalisco
 Unidad Odontológica	Dentist	15007	20.64579	-103.295677	
 Clinica Dental Cynthia Quevedo	Dentist	15007	20.646833	-103.292845	Jalisco
@@ -4599,7 +4372,6 @@ Unidad Médica del Nilo	Doctor's Office	15031	20.647218	-103.288377	Avenida Hist
 Ginnes Atención Integral para la Mujer	Doctor's Office	15031	20.644622	-103.286461	Rio Nilo 3975, Guadalajara, Jalisco
 Farma Plus	Doctor's Office	15031	20.648227	-103.289791	Jalisco
 Dra Veronica Vega Venegas	Dermatologist	15030	20.647334	-103.288326	Historiadores 3494 1, 44860 Guadalajara, Jalisco
-Nutriologa Andrea Cham	Health and Beauty Service	11061	20.647187	-103.288665	Historiadores 3472 (Cipriano Campos), 44820 Guadalajara, Jalisco
 Dr. Manuel González Reyes	Health and Medicine	15000	20.64475	-103.295192	Rio Nilo 3104, 44860 Guadalajara, Jalisco
 Veterinaria los Pinitos	Veterinarian	15054	20.638774	-103.294106	Calle Hidalgo 639, 45520 Tlaquepaque, Jalisco
 Jimenez Reyes J Guadalupe	Pediatrician	15045	20.644255	-103.288376	Avenida Rio Nilo 3525, 44820 Guadalajara, Jalisco
@@ -4646,7 +4418,6 @@ Centro de Rehabilitación Dental	Dentist	15007	20.672226	-103.289783	Esteban Ala
 Consultorio Dental Concebida	Dentist	15007	20.672403	-103.29092	3137 Calle Esteban Alatorre (Tunez Y Argel), 44750 Guadalajara, Jalisco
 MaxPie - Esteban Alatorre	Medical Center	15016	20.67221	-103.290432	Esteban Alatorre 3163 (Iran), 44770 Guadalajara, Jalisco
 Ma de la Luz Gonzalez Montes	Veterinarian	15054	20.672349	-103.290418	Esteban Alatorre 3187, Guadalajara, Jalisco
-Centro de Desarrollo Humano OM KIM	Education	12009	20.67263	-103.290844	Cairo 519 (Industria y Francisco de Ayza), 44750 Guadalajara, Jalisco
 Medicinas Populares Ponce	Health and Medicine	15000	20.673728	-103.291835	Pablo Valdez 3098, 44750 Guadalajara, Jalisco
 Nucleo Medico	Physician	15027	20.673361	-103.295435	Plutarco Elias Calles 780 (Pablo Validez y Esteban Alatorre), 44730 Guadalajara, Jalisco
 Consultorio Dental Griselda	Dentist	15007	20.67409	-103.289013	Jalisco
@@ -4678,7 +4449,6 @@ El Arca de Joel	Veterinarian	15054	20.704079	-103.29237	44100 Guadalajara, Jalis
 Consultorio Dr Antonio Rodriguez	Hospital	15014	20.704121	-103.292417	Jalisco
 Unidad de Ginecologia y Nutricion	Maternity Clinic	15015	20.70405	-103.292594	Avenida Joaquín Amaro 2270, 44700 Guadalajara, Jalisco
 Centro de Salud Santa Cecilia	Doctor's Office	15031	20.704276	-103.291086	
-Unidad de Espesialidades SR	Laboratory	11109	20.703763	-103.292323	Jalisco
 Casa de Salud Santa Cecilia	Health and Medicine	15000	20.707105	-103.289526	Alfonso Esparza oteo Santa Cecilia (Melodia/Himno), Guadalajara, Jalisco
 Plazola Pacheco Cuauhtemoc Dr	General Surgeon	15035	20.702922	-103.287677	Lerdo de Tejada 2342, 44100 Guadalajara, Jalisco
 Gustavo's Veterinaria	Veterinarian	15054	20.702596	-103.286285	
@@ -4693,7 +4463,6 @@ Acne Faciales Clinica de Especialidades	Doctor's Office	15031	20.644775	-103.283
 Clinica de Salud y Cuidados de la Piel	Healthcare Clinic	15011	20.640449	-103.280921	Avenida Ila Camacho 3340, 45170 Guadalajara, Jalisco
 Especialidades Médicas San José	Doctor's Office	15031	20.644804	-103.285277	Jalisco
 Rehabimed	Doctor's Office	15031	20.644785	-103.285473	Rio Nilo 3943, 44810 Guadalajara, Jalisco
-Nucleo de Diagnostico	Laboratory	11109	20.644836	-103.285662	Avenida Río Nilo 3939, Guadalajara, Jalisco
 Espress Light	Doctor's Office	15031	20.64478	-103.286251	
 Consultorio Dr Simi	Doctor's Office	15031	20.64478	-103.286251	Rio Nilo, Guadalajara, Jalisco
 Dental Center Mh	Dentist	15007	20.636356	-103.282691	Avenida de la Soledad 394 7, 45417 Tonalá, Jalisco
@@ -4743,10 +4512,7 @@ Clínica Dental la Zapopana	Dentist	15007	20.692124	-103.279171	Maria Guadalupe 
 Clinica Dental Tepeyac	Dentist	15007	20.693351	-103.28002	Jalisco
 Hospital Rios	Hospital	15014	20.694359	-103.279076	Miguel Uribe 3716, 44720 Guadalajara, Jalisco
 Hospital San Juan Bautista	Hospital	15014	20.695144	-103.28431	Hacienda La Calera 3121, 44720 Guadalajara, Jalisco
-Traumamed	Office	11124	20.695735	-103.28004	Avenida Gpe 3216, 44500 Guadalajara, Jalisco
-Imss Unidad Medico Familiar 53	Insurance Agency	11107	20.701626	-103.283466	Avenida Enida Laureles 150, Guadalajara, Jalisco
 Previta	Doctor's Office	15031	20.639953	-103.274105	Jalisco
-Pulqueria	Brewery	13029	20.652082	-103.274184	Chula Vista (Rio Nilo), Guadalajara, Jalisco
 Veterinaria Mundo Canino	Veterinarian	15054	20.650318	-103.274879	Adrian Puga 3951 (Francisco Huizar), Jalisco
 Galvan Robles Crescencio	Medical Center	15016	20.659686	-103.27504	Gigantes 4430 Local 1, 44820 Guadalajara, Jalisco
 Hospital Galvan	Hospital	15014	20.659774	-103.274837	Gigantes 4455, 44820 Guadalajara, Jalisco
@@ -4759,7 +4525,6 @@ Ballesteros Hinojosa Javier	Health and Medicine	15000	20.664637	-103.272211	Male
 Dra. Monica Herrera	Doctor's Office	15031	20.668127	-103.274582	Jalisco
 Farmacia Homeopatica	Mental Health Clinic	15019	20.672401	-103.274995	Rublo 3958A (Presa laurel), 44770 Guadalajara, Jalisco
 Consultorio Medico Familiar	Doctor's Office	15031	20.672364	-103.275387	Calle Peso 4047A, 44770 Guadalajara, Jalisco
-Asociacion de Anestesiologos de Jal Colegio Medico	Education	12009	20.673109	-103.277191	Gregorio Davenida Ila 716, 44200 Guadalajara, Jalisco
 Clinica Facial Miguett	Healthcare Clinic	15011	20.673809	-103.276344	Cll Hidalgo 59, 81200 Los Mochis, Sinaloa
 Farmacia	Health and Medicine	15000	20.666806	-103.276398	Presa Laurel 325, Guadalajara, Jalisco
 Hospital San Joaquin	Hospital	15014	20.672917	-103.276563	Presa Tintero 764 s/n, 44670 Guadalajara, Jalisco
@@ -4773,9 +4538,7 @@ Veterinaria Lawen	Veterinarian	15054	20.691494	-103.274958	Santa Rosa 6390 (Lo O
 Clinica Dental Xalisco	Dentist	15007	20.689676	-103.26798	San Julián 80B, 45403 Tonalá, Jalisco
 Clinica Bethel	Hospital	15014	20.69456	-103.274326	Calle Egipto 3176, 44720 Guadalajara, Jalisco
 Servicios Medicos Quirurgicos Bethel	Physician	15027	20.694242	-103.274293	Egipto 3176, 44720 Guadalajara, Jalisco
-Airgas Company	Heating, Ventilating and Air Conditioning Contractor	11087	20.694433	-103.271667	Periferico Pte. 4360, 45019 Guadalajara, Jalisco
 JagnosPeniel	Doctor's Office	15031	20.692295	-103.267636	Jalisco
-Gasox	Welding Service	11178	20.69443	-103.272331	Periferico Oriente 104, 45400 Guadalajara, Jalisco
 Hospital Zalatitán	Hospital	15014	20.658149	-103.261592	Juárez 81 (Niños Héroes y Álvaro Obregón), 45405 Tonalá, Jalisco
 Veterinaria Medina	Veterinarian	15054	20.657179	-103.262143	Gonzalez Ortega 60F, 45405 Guadalajara, Jalisco
 Unidad de Especialidades Tlaquepaque	General Surgeon	15035	20.658291	-103.2649	Juárez 240 Tlaquepaque a 2C, 45500 Guadalajara, Jalisco
@@ -4784,5 +4547,4 @@ Sanatorio Providencia de Tlaquepaque	Hospital	15014	20.65847	-103.262078	Niños 
 Espinoza Salazar Gabriel	Dentist	15007	20.666862	-103.265251	Cll Abascal y Souza 499, 44750 Guadalajara, Jalisco
 Pantoja Soto Carlos	Health and Medicine	15000	20.680112	-103.258155	Benito Juarez 167, 45430 Zapotlanejo, Jalisco
 Clínica y Maternidad San Gerardo	Hospital	15014	20.68607	-103.262804	Lagos de Moreno 53, 45412 Tonalá, Jalisco
-Escuela de Enfermeria de la Ba	College and University	12013	20.686022	-103.264244	Jalisco
 Aguilera Jimenes Carlos Dr	Alternative Medicine Clinic	15003	20.687836	-103.262268	Ceco Caracol F 30, Jalisco

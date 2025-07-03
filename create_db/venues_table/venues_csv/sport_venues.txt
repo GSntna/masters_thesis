@@ -1,0 +1,1531 @@
+name	category	category_code	lat	lon	address
+Flow Fit	Yoga Studio	18028	20.739176	-103.540167	Punto Campestre, Zapopan, Jalisco
+Campestre Gym	Gym and Studio	18021	20.739166	-103.539748	Avenida El Campestre 257, 45221 Zapopan, Jalisco
+24 Fit Club Crossfit	Gym and Studio	18021	20.815538	-103.48589	Tesistán, Jalisco
+Human Sport Gym	Gym and Studio	18021	20.622031	-103.479918	Jalisco
+Gimnasio Fitline Sport	Gym and Studio	18021	20.62673	-103.478932	Colegio Militar 3320, 45066 Zapopan, Jalisco
+TCS Gym	Gym and Studio	18021	20.72571	-103.487831	Guadalajara Technology Park, Zapopan, Jalisco
+Strong Life Gym	Gym and Studio	18021	20.795244	-103.479537	Pino Suárez 208, 45200 Tesistan, Jalisco
+24 FitClub Tesistan	Gym and Studio	18021	20.796365	-103.477485	16 Calle Aldama, Zapopan, 45200, Tesistán, Jalisco
+Crossfit Lobos Tesistan	Gym and Studio	18021	20.796339	-103.47769	Tesistán, Jalisco
+Bugambilias Club	Gym and Studio	18021	20.615059	-103.471607	Avenida del Reno 150, Zapopan, Jalisco
+Moving Point	Gym and Studio	18021	20.624148	-103.471357	Colegio Militar 4, Zapopan, Jalisco
+Gym Sport Fit Line	Gym and Studio	18021	20.624637	-103.471762	Colegio Militar 3320, 45066 Zapopan, Jalisco
+Fit Air	Gym and Studio	18021	20.624375	-103.471555	45066 Zapopan, Jalisco
+Gimnasio Villa Panamericana	Gym and Studio	18021	20.689247	-103.473413	Zapopan, Jalisco
+Carril4tro	Gym and Studio	18021	20.699531	-103.468896	Avenida Franco Mexicano 195, 44019 Zapopan, Jalisco
+Lake Crosstraining	Gym and Studio	18021	20.725368	-103.471405	45019 Zapopan, Jalisco
+Gym Coto 9	Gym and Studio	18021	20.726358	-103.46745	Zapopan, Jalisco
+Enjoy Fitness Gym	Gym and Studio	18021	20.787979	-103.471303	Avenida Tesistan 8920 (Calle Fray Junipero Serra), 45200 Zapopan, Jalisco
+Fitland	Gym and Studio	18021	20.801017	-103.470857	Puente Chico 248, 45200 Zapopan, Jalisco
+On-Fit Gym	Gym and Studio	18021	20.796102	-103.468538	45200 Tesistán, Jalisco
+Fit & Body Health	Gym and Studio	18021	20.627559	-103.467651	Avenida Bronce (Av Guardia Nacional), Zapopan, Jalisco
+Sport Gym	Gym and Studio	18021	20.627509	-103.467462	45066 Zapopan, Jalisco
+Crossfit Le Parc	Gym and Studio	18021	20.627823	-103.463565	Zapopan, Jalisco
+Boxfit	Boxing Gym	18022	20.62872	-103.46765	45066 Zapopan, Jalisco
+Stronger Fitness Gym	Gym and Studio	18021	20.627922	-103.459404	Calle Javier Mina 104, 45066 Zapopan, Jalisco
+Nuevo Estadio Carneros	Stadium	10051	20.647638	-103.466899	Zapopan, Jalisco
+Bay Fitness Gym Guadalupe	Gym and Studio	18021	20.641513	-103.462041	Zapopan, Jalisco
+De la Torre Orozco Ma de Lourdes	Gym and Studio	18021	20.644684	-103.460257	Avenida Gpe 6000 28, Guadalajara, Jalisco
+Ayamonte	Housing Development	12079	20.671593	-103.464061	Zapopan, Jalisco
+Club Maxima Arqueria	Gym and Studio	18021	20.714916	-103.462902	Zapopan, Jalisco
+Syzygy	Yoga Studio	18028	20.718711	-103.461245	Paseo de la Luna 858, 45019 Zapopan, Jalisco
+Trèsfit Solares	Pilates Studio	18027	20.718912	-103.46121	Avenida Paseo de la Luna 858, 45019 Zapopan, Jalisco
+Jumping Dance City	Gym and Studio	18021	20.719102	-103.46116	Zapopan, Jalisco
+Boxfit	Boxing Gym	18022	20.719319	-103.46104	Paseo de la Luna 810 (Camino Real A Zapopan), 45019 Zapopan, Jalisco
+Jumping Dance City	Gym and Studio	18021	20.719975	-103.46025	
+Gym solares 11	Gym and Studio	18021	20.724024	-103.46628	Jalisco
+Gym Coto 6	Gym and Studio	18021	20.721868	-103.460075	Zapopan, Jalisco
+Curves	Gym and Studio	18021	20.612356	-103.453996	Bugambilias, Zapopan, Jalisco
+Serart	Dance Studio	18025	20.628748	-103.456067	Zapopan, Jalisco
+Zona Atletica	Gym and Studio	18021	20.62986	-103.451681	Mariano Otero, Zapopan, Jalisco
+Swim City Aqua Gym	Gym and Studio	18021	20.62977	-103.45156	Prolongación Mariano Otero 1600, 45067 Zapopan, Jalisco
+Italia gym	Gym and Studio	18021	20.631283	-103.451164	Zapopan, Jalisco
+Power Gym	Gym and Studio	18021	20.641859	-103.457426	Puerto Tampico 1780 (Puerto Príncipe), 45079 Zapopan, Jalisco
+Centro de Acondicionamiento Fisico	Gym and Studio	18021	20.643712	-103.457749	Puerto San Blas 1780 (puerto altamira), Zapopan, Jalisco
+Gimnasio de Box Mixto Club Apolo	Gym and Studio	18021	20.64247	-103.454191	Calle Puerto Mazatlan 38, 45060 Zapopan, Jalisco
+Danzarte	Dance Studio	18025	20.6516	-103.45185	Laurel 790 (Avenida las Torres), 45069 Zapopan, Jalisco
+7' Sport Gym	Gym and Studio	18021	20.655014	-103.451201	Naranjo 1016 (Chicle), Zapopan, Jalisco
+Cross Fit 33	Gym and Studio	18021	20.657001	-103.451069	Avenida Guadalupe 339, 45010 Zapopan, Jalisco
+CIMA Functional Training	College Gym	12027	20.657048	-103.450985	Avenida Guadalupe 339, Zapopan, Jalisco
+KO Budo	Boxing Gym	18022	20.680168	-103.455131	Zapopan, Jalisco
+Yoga Sarasvaty	Yoga Studio	18028	20.683495	-103.453161	Calzada de los Paraísos 239 (Calzada de las Palmas), 45010 Zapopan, Jalisco
+Gimnasio	Gym and Studio	18021	20.678297	-103.458228	Montemorelos 299, 45110 Zapopan, Jalisco
+GO Gym	Gym and Studio	18021	20.692795	-103.449988	Avenida del Tule 737 (Av. Vallarta), 45017 Zapopan, Jalisco
+Volare Academia de Gimnasia	Gym and Studio	18021	20.702998	-103.456767	Avenida Inglaterra 9271, Zapopan, Jalisco
+Elevation New Fitness Concepts	Dance Studio	18025	20.695443	-103.448948	Avenida del Tule 839 (Inglaterra), 45017 Zapopan, Jalisco
+Lycan Fitness	Gym and Studio	18021	20.700413	-103.457344	Circuito San Eduardo 49, 45019 Zapopan, Jalisco
+Motion Boulder 2	Climbing Gym	18023	20.70229	-103.455762	9345 Avenida Inglaterra, 45019 Zapopan, Jalisco
+Blood Brothers FC	Gym and Studio	18021	20.695197	-103.449361	737 Avenida del Tule Interior C, 45017 Zapopan, Jalisco
+Bikram Yoga	Yoga Studio	18028	20.72988	-103.452215	Aviacion 3000 (Valle Real), Zapopan, Jalisco
+Cross Center	Gym and Studio	18021	20.730664	-103.451943	Avenida Aviación 3000 (Santa Margarita), 45019 Zapopan, Jalisco
+VIVO 47 Punto Real	Gym and Studio	18021	20.730936	-103.452694	Avenida General Ramón Corona 2401 (Av. Aviación), 45029 Zapopan, Jalisco
+VIVO 47 Valle Real	Gym and Studio	18021	20.730867	-103.452711	Zapopan, Jalisco
+Maroma Aprende Girando	Gym and Studio	18021	20.723926	-103.4541	Avenida Aviación 4455, 45019 Zapopan, Jalisco
+Solares Uno Gym	Gym and Studio	18021	20.726615	-103.455132	Zapopan, Jalisco
+Tap Dance Studio sucursal Solares	Dance Studio	18025	20.726455	-103.457028	Plaza los Cubos, 45019 Zapopan, Jalisco
+Wodbox Solares	Gym and Studio	18021	20.726454	-103.457245	Avenida Paseo del Alba 44 (Av. Aviacion), 45019 Zapopan, Jalisco
+Suhu	Gym and Studio	18021	20.727826	-103.452808	Zapopan, Jalisco
+Stay Active	Gym and Studio	18021	20.728462	-103.452874	Avenida Aviación 4075 (Porta Real), 45019 Zapopan, Jalisco
+Soho Dance & Fitness	Gym and Studio	18021	20.729287	-103.456942	Avenida Aviacion Local 1A, 45019 Zapopan, Jalisco
+Danzarín	Dance Studio	18025	20.72988	-103.452215	Plaza Portobelo (Avenida Aviación), Zapopan, Jalisco
+Jumps & Fit	Gym and Studio	18021	20.729976	-103.452689	Avenida Aviación Militar 3000, Zapopan, Jalisco
+MAGNO CrossFit	Gym and Studio	18021	20.729517	-103.451706	Avenida Aviacion 3640, Zapopan, Jalisco
+Black Box	Boxing Gym	18022	20.730099	-103.452323	Aviacion (3000), 45019 Zapopan, Jalisco
+Danzarín - Academia Internacional de Danza	Dance Studio	18025	20.730664	-103.451943	Avenida Aviación 3000, 45019 Zapopan, Jalisco
+Prana Yoga	Yoga Studio	18028	20.73728	-103.44894	Avenida Aviación 4284, 45136 Zapopan, Jalisco
+Gym el Real	Gym and Studio	18021	20.735045	-103.455788	Zapopan, Jalisco
+Carrara Gym	Gym and Studio	18021	20.767095	-103.453848	Zapopan, Jalisco
+Cross Red	Gym and Studio	18021	20.80827	-103.45554	Jalisco
+Alpha Fitness	Gym and Studio	18021	20.828343	-103.450571	Lázaro Cárdenas y Carretera a Colotlán, Jalisco
+Vivo 47 Family Fitness Club	Gym and Studio	18021	20.586784	-103.4472	Plaza La Gourmeteria (Av. López Mateos Sur 1710), 45600 Tlajomulco de Zuñiga, Jalisco
+Bikram Yoga	Yoga Studio	18028	20.589497	-103.443111	López Mateos Sur 1307 (El Palomar), 45236 Tlajomulco de Zuñiga, Jalisco
+Easy Fit by Vivo 47	Gym and Studio	18021	20.588852	-103.445506	45645 Tlajomulco de Zuñiga, Jalisco
+Sport Fitness	Gym and Studio	18021	20.590464	-103.443793	Plaza palomar, Jalisco
+City Express Plus GYM	Gym and Studio	18021	20.588966	-103.444329	
+Vertical Dance	Dance Studio	18025	20.588734	-103.440324	Ramal de la Tijera 1235 (Plaza Jefferson, Local 1. ), 45647 Tlajomulco, Jalisco
+Sky Gym	Gym and Studio	18021	20.600481	-103.448889	Plaza Bugambilias, Zapopan, Jalisco
+Casa Club Azaleas	Gym and Studio	18021	20.608087	-103.446769	Zapopan, Jalisco
+Casa Club Azaleas	Event Space	11039	20.608976	-103.446947	Azaleas residencial, Zapopan, Jalisco
+Bikerscycle	Gym and Studio	18021	20.608895	-103.448092	Calle Azaleas, 45239 Zapopan, Jalisco
+Zambra Flamenco	Education	12009	20.608795	-103.448584	Zapopan, Jalisco
+Smart Fit	Gym and Studio	18021	20.621611	-103.444763	Plaza Cuicuilco, Zapopan, Jalisco
+Vog Dance	Dance Studio	18025	20.630817	-103.443684	Zapopan, Jalisco
+Vog Dance, sucursal las Torres	Dance Studio	18025	20.630886	-103.443677	Prolongación Tepeyac (Mariano Otero), 45236 Zapopan, Jalisco
+Kaanab Academia de Baile	Dance Studio	18025	20.636652	-103.444145	Puerto Aguiabampo 2984, 45060 Zapopan, Jalisco
+World Fit	Gym and Studio	18021	20.650992	-103.441038	Montera, Guadalajara, Jalisco
+Chassé - Dance/Fitness Center	Yoga Studio	18028	20.654683	-103.443108	Zapopan, Jalisco
+VANGAARD Studio de Ballet	Gym and Studio	18021	20.65577	-103.442897	Mision Santo Tomas 995 (Guadalupe y Tepeyac), 45010 Guadalajara, Jalisco
+worldFIT	Gym and Studio	18021	20.651073	-103.441159	Zapopan, Jalisco
+Max spinning	Gym and Studio	18021	20.653423	-103.440343	Zapopan, Jalisco
+Academia de Danza	Dance Studio	18025	20.65889	-103.44505	Avenida Avenida Guadalupe 6818 25 (Periferico), Zapopan, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.65929	-103.441382	Avenida Guadalupe 6304, 45030 Zapopan, Jalisco
+Pole Divas Fitness	Gym and Studio	18021	20.659448	-103.445448	Avenida Guadalupe 6730, Zapopan, Jalisco
+Jazzercise Metropolitano	Gym and Studio	18021	20.663325	-103.444326	Avenida Economos 367, 45010 Zapopan, Jalisco
+Atletix	Gym and Studio	18021	20.663489	-103.444724	Avenida Economos 6461, 45010 Zapopan, Jalisco
+Tiare Tahiti	Dance Studio	18025	20.659459	-103.445577	Avenida Guadalupe, 45037 Zapopan, Jalisco
+Metrogym	Gym and Studio	18021	20.664555	-103.445331	Zapopan, Jalisco
+Beats Cycling Studio	Cycle Studio	18024	20.663958	-103.448846	6916 Avenida Ecónomos, 45010 Zapopan, Jalisco
+"MDS ""Salon de Danza"""	Dance Studio	18025	20.659287	-103.443013	Avenida Guadalupe 6470B (Mision De Santo Tomas), 45010 Zapopan, Jalisco
+Snap Fitness	Gym and Studio	18021	20.682426	-103.445913	Zapopan, Jalisco
+Anytime Fitness Ciudad Granja	Gym and Studio	18021	20.684913	-103.443186	Avenida Calzada Central 111 (Av. Vallarta), 45010 Zapopan, Jalisco
+Snap Fitness	Gym and Studio	18021	20.682194	-103.445918	Calzada Norte 7195, Guadalajara, Jalisco
+Padokas	Gym and Studio	18021	20.678103	-103.446452	Zapopan, Jalisco
+Padoka's Sport	Gym and Studio	18021	20.677844	-103.446284	Avenida Central, 45010 Zapopan, Jalisco
+Practica Yoga Guadalajara	Yoga Studio	18028	20.68252	-103.44606	Calzada Norte 7195, Zapopan, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.682309	-103.446008	Calzada Norte, 45010 Zapopan, Jalisco
+Ochun de Aime	Gym and Studio	18021	20.682611	-103.445876	Zapopan, Jalisco
+Dexfit	Gym and Studio	18021	20.684471	-103.441816	45010 Zapopan, Jalisco
+Acuática Nelson Vargas Familiy Fitness	Gym and Studio	18021	20.686801	-103.447406	Calzada pirules 81, 45010 Zapopan, Jalisco
+Snap Fitness 24-7	Gym and Studio	18021	20.694838	-103.442851	Avenida Naciones Unidas 6895, Zapopan, Jalisco
+The Move Center	Dance Studio	18025	20.69369	-103.449954	Avenida del Tule 741, 45017 Zapopan, Jalisco
+35Five	Gym and Studio	18021	20.694442	-103.443149	Zapopan, Jalisco
+Power Gravity 10 & TRX	Gym and Studio	18021	20.694194	-103.449525	Zapopan, Jalisco
+36 Five GYM	Gym and Studio	18021	20.694878	-103.442911	Naciones unidas los tules, Zapopan, Jalisco
+Gabo's GYM	Gym and Studio	18021	20.698998	-103.443435	Zapopan, Jalisco
+Shak's Gymnasium	Gym and Studio	18021	20.720371	-103.44823	Zapopan, Jalisco
+Distrito CrossFit	Gym and Studio	18021	20.730484	-103.443338	Avenida Santa Margarita 5055, Zapopan, Jalisco
+Club Valle Real Gym	Gym and Studio	18021	20.728783	-103.440978	Zapopan, Jalisco
+Vibrafit	Gym and Studio	18021	20.730624	-103.444565	Avenida General Ramon Corona 5184 (Valle Real), Zapopan, Jalisco
+Pilates Life Reformer	Gym and Studio	18021	20.730549	-103.444564	Santa Margarita 5160 (Valle Real), 45645 Zapopan, Jalisco
+Pulse Fitness Center	Gym and Studio	18021	20.730634	-103.44463	Zapopan, Jalisco
+Pilates Dvancet	Gym and Studio	18021	20.730638	-103.44436	Avenida Santa Margarita, Zapopan, 45136, Guadalajara, Jalisco
+Set Studio, Gravity Cardio Pilates	Gym and Studio	18021	20.730427	-103.441788	Plaza Navona, Jalisco
+Vive Gym	Gym and Studio	18021	20.749949	-103.44338	Zapopan, Jalisco
+Box Nápoles	Gym and Studio	18021	20.765149	-103.443794	Zapopan, Jalisco
+Vive Gym	Gym and Studio	18021	20.770692	-103.447662	Nuevo México, Jalisco
+Spinnice	Gym and Studio	18021	20.77965	-103.446248	Zapopan, Jalisco
+Studio Dance & Style	Gym and Studio	18021	20.778523	-103.447462	Zapopan, Jalisco
+Gym Slender Body	Gym and Studio	18021	20.819354	-103.447828	Molino de Viento 8 (Fraccionamiento Los Molinos), Zapopan, Jalisco
+Jhon Dewey Centro Cultural	Gym and Studio	18021	20.589954	-103.436719	Jalisco
+Javi's GYM	Gym and Studio	18021	20.588924	-103.437404	
+Body Gym	Gym and Studio	18021	20.586512	-103.440039	Gladiola (Jacaranda), Tlajomulco de Zuñiga, Jalisco
+Body Light	Gym and Studio	18021	20.585527	-103.43528	Gladiola, 45645 La Tijera, Jalisco
+H2O escuela de natación	Gym and Studio	18021	20.600959	-103.436342	Lopez Mateos Sur 8180 (Bugambilias), Zapopan, Jalisco
+Linea Health & Exercise	Gym and Studio	18021	20.60097	-103.43647	Lopez Mateos (Bugambilias), Zapopan, Jalisco
+Jazztroupe	Dance Studio	18025	20.603362	-103.434031	López Mateos Sur, Zapopan, Jalisco
+Marine Wod Crossfit	Gym and Studio	18021	20.608557	-103.43215	45239 Zapopan, Jalisco
+Hulk's GYM	Gym and Studio	18021	20.613979	-103.436866	Zapopan, Jalisco
+Cross Fit Squad	Gym and Studio	18021	20.614491	-103.436806	Camino a Santa Ana Tepetitlan 878C (Paseo De La Familia), Zapopan, Jalisco
+Box Lab	Boxing Gym	18022	20.631073	-103.434848	Mariano Otero 6150, Zapopan, Jalisco
+Muscle Up	Gym and Studio	18021	20.63187	-103.435813	Zapopan, Jalisco
+Scorpion GYM	Gym and Studio	18021	20.623328	-103.43568	Zapopan, Jalisco
+Black Squad Functional Training Center	Gym and Studio	18021	20.633824	-103.432502	Felipe Zetter 3417, 45079 Zapopan, Jalisco
+Ye Center	Gym and Studio	18021	20.633154	-103.43625	45079 Zapopan, Jalisco
+Area Studio	Gym and Studio	18021	20.635156	-103.43528	Felipe Zetter 3447 (Plaza De Kristy), Jalisco
+Gimnasio Pokemon las Alamedas	Gym and Studio	18021	20.6379	-103.435616	Zapopan, Jalisco
+La Femme Studio	Gym and Studio	18021	20.636685	-103.432348	Avenida Felipe Zetter 3112, Zapopan, Jalisco
+Fox's	Gym and Studio	18021	20.63956	-103.435367	Zapopan, Jalisco
+Cardio Dance Center	Gym and Studio	18021	20.639646	-103.432573	Zapopan, Jalisco
+Repmaker	Gym and Studio	18021	20.64377	-103.43648	Cerro Ceboruco 1263A, 45058 Zapopan, Jalisco
+Uxcape Gym	Gym and Studio	18021	20.642058	-103.436351	Felipe Ruvalcaba (Volcan Ceboruco), Zapopan, Jalisco
+Thunder Fitness Gym	Gym and Studio	18021	20.642461	-103.433136	Zapopan, Jalisco
+On Fit Sport Center	Gym and Studio	18021	20.642881	-103.43314	Volcán Barú, 43050 Zapopan, Jalisco
+Heavy Gym Crossfit	Gym and Studio	18021	20.642709	-103.433177	Copernico 2300 (Volcán Paricutín), Zapopan, Jalisco
+Onfit	Gym and Studio	18021	20.640157	-103.433017	Avenida Nicolás coopernico, Zapopan, Jalisco
+Life & Fitness	Gym and Studio	18021	20.657447	-103.43813	Daniel Comboni 1030 (Av. Guadalupe), 45030 Zapopan, Jalisco
+Mondo Forza	Gym and Studio	18021	20.650469	-103.433379	Nicolás Copérnico, Zapopan, Jalisco
+Curves	Gym and Studio	18021	20.658215	-103.436823	Avenida Guadalupe 6111 (Av. Copérnico), 45030 Zapopan, Jalisco
+Sport & Fitness Gym	Gym and Studio	18021	20.650488	-103.433183	Avenida Moctezuma 5741 (Av. Copernico), Zapopan, Jalisco
+Forza	Gym and Studio	18021	20.652789	-103.432178	45040 Zapopan, Jalisco
+Kūmaraswāmī Yoga	Yoga Studio	18028	20.656891	-103.435081	Zapopan, Jalisco
+Ladies Fit	Gym and Studio	18021	20.658959	-103.438629	Avenida Guadalupe (Tshaokoski), 45030 Guadalajara, Jalisco
+Pole 4Fitness	Gym and Studio	18021	20.657921	-103.432418	Zapopan, Jalisco
+UNODOS Boxeo	Boxing Gym	18022	20.662945	-103.436808	Avenida Piortr Tchaikovsky 640A (San Luis Gonzaga Y Avenida Tchaikovsky), Zapopan, Jalisco
+Studio 46	Dance Studio	18025	20.663409	-103.430088	Zapopan, Jalisco
+GYMA Metropolitano	Gym and Studio	18021	20.661607	-103.43545	Zapopan, Jalisco
+Gimnasio	Gym and Studio	18021	20.658221	-103.431769	Club Atlas (Av. Guadalupe), Guadalajara, Jalisco
+Padel Sport	Gym and Studio	18021	20.658961	-103.432667	Guadalupe 6000, 45030 Zapopan, Jalisco
+El buke	Gym and Studio	18021	20.661333	-103.434246	Del Agrónomo 5566, Zapopan, Jalisco
+Tango Argentino Dance Studio	Dance Studio	18025	20.664227	-103.434932	Economos (Rafael Sanzio), Guadalajara, Jalisco
+Plaza Comercial el Roble	Spa	11073	20.664969	-103.438422	Zapopan, Jalisco
+The Yoga Lab	Yoga Studio	18028	20.665229	-103.438861	45030 Zapopan, Jalisco
+Box	Gym and Studio	18021	20.662176	-103.43125	Zapopan, Jalisco
+Muevete	Gym and Studio	18021	20.66353	-103.43013	Zapopan, Jalisco
+CrossBox	Boxing Gym	18022	20.669863	-103.437419	Zapopan, Jalisco
+Pole Sexy Fitness	Gym and Studio	18021	20.670042	-103.437466	Zapopan, Jalisco
+Nutri-fitness	Gym and Studio	18021	20.67083	-103.438344	Zapopan, Jalisco
+Motus - Latino Fusion Studio	Salsa Club	10049	20.667182	-103.431658	Rafael Sanzio 505, Zapopan, Jalisco
+Sport City	Gym and Studio	18021	20.677111	-103.432229	Centro Comercial Plaza Galerias Rafael Sanzio 150 (Av Rafael Sanzio y Av Patria), 45030 Zapopan, Jalisco
+Green21Fitness	Gym and Studio	18021	20.682616	-103.434405	Avenida Vallarta 5556, Zapopan, Jalisco
+GreenFitness&Gym	Gym and Studio	18021	20.682547	-103.434412	Avenida Vallarta 5557, Zapopan, Jalisco
+Fitness Station	Gym and Studio	18021	20.677284	-103.433054	45611 Zapopan, Jalisco
+Energy	Gym and Studio	18021	20.677502	-103.43249	45020 Zapopan, Jalisco
+Long life	Gym and Studio	18021	20.680886	-103.432114	Tepic, Nayarit
+Escuela de Karate Goju - Kan	Education	12009	20.683064	-103.432611	Oscar Wilde 5962, 45029 Guadalajara, Jalisco
+Corazon Flamenco	Dance Studio	18025	20.676464	-103.432034	Lopez Mateos, 44658 Guadalajara, Jalisco
+Fit and Art Studio	Dance Studio	18025	20.692467	-103.437447	Avenida naciones unidas 6229-6 (Col. Virreyes residencial), Zapopan, Jalisco
+Poling	Education	12009	20.692638	-103.437819	Avenida Naciones unidas 6229, Guadalajara, Jalisco
+PULSE fitness center	Gym and Studio	18021	20.692606	-103.438018	Naciones Unidas, Jalisco
+Tapping sounds	Education	12009	20.689081	-103.429487	Zapopan, Jalisco
+Gym las Lomas	Gym and Studio	18021	20.71497	-103.436643	Zapopan, Jalisco
+Oracle Gym	Gym and Studio	18021	20.719268	-103.436698	Avenida Paseo Valle Real 1275, 45136 Zapopan, Jalisco
+Cadence Cycling Studio	Cycle Studio	18024	20.720159	-103.439659	Avenida Paseo Valle Real 400, 45019 Zapopan, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.729541	-103.434051	Avenida Santa Margarita 4099 (La Toscana), 45019 Zapopan, Jalisco
+Rebel Ride	Gym and Studio	18021	20.729271	-103.434966	Sta Margarita, 45019 Zapopan, Jalisco
+The Barre Studio Valle Real	Gym and Studio	18021	20.729487	-103.434276	Sta Margarita, 45019 Zapopan, Jalisco
+Blue Spot	Gym and Studio	18021	20.729937	-103.437104	Zapopan, Jalisco
+The Boxing Fight Club	Gym and Studio	18021	20.729515	-103.434099	Zapopan, Jalisco
+Punto Box	Boxing Gym	18022	20.729476	-103.432638	Avenida Santa Margarita 3849, 45019 Zapopan, Jalisco
+TFW Guadalajara	Gym and Studio	18021	20.737321	-103.43313	Servidor Publico 1351, Zapopan, Jalisco
+Anytime Fitness Real Center	Gym and Studio	18021	20.732344	-103.42928	Avenida Santa Margarita 3600, 45136 Zapopan, Jalisco
+Kaksi	Dance Studio	18025	20.742169	-103.430704	Calzada Federalistas 1615 (Valle De Atemajac), Zapopan, Jalisco
+Ochun de Aime Dance Studio	Dance Studio	18025	20.741924	-103.431571	Zapopan, Jalisco
+Kumbala Dance Studio	Gym and Studio	18021	20.741724	-103.431267	Zapopan, Jalisco
+Profit Gym	Gym and Studio	18021	20.745	-103.430618	Valle de Atemajac 1976, Zapopan, Jalisco
+Brazilian Combat Jardines del Valle	Gym and Studio	18021	20.743776	-103.430221	Jardines del Valle 1819A, 45138 Zapopan, Jalisco
+Power Fitness	Gym and Studio	18021	20.741566	-103.429338	Valle de Atemajac 2084 (Avenida Federalistas), 45654 Zapopan, Jalisco
+OnFit Jardines del Valle	Gym and Studio	18021	20.748747	-103.43296	45138 Zapopan, Jalisco
+Deportes Martí Plaza Galerías	Gym and Studio	18021	20.755462	-103.430759	Zapopan, Jalisco
+Casa Club Coto Avellano	Swimming Pool	18075	20.784015	-103.437623	Avenida del Bosque Real 1507, Zapopan, Jalisco
+Aerobics By Barbara	Gym and Studio	18021	20.591304	-103.43011	Guadalupe Gallo, Zapopan, Jalisco
+Select Orange Gym	Gym and Studio	18021	20.585804	-103.422431	Antiguo Camino Real a Colima 845 (san pablo), 45234 Zapopan, Jalisco
+Fit & Body Healt	Gym and Studio	18021	20.611719	-103.428604	Adolfo López Mateos Sur 2034, 45235 Guadalajara, Jalisco
+HP Gym	Gym and Studio	18021	20.617437	-103.421107	HP las Fuentes (Av. Camino al Iteso 8270), 45080 Tlaquepaque, Jalisco
+Aero Dance	Dance Studio	18025	20.618099	-103.422582	45608 Tlaquepaque, Jalisco
+Super Ponch Gym	Gym and Studio	18021	20.62113	-103.425689	Zapopan, Jalisco
+Vida Lumi Pilates & Yoga	Yoga Studio	18028	20.621789	-103.423331	Avenida Lopex Mateos 5880, Guadalajara, Jalisco
+Namastei	Yoga Studio	18028	20.62602	-103.42748	Zapopan, Jalisco
+Crossfit GDL	Gym and Studio	18021	20.627161	-103.426879	Aurora Boreal Sur 4073, 45070 Zapopan, Jalisco
+Curves Arboledas	Gym and Studio	18021	20.628787	-103.424062	Zapopan, Jalisco
+Gimnasio Rinconada las Fuentes	Gym and Studio	18021	20.624981	-103.422226	Zapopan, Jalisco
+Curves la Calma Guadalajara	Gym and Studio	18021	20.629903	-103.424858	Corona Boreal 4132 (PEDRO SIMON LA PLACE), 45070 Zapopan, Jalisco
+Fitzone	Dance Studio	18025	20.630786	-103.426649	Corona Boreal, 45079 Zapopan, Jalisco
+Vida Lumi	Yoga Studio	18028	20.621947	-103.423121	Zapopan, Jalisco
+Vedi Pilates y Yoga	Yoga Studio	18028	20.621947	-103.423121	Zapopan, Jalisco
+Geo's Gym	Gym and Studio	18021	20.630944	-103.430715	Charrasquis (mariano otero), Zapopan, Jalisco
+Neville & Benahia	Dance Studio	18025	20.631336	-103.425235	Pez Austral 4209 (Pedro Simon Laplace), 45070 Zapopan, Jalisco
+Total Gym GDL	Gym and Studio	18021	20.633152	-103.429006	Araceli Souza 5590, 45070 Zapopan, Jalisco
+Beachbody Gym	Gym and Studio	18021	20.634281	-103.428543	Zapopan, Jalisco
+Training contender	Gym and Studio	18021	20.633685	-103.428241	Zapopan, Jalisco
+Pole Fitness EGO by Denisse	Gym and Studio	18021	20.635242	-103.426601	45079 Zapopan, Jalisco
+Gym health	Gym and Studio	18021	20.63549	-103.429746	Zapopan, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.63325	-103.426747	45070 Zapopan, Jalisco
+Bloom Barre	Pilates Studio	18027	20.633052	-103.427082	45070 Zapopan, Jalisco
+Fitness 12 & Gym Center	Gym and Studio	18021	20.633152	-103.429006	Araceli Souza 5590 (Av. Copernico), Zapopan, Jalisco
+Zumfit	Gym and Studio	18021	20.636892	-103.427491	Zapopan, Jalisco
+Poler's Pole Fitness	Gym and Studio	18021	20.63755	-103.4287	Avenida Enrique Ladrón de Guevara 3062, 45070 Zapopan, Jalisco
+Wellness Center	Pilates Studio	18027	20.637708	-103.428767	Zapopan, Jalisco
+Muscle Up	Gym and Studio	18021	20.63607	-103.422303	Zapopan, Jalisco
+Nathaly Guerrero Centro de Danza y Arte	Dance Studio	18025	20.636347	-103.422386	Zapopan, Jalisco
+1501 Fight Club	Boxing Gym	18022	20.63924	-103.430175	Avenida Enrique ladrón de Guevara 1501 (Local 5), 45079 Zapopan, Jalisco
+Gimnasio Pokemon Cloutier	Gym and Studio	18021	20.639355	-103.43083	Zapopan, Jalisco
+Gimnasio Pokemon Cloutier	Gym and Studio	18021	20.639452	-103.430916	45070 Zapopan, Jalisco
+Safefire	Gym and Studio	18021	20.640307	-103.429528	Yolanda Cárdenas 5369C, Zapopan, Jalisco
+Danza Siete	Dance Studio	18025	20.639994	-103.430401	Zapopan, Jalisco
+Go Fighters CrossFit	Gym and Studio	18021	20.642877	-103.426681	Volcán popocatepetl 5388 (Volcán de fuego), 45070 Zapopan, Jalisco
+Aupe Gym	Gym and Studio	18021	20.644667	-103.422876	Volcan cofre de perote 5081 s/n, 45070 Zapopan, Jalisco
+Alvarez Albor Jose Luis	Gym and Studio	18021	20.642815	-103.426938	Cll Volcan Popocatepetl 5388, 45070 Guadalajara, Jalisco
+Versus Crosstraining	Gym and Studio	18021	20.64283	-103.426623	45070 Zapopan, Jalisco
+Mondo Forza Av. Volcan Popocatepetl	Gym and Studio	18021	20.642237	-103.427846	Zapopan, Jalisco
+Hybrid Training Center	Gym and Studio	18021	20.641985	-103.423077	5115 Calle Volcán Popocatépetl, 45070 Zapopan, Jalisco
+VingTsun Kung Fu	Boxing Gym	18022	20.642469	-103.422801	Calle Volcán Popocatépetl 5120, 45058 Guadalajara, Jalisco
+BOX HAUS Colli Urbano	Boxing Gym	18022	20.642149	-103.42293	5115 Calle Volcán Popocatépetl, 45070 Zapopan, Jalisco
+Ballet Pirouette	Dance Studio	18025	20.644923	-103.421398	Avenida Patria 2336 (Av. El Colli), Zapopan, Jalisco
+Strong Beat Academy	Dance Studio	18025	20.644865	-103.421196	45070 Zapopan, Jalisco
+ACADEMIA POINTE / academia de danza	Dance Studio	18025	20.649693	-103.426913	Avenida M. J. Clouthier 1034 (AV. Moctezuma), Zapopan, Jalisco
+Ballet Pirouette Studio	Dance Studio	18025	20.64241	-103.420573	Avenida Patria 2336 (Av.El Colli), 45070 Zapopan, Jalisco
+RowingFit	Gym and Studio	18021	20.650993	-103.426525	Avenida Manuel J. Clouthier (Av. Moctezuma), Zapopan, Jalisco
+A Lo Cubano	Dance Studio	18025	20.656434	-103.423653	Zapopan, Jalisco
+Dance Energy	Yoga Studio	18028	20.650953	-103.426464	Avenida J. Cluthier 1420, Jalisco
+Curve's	Gym and Studio	18021	20.650421	-103.426018	Moctezuma 2574, Zapopan, Jalisco
+Krystal gym	Gym and Studio	18021	20.654077	-103.429523	Clouthier, Zapopan, Jalisco
+Coolfitness	Gym and Studio	18021	20.655115	-103.425484	Avenida Tepeyac, Zapopan, Jalisco
+Binni's Gym	Gym and Studio	18021	20.65411	-103.423948	Avenida Tepeyac, Zapopan, Jalisco
+Box	Gym and Studio	18021	20.657091	-103.423892	Avenida Patria 1614A, Zapopan, Jalisco
+Rowingym	Veterinarian	15054	20.650993	-103.426525	Avenida Manuel J. Clouthier 1420, Zapopan, Jalisco
+Fit Studio Crossfit	Gym and Studio	18021	20.661625	-103.426701	Zapopan, Jalisco
+Amrap Training Crossfit	Gym and Studio	18021	20.662413	-103.429474	Administradores 5331, 45037 Zapopan, Jalisco
+Real Academia de Ballet	Dance Studio	18025	20.659156	-103.42565	Primera Norte 5123, 45030 Zapopan, Jalisco
+Escuela de Danza de Guadalajara A.c.	Dance Studio	18025	20.6667	-103.424624	Santo Tomas de Aquino 5025 (e/ Arquitectos & Av. Patria), 45030 Zapopan, Jalisco
+Hernz Fitness & Health	Gym and Studio	18021	20.661658	-103.428281	Guadalupe 5347-18 (Toreros), 45130 Zapopan, Jalisco
+Parivar Yoga Guadalupe	Yoga Studio	18028	20.661793	-103.42841	Avenida Guadalupe 5246 (Calle Toreros), 45030 Zapopan, Jalisco
+Tkad	Dance Studio	18025	20.662349	-103.424426	Santo Tomás de Aquino (Avenida Patria), Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.662035	-103.42403	45030 Zapopan, Jalisco
+Dexfit	Gym and Studio	18021	20.663262	-103.424235	Zapopan, Jalisco
+Crossfit	Gym and Studio	18021	20.66466	-103.425688	Avenida Guadalupe, Zapopan, Jalisco
+Banco scott	Gym and Studio	18021	20.65866	-103.423885	Zapopan, Jalisco
+R Evolution	Public Art	10047	20.666642	-103.424649	Santo Tomas de Aquino 5025, Zapopan, Jalisco
+Thelon & Karppa Artistic Development	Dance Studio	18025	20.666693	-103.424838	Santo Tomas de Aquino 5025, Guadalajara, Jalisco
+Move Wellness Ladies - Clouthier	Gym and Studio	18021	20.664034	-103.420869	Avenida Manuel J. Clouthier 710, 45030 Zapopan, Jalisco
+Yoga Clouthier # 911	Yoga Studio	18028	20.663345	-103.420764	Manuel J. Clouthier 911 (Av. Guadalupe), 45034 Zapopan, Jalisco
+Survivor Krav Maga Institute	Gym and Studio	18021	20.663551	-103.42029	Avenida Manuel J Clouthier 905 (Guadalupe), 45030 Zapopan, Jalisco
+Fit Studio Crossfit GPE	Gym and Studio	18021	20.661941	-103.426772	Avenida Guadalupe 5153, 45030 Zapopan, Jalisco
+Le Grand Ballet	Dance Studio	18025	20.669052	-103.423697	Doctores 390 (Av. Beethoven), 45038 Zapopan, Jalisco
+Curves la Estancia	Gym and Studio	18021	20.672536	-103.425166	Avenida Miguel Ángel 215, 45030 Zapopan, Jalisco
+Crossfit Code	Gym and Studio	18021	20.669773	-103.426109	Zapopan, Jalisco
+Spinning Club	Gym and Studio	18021	20.669079	-103.421037	Beethoven (Handel), Zapopan, Jalisco
+Turbulence Fitness Studio	Gym and Studio	18021	20.669114	-103.420192	Avenida Beethoven, Zapopan, Jalisco
+Black Panther Fit Studio	Gym and Studio	18021	20.669889	-103.426206	Avenida Miguel Ángel 312 (Beethoven), Zapopan, Jalisco
+DeportLife Club	Gym and Studio	18021	20.675653	-103.42536	Zapopan, Jalisco
+Nitro Gym	Gym and Studio	18021	20.67244	-103.425694	George Bizet (Av. Miguel Angel), Zapopan, Jalisco
+Silvias Sport Center	Gym and Studio	18021	20.674361	-103.426475	Zapopan, Jalisco
+Suni Ananda	Yoga Studio	18028	20.672337	-103.429138	W. A. Mozart 5329 (Millet), 45030 Zapopan, Jalisco
+Crossfit Code	Gym and Studio	18021	20.671348	-103.423923	Zapopan, Jalisco
+The Room wellness Studio	Pilates Studio	18027	20.673888	-103.427053	Velazquez, 175 (Ave. Sebastian Bach), Zapopan, Jalisco
+REFUSE indoor cycling	Cycle Studio	18024	20.668648	-103.42422	Avenida patria 505 (Bethoveen), 45038 Zapopan, Jalisco
+Barrett Studio	Gym and Studio	18021	20.668923	-103.423839	Doctores 390 (Bethoveen), 45038 Zapopan, Jalisco
+La Estancia Gym	Gym and Studio	18021	20.674401	-103.426536	Zapopan, Jalisco
+Fox Fitness	Gym and Studio	18021	20.673124	-103.423358	Zapopan, Jalisco
+Iteso Fitness & Wellness Center	Gym and Studio	18021	20.674804	-103.427598	Zapopan, Jalisco
+Salt Lake	Gym and Studio	18021	20.675646	-103.425052	Avenida Miguel Angel 128, Zapopan, Jalisco
+Quantum Elite Fitness	Arts and Entertainment	10000	20.668902	-103.421444	Avenida Xochitl 4385, Zapopan, Jalisco
+Full Training	Gym and Studio	18021	20.669114	-103.420192	Zapopan, Jalisco
+Rojo Flamenco	Dance Studio	18025	20.668796	-103.420158	L. Van Beethoven 4575 (contadores), 45038 Guadalajara, Jalisco
+GYM Nation Fitness	Gym and Studio	18021	20.679083	-103.420822	4936 Avenida Ignacio l Vallarta, Zapopan, 45010 (Patria), 44027 Zapopan, Jalisco
+Premiere line fitness and gym	Gym and Studio	18021	20.682786	-103.428361	Juan Palomar y Arias 151 (Joaquín Fernández de Lizardi), 45027 Zapopan, Jalisco
+NUK Athletics	College Gym	12027	20.68003	-103.425524	Charles Dickens 35A, Zapopan, Jalisco
+Yogarte Centro Holístico	Gym and Studio	18021	20.678886	-103.425249	Leonardo Da Vinci 5256, 45021 Zapopan, Jalisco
+Body Fitness	Gym and Studio	18021	20.682255	-103.428598	Zapopan, Jalisco
+Gaspar Silva, Rafael	Gym and Studio	18021	20.67803	-103.422936	Boulevard Puerta de Hierro 4965, 45020 Guadalajara, Jalisco
+Barre 33 Studio Fitness	Gym and Studio	18021	20.683728	-103.428128	5561 Avenida Novelistas, 45027 Zapopan, Jalisco
+Jump Studio Fitness Gdl	Gym and Studio	18021	20.679322	-103.421323	Avenida Patria 40 (Avenida Vallarta), Zapopan, Jalisco
+Gym Club de la Colina	Gym and Studio	18021	20.684944	-103.422639	Zapopan, Jalisco
+Rojas & Herrera Relajación Física y Mental	Massage Clinic	11070	20.68198	-103.42129	Plaza Inglaterra Consultorios 1C, Zapopan, Jalisco
+Vida pilates	Yoga Studio	18028	20.689	-103.427226	Juan Palomar y Arias 577-9 (Naciones Unidas), 45110 Zapopan, Jalisco
+Bronx Urban Fitness	Gym and Studio	18021	20.687011	-103.426905	450 Juan Palomar y Arias, Zapopan, 45110 (Luigi Pirandello), 45110 Zapopan, Jalisco
+Proud Functional Fitness	Gym and Studio	18021	20.688528	-103.42831	Avenida Naciones Unidas 5541, Zapopan, Jalisco
+Ritmo Studio	Dance Studio	18025	20.687534	-103.426011	Naciones Unidas 5377-11, Guadalajara, Jalisco
+Vida en movimiento	Gym and Studio	18021	20.689196	-103.428762	Naciones Unidas 5550-4, 45110 Zapopan, Jalisco
+Club Villa la Cima	Gym and Studio	18021	20.692487	-103.427364	Juan Palomar y Arias 861, Zapopan, Jalisco
+BodhiYoga	Yoga Studio	18028	20.689118	-103.427061	577-7 Avenida Juan Palomar y Arias, Zapopan, 45110 (Ricardo Güiraldes), Zapopan, Jalisco
+Punto Danza	Dance Studio	18025	20.68908	-103.427348	Juan Palomar y Arias 577, Guadalajara, Jalisco
+Maria Antonia Estudio	Education	12009	20.687755	-103.426572	Zapopan, Jalisco
+Árbol del Yoga	Yoga Studio	18028	20.688311	-103.427674	Avenida Naciones Unidas 5535, 45110 Zapopan, Jalisco
+Fit Project	Gym and Studio	18021	20.687653	-103.426212	Casa Unión, Zapopan, Jalisco
+Shanti	Yoga Studio	18028	20.688505	-103.428205	Zapopan, Jalisco
+Acsa	Dance Studio	18025	20.693267	-103.422007	Zapopan, Jalisco
+Dancers by Karla Báez	Dance Studio	18025	20.687534	-103.426011	Naciones Unidas 5377-11 (a 1/2 cuadra de Juan Palomar y Arias), 45110 Zapopan, Jalisco
+GYM	Gym and Studio	18021	20.688518	-103.424574	Zapopan, Jalisco
+Gimnasio Villa Salud	Gym and Studio	18021	20.689404	-103.424464	Zapopan, Jalisco
+B Studio Barre	Gym and Studio	18021	20.687252	-103.42422	5279 Avenida Naciones Unidas, 45110 Zapopan, Jalisco
+Curves Naciones Unidas	Gym and Studio	18021	20.687643	-103.423926	Zapopan, Jalisco
+Maxwell	Gym and Studio	18021	20.687611	-103.423541	Naciones Unidas 5247, Zapopan, Jalisco
+Buena Vibra	Gym and Studio	18021	20.686806	-103.423556	Naciones Unidas, Zapopan, Jalisco
+Gym Puerta Roble	Gym and Studio	18021	20.692461	-103.425846	Zapopan, Jalisco
+1097 Crossfit Monterrey	Gym and Studio	18021	20.692679	-103.429778	Anillo Periferico 1805, Zapopan, Jalisco
+Dexfit	Gym and Studio	18021	20.68812	-103.419926	Avenida Patria 746, 45030 Zapopan, Jalisco
+Alberca Olímpica Universitaria UAG	Gym and Studio	18021	20.696935	-103.419998	Universidad Autónoma de Guadalajara (Av. Patria 1201), 45129 Zapopan, Jalisco
+GYM Puerta del Valle	Gym and Studio	18021	20.724709	-103.420615	Zapopan, Jalisco
+Gym	College Gym	12027	20.721946	-103.420458	Club Puerta de Hierro, Zapopan, Jalisco
+Fitbox	Gym and Studio	18021	20.731579	-103.422121	Acueducto 6050 38, 45238 Zapopan, Jalisco
+Real Fitness	Gym and Studio	18021	20.741382	-103.428383	Avenida Valle de Atemajac 1978, 45138 Zapopan, Jalisco
+Victory Athletics	Gym and Studio	18021	20.741462	-103.428505	Avenida Valle de Atemajac 1978 (Esquina con Av valle de Guadalupe), Zapopan, Jalisco
+Mg Fusion Academia de Baile	Dance Studio	18025	20.741361	-103.428126	Avenida Valle de Atemajac (Av. Valle De Guadalupe), 45138 Zapopan, Jalisco
+HI Fitness	Gym and Studio	18021	20.745458	-103.426662	Zapopan, Jalisco
+Academia de Danza Arabe Aurora Sigala	Gym and Studio	18021	20.744459	-103.423604	Calzada Federalistas, Zapopan, Jalisco
+Curves San Jose, Zapopan	Gym and Studio	18021	20.745966	-103.423645	Zapopan, Jalisco
+Roma GYM	Gym and Studio	18021	20.743634	-103.419537	Antiguo Camino a Tesista 1880, 45138 Zapopan, Jalisco
+Gimnasio Corey	Gym and Studio	18021	20.742947	-103.419281	Avenida Tesistan (Santa Monica), 45178 Zapopan, Jalisco
+Life Gym	Gym and Studio	18021	20.74605	-103.423771	Tesistan 844 (Arco Tudor), 45130 Zapopan, Jalisco
+Easy Fit	Gym and Studio	18021	20.749879	-103.420473	Avenida Juan Gil Preciado 2001 (Plaza Aleira), Zapopan, Jalisco
+Station Fitness 24	Gym and Studio	18021	20.751491	-103.420897	Los Robles, 45134 Zapopan, Jalisco
+Gpe Sandoval de Chavez	Dance Studio	18025	20.766462	-103.42181	2811 s/n, 44680 Guadalajara, Jalisco
+Gym / Fitness center	Gym and Studio	18021	20.59355	-103.41564	Tlaquepaque, Jalisco
+Anubis Gym	Gym and Studio	18021	20.59541	-103.420377	Tlaquepaque, Jalisco
+Horizon	Gym and Studio	18021	20.602657	-103.41519	Tlaquepaque, Jalisco
+Exerceo Fitness Center	Gym and Studio	18021	20.603827	-103.412807	Padre Xavier Scheifler de Amezaga (Independencia), 45609 Tlaquepaque, Jalisco
+Nationbox Strong Room	Gym and Studio	18021	20.611687	-103.4221	Galileo Galilei 3827 (Sagitario), 45235 Zapopan, Jalisco
+Gym TecMilenio	Gym and Studio	18021	20.61321	-103.415097	Tlaquepaque, Jalisco
+Gym Herbalife	Gym and Studio	18021	20.614732	-103.418461	Camino al Iteso Hangar 5 (Sierra De Mazamitla), 45609 Tlaquepaque, Jalisco
+Energym	Gym and Studio	18021	20.619726	-103.417836	Sierra de Mazamitla (Av.  Del Pinar), Guadalajara, Jalisco
+Monteverde	Gym and Studio	18021	20.613733	-103.415257	Tlaquepaque, Jalisco
+Squash Copernico	Gym and Studio	18021	20.628719	-103.420247	Avenida Copernico (Close to av. Lopez Mateos), 45110 Zapopan, Jalisco
+Centrical Fit Gdl	Gym and Studio	18021	20.627004	-103.416855	18 de Marzo 2007 (Rio Santiago), 45080 Zapopan, Jalisco
+Country Sport Gym	Gym and Studio	18021	20.629418	-103.421085	Avenida Nicolas Copernico, 45070 Zapopan, Jalisco
+GlobalFit	Gym and Studio	18021	20.630026	-103.417397	Juan kepler 3500A, Zapopan, Jalisco
+Sports fitness	Gym and Studio	18021	20.626018	-103.418507	Río Colotlan (Río Santiago), Zapopan, Jalisco
+Crossarmyfit	Gym and Studio	18021	20.630026	-103.417397	Juan Kepler 3500, Zapopan, Jalisco
+Salon 51	Salsa Club	10049	20.623144	-103.419588	Avenida del Pinar 3439, Zapopan, Jalisco
+Metaboli-k	Gym and Studio	18021	20.626158	-103.416216	Río Atengo (Sierra de Mazamitla), Zapopan, Jalisco
+5:00 Am First	Gym and Studio	18021	20.623633	-103.420095	Rio Santiago 5877 (Av. Del Pinar), 45080 Zapopan, Jalisco
+Lions Gym	Gym and Studio	18021	20.62376	-103.420026	Rio santiago 5991 (Av. Del pinar), Zapopan, Jalisco
+Gimnasio Mujer Virtuosa	Gym and Studio	18021	20.629582	-103.417959	Juan Kepler 3500A (Lopez Mateos), Zapopan, Jalisco
+Bike light gimnasio.	Gym and Studio	18021	20.629889	-103.417864	Zapopan, Jalisco
+Scila Crossfit	Gym and Studio	18021	20.62996	-103.417536	Juan Kepler (Av. Lopez Mateos), 45070 Zapopan, Jalisco
+Boxfit	Boxing Gym	18022	20.630096	-103.41739	45070 Zapopan, Jalisco
+Cubox	Boxing Gym	18022	20.630044	-103.417466	López Mateos Sur 5295 (Pedro Simon Lapalce), 45059 Zapopan, Jalisco
+New force Coopernico	Gym and Studio	18021	20.629519	-103.421463	Coopernico 3835, Zapopan, Jalisco
+Natural Fitness	Gym and Studio	18021	20.629558	-103.412974	Avenida sierra de mazamitla 5062 (Sierra de perote), Zapopan, Jalisco
+Bikram Yoga	Yoga Studio	18028	20.639078	-103.419673	Avenida Patria 3043-1 (Mariano Otero), 45070 Zapopan, Jalisco
+SnapFitness 24/7 la Calma	Gym and Studio	18021	20.637991	-103.418809	Avenida Patria 4481 (Casiopea), 45070 Zapopan, Jalisco
+Gdl Cross Fitness Rx	Gym and Studio	18021	20.639678	-103.418447	Volcán Vesubio, Zapopan, 45070, 45050 Zapopan, Jalisco
+Kutashta Yoga	Yoga Studio	18028	20.635612	-103.417694	Zapopan, Jalisco
+Keep Dancing	Dance Studio	18025	20.635355	-103.416155	Escorpion (Av. La Calma), Zapopan, Jalisco
+Pole Sport Studio la Calma	Dance Studio	18025	20.635886	-103.414937	Osa Menor 3770 (Av La Calma), Zapopan, Jalisco
+Station 24	Gym and Studio	18021	20.638077	-103.41906	45070 Zapopan, Jalisco
+ZonafitnessGDL	Gym and Studio	18021	20.638146	-103.41892	Avenida mariano otero 5035-2 (Mariano otero y patria), 45070 Zapopan, Jalisco
+Iam GYM	Gym and Studio	18021	20.636659	-103.414536	Zapopan, Jalisco
+Bikram Yoga	Yoga Studio	18028	20.634673	-103.413451	Zapopan, Jalisco
+Yoga	Gym and Studio	18021	20.639409	-103.420288	Zapopan, Jalisco
+Shake Chic	Gym and Studio	18021	20.639347	-103.41997	Avenida Patria 2974, Zapopan, Jalisco
+Yoga Montse	Yoga Studio	18028	20.630737	-103.413079	Avenida Sierra de Mazamitla 510 (Sierra De Bolaños), 45080 Zapopan, Jalisco
+Femyd: Yoga deportivo para escuelas	Yoga Studio	18028	20.639204	-103.419077	Avenida patria 3043, 45070 Guadalajara, Jalisco
+Vivo 47 Family Fitness Club	Gym	18077	20.648289	-103.420055	Ciudadela Lifestyle Center (Loc. SA-M1), 45050 Zapopan, Jalisco
+One Fitness Centre Crossfit	Gym	18077	20.643878	-103.417966	Volcán Cofre de Perote 4360, 45070 Zapopan, Jalisco
+Cross World	Gym and Studio	18021	20.642058	-103.419701	Avenida Patria 2640, Guadalajara, Jalisco
+Star Gym	Gym and Studio	18021	20.642235	-103.417157	Zapopan, Jalisco
+Wizeline Fit	Gym and Studio	18021	20.644691	-103.41574	45050 Zapopan, Jalisco
+Enformance Gym	Gym and Studio	18021	20.641109	-103.414548	Zapopan, Jalisco
+Element Vie	Gym and Studio	18021	20.648171	-103.420326	Zapopan, Jalisco
+Hellmann Worldwide Logistics	Boxing Gym	18022	20.644376	-103.412086	Amado Nervo 2200, 45050 Zapopan, Jalisco
+Vivo 47 Restaurant	Sandwich Spot	13334	20.648588	-103.420284	Plaza ciudadela, Zapopan, Jalisco
+Technicolor GYM	Gym and Studio	18021	20.647858	-103.413101	Avenida Labna 1781 (Mariano otero), 44950 Zapopan, Jalisco
+Áurea Gym	Gym and Studio	18021	20.640139	-103.411555	Zapopan, Jalisco
+Vog Artes Escénicas & Fitness	Dance Studio	18025	20.654629	-103.414048	Avenida Xóchitl 4293 (Prado de las Gladiolar), 45050 Zapopan, Jalisco
+Gold's Gym	Gym and Studio	18021	20.654095	-103.412676	Xochitl 4203 (Jardines del Sol), 45050 Zapopan, Jalisco
+Hit & Run	Sports Bar	13022	20.656378	-103.41828	Xochilt 4555 (El Tajin), Jalisco
+Glow Artes Escénicas	Dance Studio	18025	20.658139	-103.41668	Avenida Tepeyac 4536 (Prado de Los Pirules), 45047 Zapopan, Jalisco
+Padma Yoga GDL	Yoga Studio	18028	20.650563	-103.416693	Avenida Moctezuma 464 (Av. Labna y Palenque), 45050 Zapopan, Jalisco
+Plié Studio de Danza	Dance Studio	18025	20.656117	-103.416839	Plaza Xochitl, 45050 Zapopan, Jalisco
+Studio Ocho	Gym and Studio	18021	20.658069	-103.416687	Zapopan, Jalisco
+Kilost	Gym and Studio	18021	20.658143	-103.416257	Avenida Tepeyac 4338, Zapopan, Jalisco
+Club Insanity Guadalajara	Gym and Studio	18021	20.659296	-103.413715	Avenida de la Libertad 743, 45047 Zapopan, Jalisco
+Virya estudio de Yoga	Yoga Studio	18028	20.661946	-103.416335	Zapopan, Jalisco
+Personal Trainer Gym	Gym and Studio	18021	20.662872	-103.417571	Avenida Guadalupe 4543, 45047 Guadalajara, Jalisco
+Training Day Systems	Gym and Studio	18021	20.662883	-103.4177	Zapopan, Jalisco
+Academia Flamenco Victoria Duar	Art School	12011	20.664375	-103.411979	Avenida Guadalupe 4449 (Santa Teresa de Jesús), Zapopan, Jalisco
+Nutriologo	Dance Studio	18025	20.662154	-103.410969	Paseo de los Tabachines 662 (Av. Tepeyac), Guadalajara, Jalisco
+Seosa	Education	12009	20.661175	-103.413982	Organización 128B, 45030 Zapopan, Jalisco
+Perez	Gym and Studio	18021	20.658867	-103.413174	Avenida Tepeyac 4335, 45050 Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.671058	-103.417608	Clouthier Esq. Berlioz, 45039 Zapopan, Jalisco
+Wod Center	Gym and Studio	18021	20.668699	-103.418548	Zapopan, Jalisco
+The Spinning Studio	Cycle Studio	18024	20.66975	-103.41812	Clourhier 440 Interior 1 y 2, Zapopan, Jalisco
+Yoga Kundalini	Yoga Studio	18028	20.668252	-103.416792	Zapopan, Jalisco
+Prega Fitness	Gym and Studio	18021	20.668873	-103.419843	Avenida Beethoven 4551, Zapopan, Jalisco
+Functional fitness	Gym and Studio	18021	20.668816	-103.419922	Zapopan, Jalisco
+EduGym	Gym and Studio	18021	20.676794	-103.418133	A las llanuras 316, Zapopan, Jalisco
+Foro Estudio de Danza	Dance Studio	18025	20.668815	-103.419962	Beethoven 4567 (manuelclouthier), 45038 Zapopan, Jalisco
+Reto40Box	Boxing Gym	18022	20.673524	-103.416899	45020 Zapopan, Jalisco
+Salon de baile	Education	12009	20.675192	-103.41838	A las Cimas (A Las Colinas), Guadalajara, Jalisco
+Ta'u Moemoeā	Dance Studio	18025	20.669103	-103.41144	Avenida Moctezuma 464, 45040 Guadalajara, Jalisco
+Talentos Zapopan Escuela de Danza	Education	12009	20.676421	-103.417004	Zapopan, Jalisco
+New Dance	Dance Studio	18025	20.675645	-103.420775	A las cimas, Zapopan, Jalisco
+ShotokanKaratedo	Yoga Studio	18028	20.676519	-103.419681	A La Cima 327, Zapopan, Jalisco
+Edu Gym	Gym and Studio	18021	20.676872	-103.417802	Zapopan, Jalisco
+Academia de Danza Rojo Flamenco	Dance Studio	18025	20.668826	-103.420091	Beethoven 4575, 45030 Zapopan, Jalisco
+Move Wellness Family - Urbania	Gym and Studio	18021	20.678183	-103.41158	5000 Avenida México (Libra), 45120 Zapopan, Jalisco
+Joy Wellness Center	Gym and Studio	18021	20.678284	-103.411959	Zapopan, Jalisco
+Casa Antera	Yoga Studio	18028	20.684268	-103.414411	Fedor Dostoiewski 280, 45110 Zapopan, Jalisco
+Redemption	Gym and Studio	18021	20.678784	-103.418147	Avenida Ignacio L. Vallarta 4820, 45027 Zapopan, Jalisco
+Box Funcional 40	Boxing Gym	18022	20.677385	-103.41729	45020 Zapopan, Jalisco
+Rebitasen	Gym and Studio	18021	20.67735	-103.4181	A las Praderas, 45020 Zapopan, Jalisco
+Rebitasen	Gym and Studio	18021	20.677665	-103.419852	A las Praderas, 45020 Zapopan, Jalisco
+Comercial Japones	Retail	17000	20.677916	-103.410538	Pse Virreyes 672, Guadalajara, Jalisco
+Vivo 47 Family Fitness Club	Gym and Studio	18021	20.689162	-103.415545	Naciones Unidas 6700, 45129 Zapopan, Jalisco
+Happy Fitness Spinning Sin Fin	Gym and Studio	18021	20.688461	-103.418531	Zapopan, Jalisco
+Anytime Fitness Universidad	Gym and Studio	18021	20.689266	-103.418516	Avenida Patria 600, 45110 Zapopan, Jalisco
+Vivo 47 City Day Spa	Massage Clinic	11070	20.689221	-103.41541	Avenida Naciones Unidas 6700 (Ceja de la barranca), 45129 Zapopan, Jalisco
+Estudio fitness 59	Gym and Studio	18021	20.688249	-103.418439	Avenida naciones unidas 4856 (Av. Patria), Zapopan, Jalisco
+Sport Bike Gym	Gym and Studio	18021	20.68859	-103.418389	Avenida Naciones Unidas (Av. Paseo Del prado), 45119 Zapopan, Jalisco
+AM Functional Fitness Training	Gym and Studio	18021	20.688502	-103.418301	45110 Zapopan, Jalisco
+Power Plate	Gym and Studio	18021	20.688472	-103.418541	Zapopan, Jalisco
+Lakshmi Gdl	Yoga Studio	18028	20.688314	-103.418808	4856 Avenida Naciones Unidas, 45110 Zapopan, Jalisco
+Soona	Yoga Studio	18028	20.688394	-103.418839	Avenida naciones Unidas 4856, 45110 Zapopan, Jalisco
+Zona Acuatica Vivo 47	Gym and Studio	18021	20.689349	-103.415267	Naciones Unidas, Zapopan, Jalisco
+Gimnasios Americanos	Gym and Studio	18021	20.689318	-103.414776	Avenida Naciones Unidas 6700, 45129 Guadalajara, Jalisco
+Pole & Fit	Gym and Studio	18021	20.691201	-103.413917	Avenida Pablo Neruda 4341, 45110 Zapopan, Jalisco
+Forward Wellness Center	Gym and Studio	18021	20.687766	-103.412638	45110 Zapopan, Jalisco
+Crossboxing GDL	Boxing Gym	18022	20.692785	-103.414861	Zapopan, Jalisco
+Pilates Lomas	Gym and Studio	18021	20.693392	-103.414995	Avenida Acueducto 2380 (Av. Patria), 44666 Guadalajara, Jalisco
+Volat	Dance Studio	18025	20.694331	-103.414918	Zapopan, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.694374	-103.414841	Avenida Patria 1334 (Paseo De Los Parques), 45110 Zapopan, Jalisco
+Kisuna Yoga	Yoga Studio	18028	20.686932	-103.410582	45129 Zapopan, Jalisco
+Escuela de Danza Guadalajara A.c.	Education	12009	20.68919	-103.417162	Manuel de Unamuno 4630, Guadalajara, Jalisco
+Buscadores de Sabiduria	Education	12009	20.689413	-103.416083	Miguel de Unamuno 4630, 45110 Guadalajara, Jalisco
+Bar Casa Club Puerta del Bosque	Bar	13003	20.700793	-103.416788	Zapopan, Jalisco
+Jois Yoga	Yoga Studio	18028	20.697548	-103.415685	Avenida Patria (Reyes), 45110 Zapopan, Jalisco
+Box Gym UAG	Gym and Studio	18021	20.696468	-103.418319	Zapopan, Jalisco
+GymUAG	Gym and Studio	18021	20.699167	-103.41792	Zapopan, Jalisco
+Fit Yoga	Yoga Studio	18028	20.696324	-103.415288	Avenida Patria esq Callejón del Muro numero 1398- 11, Zapopan, Jalisco
+Punto Yoga	Yoga Studio	18028	20.697634	-103.412889	Paseo de los Virreyes, Guadalajara, Jalisco
+Dakini Yoga	Yoga Studio	18028	20.695015	-103.41248	Paseo Loma Larga 4284, Guadalajara, Jalisco
+Don Jimmy's Gym	Gym and Studio	18021	20.694118	-103.413174	Zapopan, Jalisco
+Ufit Wellness Center	Gym and Studio	18021	20.710781	-103.415084	Avenida Empresarios 371, 45040 Zapopan, Jalisco
+Falcon Sky Football	Sports Bar	13022	20.707414	-103.415483	Avenida Paseo Royal Country 4692 (Av. Patria), 45136 Zapopan, Jalisco
+Studio 2820	Dance Studio	18025	20.710708	-103.412498	Sotano 2, Zapopan, Jalisco
+Estudio 28/20	Dance Studio	18025	20.710778	-103.412491	Avenida Patria, Guadalajara, 45116, Guadalajara, Jalisco
+Alaya Tower Living-Gym	Gym and Studio	18021	20.708156	-103.414354	Empresarios (Paseo de los Virreyes), 45116 Zapopan, Jalisco
+36Five	Gym and Studio	18021	20.704157	-103.413797	Avenida Patria 1814A, Zapopan, Jalisco
+El T3Mplo	Gym and Studio	18021	20.704147	-103.413803	Avenida Patria 1814, 45110 Zapopan, Jalisco
+Síclo	Cycle Studio	18024	20.706828	-103.41269	45116 Zapopan, Jalisco
+The One Center	Gym and Studio	18021	20.710237	-103.414418	45116 Zapopan, Jalisco
+Gym Andares Corporativo	Gym and Studio	18021	20.709783	-103.413661	Boulevard Puerta de Hierro 5153, 45116 Zapopan, Jalisco
+Gym Andares	Gym and Studio	18021	20.713017	-103.417131	Boulevard Puerta de Hierro, Zapopan, Jalisco
+Lobos Training	Gym and Studio	18021	20.718878	-103.412983	Zapopan, Jalisco
+Gym @ Hyatt Andares	Gym and Studio	18021	20.712564	-103.412055	45116 Zapopan, Jalisco
+Bc Fitness	Gym and Studio	18021	20.720321	-103.42063	45116 Zapopan, Jalisco
+Vive Gym	Gym and Studio	18021	20.730847	-103.417889	Avenida Santa Margarita, Zapopan, Jalisco
+Fight Club Hi Fitness	Gym and Studio	18021	20.721902	-103.413531	Avenida Acueducto Plaza Acueducto 6050 (Av. Acueducto 6050 L-38), 45038 Zapopan, Jalisco
+Santa Esther Gym	Hardware Store	17090	20.72787	-103.412804	Santa Esther 201 (Av. Las Torres), 45140 Zapopan, Jalisco
+The Who	Boxing Gym	18022	20.723634	-103.418531	Torre Diamante (Puerta De Hierro), 45140 Zapopan, Jalisco
+Urban Pilates Reformer	Gym and Studio	18021	20.724678	-103.41906	Puerta de Hierro, Zapopan, Jalisco
+Gravity Zone	Gym and Studio	18021	20.723012	-103.412962	Plaza acueducto, Zapopan, Jalisco
+Arbol de Vida	Gym and Studio	18021	20.723298	-103.412609	Avenida Acueducto 6050, 45118 Zapopan, Jalisco
+Round 12	Gym and Studio	18021	20.729985	-103.412529	Calle Santa Teresa 247 (av. periferico), 45130 Zapopan, Jalisco
+Forza Gym	Gym and Studio	18021	20.734838	-103.419113	Marina Vallarta 478, 45130 Zapopan, Jalisco
+Cuisillos Boxing	Boxing Gym	18022	20.733501	-103.416069	Zapopan, Jalisco
+Judys Gym	Gym and Studio	18021	20.734921	-103.415864	Zapopan, Jalisco
+Spinning- Pole Dance-Crossfit	Cycle Studio	18024	20.736005	-103.416825	Calle Jesús (Marina Vallarta), Jalisco
+Pole Dance	Dance Studio	18025	20.731378	-103.418808	Amsterdam 171 Int 104, Zapopan, Jalisco
+Curves	Gym and Studio	18021	20.730696	-103.413495	Avenida Santa Margarita 4140 (Avenida Central), 45140 Zapopan, Jalisco
+Progym	Gym and Studio	18021	20.737885	-103.420367	San Eduardo - interior L-51, 399, 45019 , Jalisco
+Evolution Fit	Yoga Studio	18028	20.742956	-103.411967	Hidalgo 687, Zapopan, Jalisco
+Développé Danza	Dance Studio	18025	20.742339	-103.411735	Arco Severo 1220 (Arco de Majencio), 45130 Zapopan, Jalisco
+Box la Cima	Boxing Gym	18022	20.753333	-103.411805	Avenida La Cima 1014 (Av. Federalistas), 45134 Zapopan, Jalisco
+Vertical dance	Gym and Studio	18021	20.623531	-103.409556	Sierra de Tapalpa 5506 (Col Las Aguilas), Guadalajara, Jalisco
+Sporty Gym	Gym and Studio	18021	20.625795	-103.409396	Avenida Tapalpa 5277 (Rio Tomatlan), 45080 Zapopan, Jalisco
+Es Fitness Gym	Gym and Studio	18021	20.628702	-103.402565	Avenida Patria 3204-4 (Av. Tabachines), Zapopan, Jalisco
+Enforma Gym	Gym and Studio	18021	20.628506	-103.410183	Zapopan, Jalisco
+Gimnasio de Box Azteca	Gym and Studio	18021	20.629556	-103.404423	Encinos 4591, Zapopan, Jalisco
+Peony Yoga	Yoga Studio	18028	20.629689	-103.407058	Zapopan, Jalisco
+Toranokai	Gym and Studio	18021	20.628197	-103.40281	Zapopan, Jalisco
+Starfit	Gym and Studio	18021	20.628593	-103.402511	3204 Avenida Tabachines, 45085 Zapopan, Jalisco
+Vertical Dance	Education	12009	20.623531	-103.409556	Sierra de Tapalpa 1007, 45080 Zapopan, Jalisco
+Academia Victoria Ballet	Dance Studio	18025	20.636921	-103.403238	Zapopan, Jalisco
+Ribox Fitness	Gym and Studio	18021	20.638948	-103.411264	Zapopan, Jalisco
+GYM Umg	Gym and Studio	18021	20.634753	-103.406693	Zapopan, Jalisco
+Herbalife center fitness	Gym and Studio	18021	20.634174	-103.410313	Zapopan, Jalisco
+Sé Yoga	Yoga Studio	18028	20.632091	-103.408086	Montemorelos 265, Zapopan, Jalisco
+Ritmo Gym	Gym and Studio	18021	20.637303	-103.404043	Zapopan, Jalisco
+Zambra	Dance Studio	18025	20.640255	-103.408414	Prado de los Pinos 1102 2, Guadalajara, Jalisco
+Balanz	Education	12009	20.640255	-103.408414	Montemorelos 56A (Av. Conchitas), Zapopan, Jalisco
+GDL Spinning	Gym and Studio	18021	20.637993	-103.403067	Av. Conchitas, Zapopan, Jalisco
+Sponning club	Gym and Studio	18021	20.637814	-103.40302	Avenida Conchita (Cruz del sur), 45088 Zapopan, Jalisco
+Euro Gym	Gym and Studio	18021	20.641009	-103.408209	Conchita (Lopez Mateos), Zapopan, Jalisco
+Obsidiana Yoga Fitness	Yoga Studio	18028	20.642257	-103.403356	Avenida Obsidiana 3231 (Entre Lapizlazuli y Zafiro), 45060 Zapopan, Jalisco
+Curves	Gym and Studio	18021	20.639095	-103.402828	Avenida Obsidiana 3615, 45087 Zapopan, Jalisco
+Crowne Plaza Gym	Gym and Studio	18021	20.644998	-103.407295	Zapopan, Jalisco
+Guadalajara cross fitness outdoors	Gym and Studio	18021	20.644697	-103.406612	Avenida López Mateos Sur 4186, Zapopan, Jalisco
+Muscle City Club	Gym and Studio	18021	20.644983	-103.40626	Zapopan, Jalisco
+Guadalajara Cross Fitness	Gym and Studio	18021	20.643639	-103.405681	López Mateos Sur, Zapopan, Jalisco
+U Training	Gym and Studio	18021	20.646169	-103.40651	Zapopan, Jalisco
+Robert's roof Gym	Gym and Studio	18021	20.647581	-103.407168	45050 Zapopan, Jalisco
+Emotional Fitness	Gym and Studio	18021	20.645905	-103.404305	Avenida Lapizlázuli 3845 (Av.  López Mateos), 45088 Zapopan, Jalisco
+Yoga & Spa Kund-Ha	Yoga Studio	18028	20.649627	-103.409038	Zapopan, Jalisco
+Academia de Danzas Polinesias de Guadalajara	Dance Studio	18025	20.654185	-103.40865	Xochitl 211, Zapopan, Jalisco
+Anunaya Centro Holistico	Yoga Studio	18028	20.653822	-103.407649	Tezozomoc 228 (Cuauhtemoc), Zapopan, Jalisco
+Gimnasio	Gym and Studio	18021	20.650548	-103.404476	Presidente Intercontinental, Zapopan, Jalisco
+Milenium Sport Club	Gym and Studio	18021	20.65005	-103.4034	Lopez Mateos 3333, 45050 Zapopan, Jalisco
+Play Up	Dance Studio	18025	20.656374	-103.40459	45050 Zapopan, Jalisco
+Foro	Dance Studio	18025	20.652022	-103.403228	Chimalhuacan 3574, 45050 Zapopan, Jalisco
+Station 24 fitness	Gym and Studio	18021	20.664539	-103.410727	Avenida Guadalupe, 45040 Zapopan, Jalisco
+Raksha yoga	Yoga Studio	18028	20.666242	-103.405703	Zapopan, Jalisco
+CrossFit Santuario	Gym and Studio	18021	20.662422	-103.404852	Avenida Tepeyac 1030 (De La Rosas), 45040 Guadalajara, Jalisco
+Árbol del Yoga Chapalita	Yoga Studio	18028	20.665554	-103.405796	Avenida Guadalupe 1555-4, Guadalajara, Jalisco
+Sport Island	Gym and Studio	18021	20.661393	-103.407675	Zapopan, Jalisco
+Glow Dance & Art Complex	Dance Studio	18025	20.659309	-103.406197	Niño Obrero 608 (Tepeyac), 45400 Zapopan, Jalisco
+La Cumbre Chapalita	Gym and Studio	18021	20.66468	-103.409849	814 Calle Tulipán, 45040 Zapopan, Jalisco
+Korper Pilates	Pilates Studio	18027	20.664845	-103.409536	Zapopan, Jalisco
+Lodiné Academia de Danza	Dance Studio	18025	20.665314	-103.405083	Isla Tortuga (Reyes Católicos), Guadalajara, Jalisco
+CAAM Studio Chapalita	Gym and Studio	18021	20.665905	-103.405866	1558 Avenida Guadalupe, 45040 Zapopan, Jalisco
+Jazzercise Guadalupe	Gym and Studio	18021	20.665905	-103.405866	Avenida Guadalupe 1558, Zapopan, Jalisco
+Forza Fisioterapia	Gym and Studio	18021	20.667372	-103.40922	Zapopan, Jalisco
+Move Wellness Urban	Gym and Studio	18021	20.666008	-103.403176	Avenida Guadalupe 1119, 45040 Zapopan, Jalisco
+Smart Fit Gran Plaza	Gym and Studio	18021	20.672577	-103.404938	Avenido Ignacio L. Vallarta 3959, 45049 Guadalajara, Jalisco
+Snap Fitness 24/7 Lázaro Cárdenas	Gym and Studio	18021	20.669772	-103.404316	Calle Santa Beatriz 3726 (Lázaro Cárdenas), 45040 Zapopan, Jalisco
+Culture Body	Pilates Studio	18027	20.667296	-103.404043	San Ignacio 3688, 45040 Zapopan, Jalisco
+Acrodance Guadalajara	Dance Studio	18025	20.667566	-103.404341	Avenida San Ignacio 3720 (San Gilberto), Guadalajara, Jalisco
+Gudiño SAlazar Abraham Oswaldo	Gym and Studio	18021	20.669759	-103.405872	Sn Demetrio 3575 6, 45040 Guadalajara, Jalisco
+Natural Fit	Gym and Studio	18021	20.668783	-103.409339	San juan bodco 3836, Zapopan, Jalisco
+Apeks Performance Center	Gym and Studio	18021	20.670372	-103.405228	45040 Zapopan, Jalisco
+C-Yoga	Yoga Studio	18028	20.671974	-103.410127	Avenida Niño Obrero 392B (Av Lazaro Cardenas), 45040 Zapopan, Jalisco
+Dhakatha Yoga	Yoga Studio	18028	20.672939	-103.410027	Local 20 (Av. Lázaro Cárdenas), 45040 Zapopan, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.6698	-103.404003	45040 Zapopan, Jalisco
+Barre Evolución	Pilates Studio	18027	20.667595	-103.404345	45040 Zapopan, Jalisco
+Gimnasio Hotel Malibu	Gym and Studio	18021	20.674454	-103.405754	Zapopan, Jalisco
+Gimnasio	Gym and Studio	18021	20.675651	-103.409758	Hotel Camino Real, Zapopan, Jalisco
+Hunthöle Chapalita	Gym and Studio	18021	20.669729	-103.401664	45510 Zapopan, Jalisco
+Argo Gymnastics	Gym and Studio	18021	20.681108	-103.408374	Piscis 478 (Piscis), Zapopan, Jalisco
+Pole Studio	Dance Studio	18025	20.679408	-103.402192	Plaza Bonita, Guadalajara, Jalisco
+Punto Fitness	Gym and Studio	18021	20.678535	-103.404352	Zapopan, Jalisco
+Aqua Baby	Dive Spot	16013	20.680929	-103.408327	Manuel Acuna 3157 (Taraumaras), 44670 Zapopan, Jalisco
+Box Gym Promotora Soles	Gym and Studio	18021	20.680365	-103.406136	Guadalajara, Jalisco
+The Pilates Project	Yoga Studio	18028	20.679657	-103.402232	Guadalajara, 45120 (Av. Mexico 3370), Jalisco
+Prana Yoga	Yoga Studio	18028	20.678728	-103.402471	Guadalajara, Jalisco
+Prana yoga	Yoga Studio	18028	20.678823	-103.402315	Beethoven 331 (Casi esq clouthier), Zapopan, Jalisco
+PuntoFitness Entrenamiento Funcional Crossfit	Gym and Studio	18021	20.678238	-103.404576	Avenida Manuel J Clouthier 368B, Zapopan, Jalisco
+La Estacion Yoga	Yoga Studio	18028	20.692081	-103.407154	Avenida Pablo Neruda, Guadalajara, 45110, Guadalajara, Jalisco
+Gym Hacienda San Javier	Gym and Studio	18021	20.703916	-103.407055	Circuito Madrigal 2000, Zapopan, Jalisco
+Club Hacienda San Javier	Gym and Studio	18021	20.703582	-103.407356	Avenida Circuito Madrigal 2000, Zapopan, Jalisco
+Hacienda San Javier	Event Service	11038	20.701864	-103.406377	Circuito Madrigal 2000, 45110 Zapopan, Jalisco
+Sports World Puerta de Hierro	Gym and Studio	18021	20.71028	-103.410272	Avenida Real Acueducto 210, Zapopan, Jalisco
+Sport City Executive	Gym and Studio	18021	20.712248	-103.41047	Acueducto 4965-117 (Entrada Estacionamiento Andares por Acueducto), 45116 Zapopan, Jalisco
+Salon Wellness	Pilates Studio	18027	20.709929	-103.410252	45116 Zapopan, Jalisco
+Studio 100	Gym and Studio	18021	20.710497	-103.409927	Zapopan, Jalisco
+Radical Nutrition	Gym and Studio	18021	20.711927	-103.409849	Zapopan, Jalisco
+Eurochain sport internacional	Construction	11028	20.711879	-103.410114	Avenida Real acueducto 360A (Acueducto), 45116 Zapopan, Jalisco
+Club Atlas Colomos	Gym and Studio	18021	20.713482	-103.402759	Paseo Atlas Colomos 2000 (Paseo Lomas del Bosque), 45110 Zapopan, Jalisco
+Gimnasio	Gym and Studio	18021	20.713832	-103.402575	Club Atlas (Av Patria), Zapopan, Jalisco
+Zotogrande Gym	Gym and Studio	18021	20.715251	-103.408936	Zapopan, Jalisco
+F.S.I.T gym	Gym and Studio	18021	20.727831	-103.408564	Zapopan, Jalisco
+Ok gym	Gym and Studio	18021	20.727981	-103.409033	Zapopan, Jalisco
+Iron Power GYM	Gym and Studio	18021	20.736355	-103.40859	Arco de Julio César, 45130 Zapopan, Jalisco
+Ibeth's Dance Studio	Gym and Studio	18021	20.737171	-103.408703	Arco Gótico (Arco De Otón), Zapopan, Jalisco
+Bii Fitness	Gym and Studio	18021	20.73764	-103.406794	45130 Zapopan, Jalisco
+Ilyeo San Jose	Gym and Studio	18021	20.730774	-103.403374	Zapopan, Jalisco
+Shanti Centro de Yoga y Balance Energetico	Gym and Studio	18021	20.73989	-103.408109	Arco Románico 930-2 (Arco del Triunfo), 45130 Zapopan, Jalisco
+Yogarte	Yoga Studio	18028	20.739759	-103.40814	Calle Arco Romarico (Arco Del Triunfo), 45130 Zapopan, Jalisco
+Force Cross Fitness Gym	Gym and Studio	18021	20.746236	-103.401319	Avenida de la Mancha 703, 44600 Zapopan, Jalisco
+Woman's GYM	Gym and Studio	18021	20.744947	-103.403976	Zapopan, Jalisco
+Hadcore Olimpia GYM	Gym and Studio	18021	20.744737	-103.403543	Covadonga (Arco del Triunfo), Zapopan, Jalisco
+Starke Team	Gym and Studio	18021	20.740266	-103.403728	Arco Pertinax 823-3, Zapopan, Jalisco
+Covadonga	Liquor Store	17076	20.744534	-103.402785	Zapopan, Jalisco
+Up2 Dance	Dance Studio	18025	20.746694	-103.403478	45130 Zapopan, Jalisco
+Yara Core Rodriguez Balbuena	Dance Studio	18025	20.746725	-103.401724	Avenida de la Mancha 766, Guadalajara, Jalisco
+Life Gym	Gym and Studio	18021	20.751619	-103.400719	Valdepeñas (Federalistas), Zapopan, Jalisco
+CAO gym	Gym and Studio	18021	20.75281	-103.407866	
+Ácrossfit	Gym and Studio	18021	20.75039	-103.401794	Paseo Torremolinos 144 (Av Torremolinos), 45130 Zapopan, Jalisco
+Altavista Residencial	Housing Development	12079	20.761945	-103.400989	Prolongación Avenida Valdepeñas s/n (Av. De Las Flores), 45130 Zapopan, Jalisco
+M3 Studio	Gym and Studio	18021	20.759851	-103.400441	45130 Zapopan, Jalisco
+Speed Beat	Cycle Studio	18024	20.759773	-103.400394	Avenida Valdepeñas 9018A, 45130 Zapopan, Jalisco
+Club de natación Anfibios	Education	12009	20.618172	-103.400632	Vista a La Campiña, 45608 Guadalajara, Jalisco
+Smart Fit	Gym and Studio	18021	20.611822	-103.39573	45606 Tlaquepaque, Jalisco
+Johnny's Gym	Boxing Gym	18022	20.616459	-103.399925	Tlaquepaque, Jalisco
+Hakuna Fitness	Gym and Studio	18021	20.618291	-103.400277	Vista a La Campiña 563A, 45081 Tlaquepaque, Jalisco
+BeMotion	Yoga Studio	18028	20.619099	-103.399115	Tlaquepaque, Jalisco
+Xfit Fitness Boxes	Boxing Gym	18022	20.620194	-103.397516	Tlaquepaque, Jalisco
+No Excuses	Gym and Studio	18021	20.620195	-103.397375	Calle Farallón, Tlaquepaque, Jalisco
+Smart Fit Loma sur	Gym and Studio	18021	20.612009	-103.395731	Avenida Colón 4965 (Paseo De Los Balcones), 45606 Tlaquepaque, Jalisco
+Multideportivo	Gym and Studio	18021	20.617541	-103.393375	Tlaquepaque, Jalisco
+Marron´s Gym	Gym and Studio	18021	20.620761	-103.393768	Isla Zanzibar, Guadalajara, Jalisco
+FitPrime	Gym and Studio	18021	20.62386	-103.395662	Avenida Torres Bodet 3195, 45608 Guadalajara, Jalisco
+Enjoy Gimnasio	Gym and Studio	18021	20.62378	-103.395836	Avenida Jaime Torres Bodet 3195 (Av Isla Gomera), 45608 Guadalajara, Jalisco
+Snap Fitness 24/7 Topacio	Gym and Studio	18021	20.637267	-103.396791	Topacio 3541 (Cruz Del Sur), Guadalajara, Jalisco
+COLISEO CrossFit	Gym and Studio	18021	20.634003	-103.399706	Avenida Conchitas, Guadalajara, Jalisco
+Academia de Baile Maru & Hansel	Dance Studio	18025	20.638842	-103.401882	Arenque 2850, 45086 Zapopan, Jalisco
+Live Gym.	Gym and Studio	18021	20.633725	-103.399734	Avenida Conchitas (Cruz del sur), Guadalajara, Jalisco
+Uribe Arias Cynthia del Rosario	Gym and Studio	18021	20.63336	-103.39828	Avenida Conchita 4629 22, Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.637005	-103.396792	44580 Guadalajara, Jalisco
+Dance Dance Studio	Arts and Entertainment	10000	20.635634	-103.393974	Isla Raza 2566, 44950 Guadalajara, Jalisco
+Spinning	Gym and Studio	18021	20.637112	-103.393632	Isla gomera 4422, Zapopan, Jalisco
+Balance Fitness Health	Cycle Studio	18024	20.634123	-103.391792	
+Health & Fitness Center	Gym and Studio	18021	20.634123	-103.391792	44534 , Jalisco
+Salsa y Placer	Dance Studio	18025	20.633026	-103.391983	
+Punto Saludable	Gym and Studio	18021	20.64689	-103.400045	Avenida Obsidiana 2823 (Onix), Zapopan, Jalisco
+Total Gym	Gym and Studio	18021	20.644718	-103.398771	77500 , Quintana Roo
+Pilates Reformer	Gym and Studio	18021	20.644849	-103.399886	Www. pilateskorper. com, Zapopan, Jalisco
+Sport Town Gdl	Gym and Studio	18021	20.641708	-103.392851	Lapizlázuli 2626 (Península & Litoral), 44530 Guadalajara, Jalisco
+Aruma	Dance Studio	18025	20.642366	-103.394917	Topacio 2995, Zapopan, Jalisco
+Andalón Studio	Dance Studio	18025	20.642463	-103.394785	Topacio 2995 (Lapizlazuli), 45089 Guadalajara, Jalisco
+Strong Body	Gym and Studio	18021	20.642239	-103.394639	
+Nutri-fitness	Gym and Studio	18021	20.64621	-103.40115	Conchitas 2871 (Obsidiana), 44531 Zapopan, Jalisco
+Almanza Padilla Roman Israel	Gym and Studio	18021	20.641927	-103.392959	Avenida Lapizlazuli 2626, Guadalajara, Jalisco
+Federacion Mexicana Soo Bahk Do Moo Duk Kwan	Yoga Studio	18028	20.648413	-103.400672	Turquesa 2871, 44560 Guadalajara, Jalisco
+Soo Bahk Do México	Education	12009	20.648431	-103.400714	Turquesa 2871, Zapopan, Jalisco
+Sport Town Fitness Center	Gym and Studio	18021	20.642115	-103.392682	
+Ritmo & Son	Country Dance Club	10012	20.641967	-103.392477	Lapislázuli, Guadalajara, Jalisco
+Starfit	Gym and Studio	18021	20.642004	-103.39237	Guadalajara, Jalisco
+Startfit	Gym and Studio	18021	20.641973	-103.39208	44540 Guadalajara, Jalisco
+Montaño Garcia Marta Guadalupe	Gym and Studio	18021	20.646237	-103.394669	Avenida Topacio 2363, Guadalajara, Jalisco
+Energy Salsa	Education	12009	20.657873	-103.401092	Zapopan, Jalisco
+Dance Spot	Dance Studio	18025	20.65736	-103.397839	Plaza del angel local 12, 44510 Guadalajara, Jalisco
+Slim Body Aerobics	Gym and Studio	18021	20.648107	-103.393122	Avenida Diamante (Av. Topacio), Guadalajara, Jalisco
+24hrs Fitness	Gym and Studio	18021	20.652219	-103.398803	López Mateos, Zapopan, Jalisco
+GYM Fiesta Inn	Gym and Studio	18021	20.652498	-103.397091	45050 Zapopan, Jalisco
+HI Express Gym	Gym and Studio	18021	20.650066	-103.399471	Avenida Mariano Otero, Zapopan, Jalisco
+Fitness Center Holiday Inn Express	Gym and Studio	18021	20.64998	-103.399215	Zapopan, Jalisco
+Garcia Andalon Veronica Ivette	Dance Studio	18025	20.652242	-103.393553	Topacio 2495, 44950 Guadalajara, Jalisco
+Akhilanda Yoga	Yoga Studio	18028	20.657045	-103.394436	Barlovento 2722-3 (Av. Topacio), Guadalajara, Jalisco
+Gym Club los Pinos	Gym and Studio	18021	20.656076	-103.393302	
+Boxing CLUB RZ	Boxing Gym	18022	20.647978	-103.393245	Avenida Diamante 2716, 44540 Guadalajara, Jalisco
+Trepa	Gym and Studio	18021	20.657356	-103.396932	Calle 12 de Diciembre 3050, 44510 Guadalajara, Jalisco
+BRONSON Crossfit	Gym and Studio	18021	20.666549	-103.399647	Guadalupe 742, 44500 Guadalajara, Jalisco
+Centro Holístico Buddhitanz	Massage Clinic	11070	20.662906	-103.396251	Antonio Valeriano 3294 (Lopez Mateos), 45040 Guadalajara, Jalisco
+Riu Gym	Gym and Studio	18021	20.665526	-103.393593	Guadalajara, Jalisco
+Fitness & Health Guadalajara	Gym and Studio	18021	20.661172	-103.399838	Calle Ermita 1406B, 45046 Zapopan, Jalisco
+Irish Dancing de México Chapalita	Dance Studio	18025	20.662866	-103.39619	
+Backyard Gym	Gym and Studio	18021	20.664662	-103.398963	Guadalajara, Jalisco
+Très Fit	Pilates Studio	18027	20.664734	-103.397946	Avenida Paseo de la Luna 858 (Camino Real A Zapopan), 45019 Zapopan, Jalisco
+Fitmix Chapalita	Gym and Studio	18021	20.664851	-103.397938	45040 Guadalajara, Jalisco
+Gym	Gym and Studio	18021	20.664231	-103.394888	Avenida Lopez Mateos, Guadalajara, Jalisco
+Alberca victoria express	Gym and Studio	18021	20.664479	-103.394928	Avenida Lopez Mateos, Guadalajara, Jalisco
+Scila Training Club - Chapalita	Gym and Studio	18021	20.666522	-103.399701	Avenida Guadalupe 742, 45040 Guadalajara, Jalisco
+Krystal Ladies Gym	Gym and Studio	18021	20.667175	-103.400538	Clouthier casi esq. Guadalupe, Zapopan, Jalisco
+New Force Chaplita	Gym and Studio	18021	20.667583	-103.39773	Guadalajara, Jalisco
+Gimnasio	Gym and Studio	18021	20.665643	-103.393448	Hotel Riu, Guadalajara, Jalisco
+Instituto de Danza y Arte	Dance Studio	18025	20.65782	-103.392351	Avenida Tonantzin (Av Tonantzin), Guadalajara, Jalisco
+Pg.Dc	Dance Studio	18025	20.666792	-103.394504	
+Be Wellness	Gym and Studio	18021	20.674649	-103.393337	44690 Guadalajara, Jalisco
+Smart Fit	Gym and Studio	18021	20.674733	-103.399028	Avenida Vallarta 3298 (entre César y Juan Palomar), 44110 Guadalajara, Jalisco
+Tudanzza Exhimoda	Dance Studio	18025	20.67328	-103.394572	Plaza Exhimoda, Guadalajara, Jalisco
+Mara's Pilates Center	Gym and Studio	18021	20.672519	-103.393416	San Juan de los lagos 235, Guadalajara, Jalisco
+Training Day Sistem	Gym and Studio	18021	20.667098	-103.393849	Escultores, Zapopan, Jalisco
+Body taktik	Hair Salon	11064	20.66628	-103.393389	Guadalajara, Jalisco
+Gimnasio Omnilife	Gym and Studio	18021	20.670941	-103.391694	
+Jazzercise	Gym and Studio	18021	20.681711	-103.395678	Herrera y Cairo 2839, 44600 Guadalajara, Jalisco
+Snap Fitness 24/7	Gym and Studio	18021	20.685245	-103.395197	Manuel Acuña 3184 (Aztecas), 44670 Guadalajara, Jalisco
+Pole Zone	Dance Studio	18025	20.681375	-103.393659	Juan palomar y arias 381, Guadalajara, Jalisco
+Mexican Institute Of Irish Dance	Dance Studio	18025	20.67947	-103.398687	44670 Guadalajara, Jalisco
+Sport Kines	Child Care Service	11025	20.678744	-103.39837	Avenida Kiki Murillo 103, Culiacán, Sinaloa
+Escénico	Dance Studio	18025	20.680077	-103.398943	45120 Guadalajara, Jalisco
+Grupo Coras	Yoga Studio	18028	20.680376	-103.396912	Aztecas 307 (Coras), Guadalajara, Jalisco
+REDstudio	Dance Studio	18025	20.68178	-103.395671	Toltecas 3385 (Golfo De Cortes), 44630 Guadalajara, Jalisco
+Central Park Residence	Gym and Studio	18021	20.677226	-103.400789	Diagonal San Jorge 100 (Inglaterra Y Avenida México), Jalisco
+La Ballena escuela de natación	Gym and Studio	18021	20.681232	-103.393471	
+Vía Danza / Crisol	Dance Studio	18025	20.679171	-103.392496	Guadalajara, Jalisco
+Snap Fitness Providencia	Gym and Studio	18021	20.68453	-103.395778	Avenida Manuel Acuña 3184 (Aztecas), 44670 Guadalajara, Jalisco
+Vida Yoga	Yoga Studio	18028	20.683971	-103.39461	Tarahuramas 485, Guadalajara, Jalisco
+Noise	Cycle Studio	18024	20.680179	-103.391964	Avenida Mexico 3040L (Reforma), 44680 Guadalajara, Jalisco
+Station 24 Fitness Providencia	Gym and Studio	18021	20.685016	-103.395426	Manuel Acuña, 44670 Guadalajara, Jalisco
+Golds gym Select	Gym and Studio	18021	20.678041	-103.391479	Guadalajara, Jalisco
+Anytime Fitness Providencia	Gym and Studio	18021	20.688031	-103.395827	Avenida Eulogio Parra 3200 (Eulogio Parra), 44670 Guadalajara, Jalisco
+Zayi Estudio de Danza	Dance Studio	18025	20.687371	-103.391227	Eulogio Parra (Goya), 44630 Zapopan, Jalisco
+Prana center	Yoga Studio	18028	20.687922	-103.391949	Eulogio Parra 3050, Guadalajara, Jalisco
+Anytime Fitness	Gym and Studio	18021	20.688031	-103.395827	Calle General Eulogio Parra 3200, 44670 Guadalajara, Jalisco
+Yogalioumar	Yoga Studio	18028	20.695414	-103.39613	Pablo Neruda (Gral. Nuñez), Jalisco
+Pulso Yoga	Yoga Studio	18028	20.694761	-103.400537	Pablo Neruda 3980, Zapopan, Jalisco
+Gimnasio Privado San Javier	Bar	13003	20.704406	-103.398087	Paseo de las Peñas 3500, 44660 Guadalajara, Jalisco
+Gimnasio al Aire Libre	Gym and Studio	18021	20.710388	-103.394122	Bosque los Colomos II (Av. Patria S/N e/ Av. Acueducto & Alberta), 44660 Guadalajara, Jalisco
+Anytime Fitness	Gym and Studio	18021	20.720584	-103.395236	Zapopan centro, Zapopan, Jalisco
+Extreme Sport Center	Gym and Studio	18021	20.72059	-103.393756	Avenida Gomez Farias 231, 45169 Zapopan, Jalisco
+Power Zone Crossfit & Functional	Gym and Studio	18021	20.713496	-103.395693	Manuel Ávila Camacho 660 (Avenida Patria Y Fermín Riestra), Zapopan, Jalisco
+CAPP Pilates	Gym and Studio	18021	20.713388	-103.395691	Zapopan, Jalisco
+Gym	Gym and Studio	18021	20.720963	-103.39576	Calle Gómez Farias 428, 45100 Zapopan, Jalisco
+Yakisoba Yoga	Yoga Studio	18028	20.721905	-103.398227	Buganbilias (Cerrada Flora), Zapopan, Jalisco
+Danse Ville - Academia de Baile	Dance Studio	18025	20.725722	-103.396487	Cristóbal Colón 661 (Cuitlahuac y Emilio Carranza), 45100 Zapopan, Jalisco
+Evolution Fit	Gym and Studio	18021	20.722608	-103.397833	Avenida Hidalgo 687, Zapopan, Jalisco
+Colorfit	Gym and Studio	18021	20.723077	-103.394157	Zapopan, Jalisco
+Nitro Cfit	Gym and Studio	18021	20.738659	-103.400387	Fernando Aranguren 840, 45130 Zapopan, Jalisco
+Club Gimnasio	Gym and Studio	18021	20.732549	-103.394706	Blvrd de los charros, Zapopan, Jalisco
+academia de gimnasia Brenda Magaña	Gym and Studio	18021	20.736322	-103.4001	Avenida Laureles 924 (Fernando Aranguren), Zapopan, Jalisco
+Go Fighters Belenes	Gym and Studio	18021	20.738261	-103.401009	Zapopan, Jalisco
+"Xfit Belenes ""Fitness Boxes"""	Gym and Studio	18021	20.738386	-103.401321	Periferico (laureles), Zapopan, Jalisco
+Fashion Gym	Gym and Studio	18021	20.742717	-103.39136	Avenida Industria Textil 2176 (Av. De La Mancha), 45130 Zapopan, Jalisco
+Academia Xopóc	Dance Studio	18025	20.744592	-103.394545	Zapopan, Jalisco
+Crossfit rage	Gym and Studio	18021	20.74488	-103.394646	Zapopan, Jalisco
+Fly Gimnasia	Gym and Studio	18021	20.746863	-103.399571	Zapopan, Jalisco
+Hunthöle Crosstraining	Gym and Studio	18021	20.742563	-103.39037	Industria Mecanica 2168 (Av. Industria Vidriera), 45130 Zapopan, Jalisco
+Chuche's Gym	Gym and Studio	18021	20.75371	-103.393768	Zapopan, Jalisco
+Station Fitness 24	Gym and Studio	18021	20.755272	-103.399918	45130 Zapopan, Jalisco
+Sinergia Studio	Dance Studio	18025	20.751954	-103.390949	45130 Zapopan, Jalisco
+K&S Studio	Dance Studio	18025	20.75725	-103.40053	45130 Zapopan, Jalisco
+Viltal Me Fitness & Beauty Studio	Gym and Studio	18021	20.757438	-103.399881	Valdepeñas 8762, 45066 Zapopan, Jalisco
+Kids Gym	Gym and Studio	18021	20.760073	-103.39913	Zapopan, Jalisco
+Bearbox	Gym and Studio	18021	20.757814	-103.400436	Avenida Valdepeñas 8819, 45130 Zapopan, Jalisco
+Acondicionamiento Físico	Gym and Studio	18021	20.764155	-103.394223	Avenida Atardecer (Río Blanco), Zapopan, Jalisco
+El Diente	Dining and Drinking	13000	20.791028	-103.396216	Avenida Río Blanco s/n, 45200 Zapopan, Jalisco
+Body Action	Gym and Studio	18021	20.60891	-103.395788	Plaza Fatima (camino real a colima y sta maria), 45530 Tlaquepaque, Jalisco
+Lyon's GYM	Gym and Studio	18021	20.617818	-103.385252	
+Mundo Fitness	Gym and Studio	18021	20.627203	-103.38927	44987 Guadalajara, Jalisco
+Gimnasio Mujer Virtuosa	Gym and Studio	18021	20.627573	-103.387132	Isla Antigua 3000 (Isla antigua), Guadalajara, Jalisco
+KLS Dance Fitness Center	Gym and Studio	18021	20.633877	-103.38739	Isla Raza 2274 (Isla Antigua), Guadalajara, Jalisco
+Centro Kundalini Yoga Maha Akal	Yoga Studio	18028	20.635482	-103.387547	
+Boxfitgym	Boxing Gym	18022	20.631556	-103.386995	Jalisco
+Estilizate	Gym and Studio	18021	20.637367	-103.390732	Isla Salinas (Gomera)
+Cassandra's Ballet	Dance Studio	18025	20.635526	-103.384749	44950 Guadalajara, Jalisco
+Ke Latino Studio	Gym and Studio	18021	20.635548	-103.384849	Isla Tazmania 2165C (Isla Milos), 44950 Guadalajara, Jalisco
+La sanduguera	Education	12009	20.638145	-103.391045	Jalisco
+Legion MMA	Gym and Studio	18021	20.635014	-103.382258	Jalisco
+Smart Fit Plaza Arboledas	Gym and Studio	18021	20.646352	-103.385847	44540 Guadalajara, Jalisco
+Sporty Gym	Gym and Studio	18021	20.642608	-103.382073	
+Jab Fit	Boxing Gym	18022	20.64489	-103.382076	Francisco Vazquez Coronado 2191 (Cruz Del Sur), 44950 Guadalajara, Jalisco
+Westin Workout Fitness Studio	Gym and Studio	18021	20.653195	-103.389377	The Westin (3er Piso), Zapopan, Jalisco
+Aquateck	Gym and Studio	18021	20.656495	-103.38788	Mariano Otero, Guadalajara, Jalisco
+Help Gym	Gym and Studio	18021	20.650758	-103.386652	
+army Gym	Gym and Studio	18021	20.655794	-103.3886	
+Real Inn Gimnasio	Gym and Studio	18021	20.65568	-103.39116	
+Gimnasio	Gym and Studio	18021	20.653096	-103.389452	Avenida de las Rosas 2933, Guadalajara, Jalisco
+Real Inn Gimnasio	Gym and Studio	18021	20.655611	-103.391592	
+Heavy Teck Fitness Club	Pilates Studio	18027	20.656862	-103.387522	Avenida Mariano Otero 1151A, 45000 Guadalajara, Jalisco
+The Life Gym	Gym and Studio	18021	20.657203	-103.388266	
+Heavy Equipment Technology	Gym and Studio	18021	20.657001	-103.387509	Avenida Mariano Otero 1151, 44520 Guadalajara, Jalisco
+Kristal Century Fitness	Gym and Studio	18021	20.666258	-103.387171	Niños Heroes 2851 (Paseo de la Arboleda), 44520 Guadalajara, Jalisco
+Kfit Gym	Gym and Studio	18021	20.666178	-103.387049	Avenida Niños Héroes 2851, Guadalajara, Jalisco
+Crea Hoy Centro Holistico	Mental Health Service	15018	20.661931	-103.386111	Paseo de la Arboleda 960, 44810 Guadalajara, Jalisco
+Eleva Pulso	Gym and Studio	18021	20.659528	-103.385538	Avenida Paseo de la Arboleda 1043 (Lazaro Cardenas), 44520 Guadalajara, Jalisco
+Punto Aparte	Dance Studio	18025	20.663742	-103.384132	Avenida Arcos 859, Guadalajara, Jalisco
+Move Wellness Express	Gym and Studio	18021	20.666342	-103.38705	Niños Heroes, 44520 Guadalajara, Jalisco
+GabyFit	Gym and Studio	18021	20.667303	-103.388725	Firmamento 598, Guadalajara, Jalisco
+Eme Fit Studio	Gym and Studio	18021	20.66594	-103.3843	Avenida de los Arcos (Esquina con La Luna), 44520 Guadalajara, Jalisco
+Dorrie Bonisch System & Spa	Spa	11073	20.659438	-103.382213	Avenida Mariano Otero 3607, Guadalajara, Jalisco
+Cencalli Natacion	Gym and Studio	18021	20.666719	-103.39192	Calzada Independencia 2481 (San Efren), 44240 Guadalajara, Jalisco
+Heavy Teck Gym	Gym and Studio	18021	20.666719	-103.39192	Avenida Mariano Otero 1151A, 44990 Guadalajara, Jalisco
+Sport City Guadalajara	Gym and Studio	18021	20.673488	-103.38859	Aurelio Aceves 225 (e/López Mateos y Vallarta), 44110 Guadalajara, Jalisco
+Suplementos Gym	Gym and Studio	18021	20.666842	-103.382772	Niños Héroes 2608, Guadalajara, Jalisco
+Danz/Corp	Dance Studio	18025	20.666617	-103.383442	Avenida Niños Héroes 2641 (Av. Arcos), 44520 Guadalajara, Jalisco
+Rowingym Arcos	Gym and Studio	18021	20.667905	-103.38461	Avenida Arcos 609 (Constelación), 44520 Guadalajara, Jalisco
+Dance Plus MX	Dance Studio	18025	20.668105	-103.390875	Guadalajara, Jalisco
+Museia - Dance & Arts Fashion	Clothing Store	17043	20.671935	-103.385893	Jalisco
+Gym	Gym and Studio	18021	20.673838	-103.389009	Fiesta Americana (Aurelio Aceves 225), Guadalajara, Jalisco
+Omaet Yoga	Yoga Studio	18028	20.673649	-103.386235	Guadalajara, Jalisco
+Kôr Pilates Reformer	Pilates Studio	18027	20.674307	-103.389803	San Juan de los Lagos 2, 44110 Guadalajara, Jalisco
+Instituto de Desarrollo Humano	Organization	12082	20.672804	-103.384964	Avenida Arcos 130 (Av. La Paz), 44650 Guadalajara, Jalisco
+Fitness Center Hotel Fiesta Americana	Gym and Studio	18021	20.675616	-103.388884	Guadalajara, Jalisco
+Practica Yoga	Yoga Studio	18028	20.666547	-103.383394	Avenida Niños Heroes 2639 (Av. Arcos), 44520 Guadalajara, Jalisco
+Capoeira Cordao de Ouro Guadalajara	Gym and Studio	18021	20.666636	-103.383246	Avenida Niños Heroes 2641, 44520 Guadalajara, Jalisco
+Sport Dance	Gym and Studio	18021	20.680904	-103.385455	Rubén Darío 243, 44630 Guadalajara, Jalisco
+Be Stronger Fitness Center	Gym and Studio	18021	20.677969	-103.38471	Mariano Azuela 124 (Av. López Mateos), Guadalajara, Jalisco
+Planeta 94.7 FM	Radio Station	11144	20.676479	-103.382785	Guadalajara, Jalisco
+Square Gym	Gym and Studio	18021	20.679436	-103.39028	44670 Guadalajara, Jalisco
+Puerto Ritmo	Dance Studio	18025	20.676959	-103.39116	Guadalajara, Jalisco
+Pulse Fitness Center	Gym and Studio	18021	20.677923	-103.38467	Avenida Lopez Mateos Norte (Verona), Providencia, Jalisco
+Cali2thenics	Outdoor Gym	18026	20.682543	-103.385457	Joaquín Angulo 2709A (Rubén Darío), 44680 Guadalajara, Jalisco
+Box Haus	Boxing Gym	18022	20.683832	-103.388242	Herrera y cairo 2837, 44600 Guadalajara, Jalisco
+New Steps Ac	Cultural Center	12005	20.684194	-103.389663	Nelson 525 6, 44690 Guadalajara, Jalisco
+Newsteps	Dance Studio	18025	20.684255	-103.389981	Nelson 525 (Av. Terranova), 44689 Guadalajara, Jalisco
+Box	Boxing Gym	18022	20.684744	-103.390386	Manuel Acuña 2952 (Napoleón), 44670 Guadalajara, Jalisco
+Pilates Korper	Pilates Studio	18027	20.684046	-103.38522	Avenida Rubén Darío 458, 44680 Guadalajara, Jalisco
+20Fit4U	Gym and Studio	18021	20.684385	-103.38551	Rubén Darío 537-1 (entre Herrera y Caíro y Manuel Acuña), 44680 Providencia, Jalisco
+20Fit4U	Gym and Studio	18021	20.684465	-103.385363	Rubén Darío 537-1 (entre Herrera y Caíro y Manuel Acuña), 44680 , Jalisco
+Studio Reformer Pilates	Yoga Studio	18028	20.684761	-103.385234	Guadalajara, Jalisco
+Irish Dancing de México Guadalajara	Education	12009	20.683787	-103.383872	Ignacio Herrera y Cairo 2636, 44680 Guadalajara, Jalisco
+Contreras Maciel Angelica	Dance Studio	18025	20.684333	-103.389649	Nelson 525, 44689 Guadalajara, Jalisco
+FitMix25	Gym and Studio	18021	20.686548	-103.385476	Ruben Dario 643 (Plaza murano), 44630 Guadalajara, Jalisco
+Icon Pilates	Yoga Studio	18028	20.688665	-103.385654	Calle José Enrique Rodo 2777 (Ruben Dario), 44670 Guadalajara, Jalisco
+Fit sport	Yoga Studio	18028	20.687721	-103.38951	
+Curves	Gym and Studio	18021	20.687766	-103.386651	Avenida Terranova 628 (José María Vigil), 44670 Guadalajara, Jalisco
+The Barre Squad	Gym and Studio	18021	20.687612	-103.390563	Eulogio Parra 3003 (Pablo Casals), 44670 Guadalajara, Jalisco
+Tap Dance Studio	Dance Studio	18025	20.686236	-103.386803	Avenida Terranova 604, 44670 Guadalajara, Jalisco
+SETSTUDIO sistema de entrenamiento total	Gym and Studio	18021	20.68729	-103.390859	
+SETSTUDIO sistema de entrenamiento total	Gym and Studio	18021	20.687214	-103.390949	Prados Providencia, Zapopan, Jalisco
+Seres	Yoga Studio	18028	20.686205	-103.386418	Ricardo Palma 2821 (Av Terranova), 44670 Guadalajara, Jalisco
+Vivo47	Gym and Studio	18021	20.691014	-103.386522	
+Fit Studio FSC Providencia	Gym and Studio	18021	20.686948	-103.385188	662 Calle Rubén Darío, 44760 Guadalajara, Jalisco
+Fit Studio CrossFit Providencia	Gym and Studio	18021	20.686803	-103.384989	662 - 6 Calle Rubén Darío, 44670 Guadalajara, Jalisco
+Gimnasio en Moba	Gym and Studio	18021	20.691852	-103.390019	
+Power Plate	Gym and Studio	18021	20.69051	-103.385082	
+Plug & Fit	Gym and Studio	18021	20.695569	-103.383542	Ruben Dario 1251 (Milan), 44639 Guadalajara, Jalisco
+Ballet de Cámara de Jalisco	Dance Studio	18025	20.697944	-103.385574	Pablo Neruda 2919B, Guadalajara, Jalisco
+Refuse Providencia	Gym and Studio	18021	20.697179	-103.388388	Buenos aires 3060 (Pablo Neruda), Guadalajara, Jalisco
+Hit 8	Gym and Studio	18021	20.69776	-103.388995	Avenida Montevideo 3126, Guadalajara, Jalisco
+NBD Dance Studio	Dance Studio	18025	20.698238	-103.38872	Montevideo 3078, Guadalajara, Jalisco
+Gyma Kidz	Gym and Studio	18021	20.696016	-103.389395	Montevideo, Zapopan, Jalisco
+Sersana	Gym and Studio	18021	20.699866	-103.387576	Montevideo, 44639 Guadalajara, Jalisco
+Iron Mates training	Gym and Studio	18021	20.694175	-103.384912	
+Novafit - Electro Stimulation Club	Gym and Studio	18021	20.696667	-103.38322	Avenida Rubén Dario 1345 (Buenos Aires), 44639 Guadalajara, Jalisco
+Flow Yoga Studio	Yoga Studio	18028	20.695569	-103.383542	
+The Bax Station	Boxing Gym	18022	20.698311	-103.383113	
+Black Box	Boxing Gym	18022	20.700103	-103.383646	Avenida Providencia 2772B (Yukón), 44630 Guadalajara, Jalisco
+Chela's	Gym and Studio	18021	20.700068	-103.383808	Avenida Providencia (Ruben Dario), Zapopan, Jalisco
+Cosmo Yoga	Yoga Studio	18028	20.694052	-103.382137	Florencia 2709, 44630 Guadalajara, Jalisco
+GYM Colomos	Gym and Studio	18021	20.693784	-103.382294	Calle colomos, Guadalajara, Jalisco
+Acua Gym	Yoga Studio	18028	20.711668	-103.384143	Circuito Medas 488 (e/ Av. Patria & Romanos), 45160 Zapopan, Jalisco
+Torres Elements-Personal Gym	Gym and Studio	18021	20.704328	-103.387719	El Chaco 3136 (Montevideo Y Alberta), Jalisco
+Motion Boulder	Rock Climbing Spot	16044	20.718663	-103.385757	Javier Mina 84, Zapopan, Jalisco
+AREA 57 CrossFit	Gym and Studio	18021	20.712611	-103.381975	Avenida Americas 2157, 45160 Zapopan, Jalisco
+Rulax's Gym	Gym and Studio	18021	20.715084	-103.389442	Zapopan, Jalisco
+Spot Dance	Dance Studio	18025	20.712727	-103.383217	Hacienda Santa Lucia 163 (Américas), Zapopan, Jalisco
+NBD Dance Studio	Dance Studio	18025	20.716231	-103.381763	45160 Zapopan, Jalisco
+Bora Bora	Education	12009	20.712116	-103.382348	Zapopan, Jalisco
+36Fivefitness	Gym and Studio	18021	20.711284	-103.382885	Avenida Patria 1814A, 45110 Zapopan, Jalisco
+Estadio Panamericano	Stadium	10051	20.727356	-103.381869	Calle Santa Lucía 373 (Blvd. Panamericano), 45150 Zapopan, Jalisco
+Centro Acuático Zapopan	Gym and Studio	18021	20.728515	-103.383179	Blvd. Panamericano, 45195 Zapopan, Jalisco
+Providencia F.C. A.C.	Gym and Studio	18021	20.723555	-103.384645	Avenida Mariano Otero 4055, 45070 Zapopan, Jalisco
+Mondo Forza GYM	Gym and Studio	18021	20.723555	-103.384645	5741 Avenida Moctezuma, Zapopan, 45059, 45059 Zapopan, Jalisco
+Life & Fitness Mexico	Gym and Studio	18021	20.723555	-103.384645	45030 , Jalisco
+Gym Versalles	Gym and Studio	18021	20.732176	-103.389751	Prolongación Pino Suarez 1670, 45100 Zapopan, Jalisco
+Bijoux	Gym and Studio	18021	20.734872	-103.384621	Mediero 561 101F, Zapopan, Jalisco
+Proyecto Fit	Gym and Studio	18021	20.730813	-103.385388	Prolongacion Laureles 933 (Parres Arias), 45140 Zapopan, Jalisco
+Chivas Laureles	Education	12009	20.731879	-103.382326	Zapopan, Jalisco
+Actitud Crossfit	Gym and Studio	18021	20.745776	-103.391056	Periferico Norte 221 (Industria Vidriera), Zapopan, Jalisco
+Red Fit Gym	Gym and Studio	18021	20.745941	-103.388382	Industria Aceitera 2386 (Industria del Agave), 45130 , Jalisco
+Skillgymnastic Academy	Gym and Studio	18021	20.746123	-103.385057	Cll La Grana 91, 45180 Zapopan, Jalisco
+Life Gym	Gym and Studio	18021	20.747208	-103.385468	Zapopan, Jalisco
+Fly Zone	Gym and Studio	18021	20.744508	-103.389954	Industria del Agave 118, Zapopan, Jalisco
+Cross360	Gym and Studio	18021	20.740746	-103.384879	Periférico Norte, 221, 45188 Zapopan, Jalisco
+Full Training	Gym and Studio	18021	20.74608	-103.385684	Avenida Boulevard Bosques de San Isidro 576, 45180 Zapopan, Jalisco
+Unlimited Dance Studio San Isidro	Dance Studio	18025	20.745932	-103.385273	Avenida Camino a San Isidro 586 (La Grana), 45157 Zapopan, Jalisco
+Anytime Fitness San Isidro	Gym and Studio	18021	20.754586	-103.384409	Avenida Camino a Bosque de San Isidro 1475 (Rio Blanco), 45187 Zapopan, Jalisco
+Anytimefitness	Gym and Studio	18021	20.750743	-103.388811	Zapopan, Jalisco
+Crosstraining DG	Gym and Studio	18021	20.762945	-103.382929	Avenida Camino Bosques de san Isidro 3027, Zapopan, Jalisco
+Donis Noris Josseline	Dance Studio	18025	20.611568	-103.379677	Avenida Felipe Zetter 3407 7, Jalisco
+Silver Gym	Gym and Studio	18021	20.62458	-103.376742	Patria 2076 (Othón Blanco), 44960 Guadalajara, Jalisco
+Revolution Crosstraining	Gym and Studio	18021	20.637621	-103.374278	Avenida Lopez de Legazpi 1657, Guadalajara, Jalisco
+Cams	Dance Studio	18025	20.633042	-103.380369	
+RushFit	Gym and Studio	18021	20.635712	-103.381723	Avenida Cristobal Colón (Miguel Lopez De Legaspi), Guadalajara, Jalisco
+Zumbaile	Climbing Gym	18023	20.636093	-103.381493	Isla Cozumel (Esquina Isla Coco), Guadalajara, Jalisco
+Jr's Gym	Gym and Studio	18021	20.637792	-103.380609	
+Udance	Education	12009	20.631283	-103.374326	Jalisco
+U-Dance	Dance Studio	18025	20.631502	-103.374434	Ramón Alcorta 1509 (Othón Blanco Cáceres), Guadalajara, Jalisco
+Baile Latino	Dance Studio	18025	20.639759	-103.380673	
+24 Fit Club	Gym and Studio	18021	20.638784	-103.376053	
+Pole Fitness Studio WORK FIT	Gym and Studio	18021	20.637025	-103.374273	Poza Rica 1633, 44960 , Jalisco
+CAM Boxing and functional club	Boxing Gym	18022	20.634378	-103.372766	Francisco de orellana 2960 (faja de oro), 44960 Guadalajara, Jalisco
+WeFitness	Gym and Studio	18021	20.6373	-103.373231	Avenida Miguel Lopez de Legazpi 1605, 44960 Guadalajara, Jalisco
+We Fitness Gdl	Gym and Studio	18021	20.637308	-103.37321	Avenida Miguel López Legazpi 1605, 44960 Guadalajara, Jalisco
+Sporty Gym	Gym and Studio	18021	20.631991	-103.380798	44930 Guadalajara, Jalisco
+Rodriguez Ornelas Irma Susana	Dance Studio	18025	20.631517	-103.374245	Ramon Alcorta 1507, Jalisco
+Dance Factory	Dance Studio	18025	20.646914	-103.379054	Avenida Lapislázuli 2520 (Av. Cruz del Sur), 44950 Guadalajara, Jalisco
+Dragon's Gym	Gym and Studio	18021	20.64655	-103.379738	
+Willy's Boxing	Gym and Studio	18021	20.644498	-103.378646	Isla Cozumel 2709 (Andres de Urdaneta), Guadalajara, Jalisco
+Punto Fit Crossfit	Gym and Studio	18021	20.644885	-103.381905	Avenida Francisco Vazquez Coronado 2192 (Avenida Cruz Del Sur), 44950 Guadalajara, Jalisco
+Studio Fitness	Gym and Studio	18021	20.640533	-103.37645	Bolivia 2829 (Malvinas), 44950 Guadalajara, Jalisco
+Salsuko	Dance Studio	18025	20.642902	-103.375437	
+Anfi-bioos Salsa	Dance Studio	18025	20.643099	-103.37315	Isla Mansel (Isla Trapani), Guadalajara, Jalisco
+Sport Fitness	Gym and Studio	18021	20.657707	-103.379578	piña, 44900 Guadalajara, Jalisco
+Okikukai Ryuko Dojo	Gym and Studio	18021	20.658476	-103.374793	Cerezo 1429 (Pino), Guadalajara, Jalisco
+plaza Fresno	Gym and Studio	18021	20.660313	-103.373155	44900 Guadalajara, Jalisco
+Arbol del Yoga	Yoga Studio	18028	20.672838	-103.379842	Lope de Vega 121 (López Cotilla), 44130 Guadalajara, Jalisco
+Super Fitness Damas	Gym and Studio	18021	20.674083	-103.380496	Avenida Vallarta 2425 (Francisco de Quevedo), 44130 Guadalajara, Jalisco
+Olympia Gym	Gym and Studio	18021	20.672631	-103.378178	
+The Crown	Gym and Studio	18021	20.668704	-103.377689	44150 Guadalajara, Jalisco
+Countdown Fitlab	Boxing Gym	18022	20.66872	-103.377651	44150 Guadalajara, Jalisco
+Olympia Fitness Club	Gym and Studio	18021	20.672622	-103.378503	Calderon de la Barca 129, 44600 Guadalajara, Jalisco
+Sport Universe	Gym and Studio	18021	20.673861	-103.380669	Avenida Ignacio L. Vallarta 2425, 44130 Guadalajara, Jalisco
+Tauro Fitness Center	Gym and Studio	18021	20.673393	-103.37652	Avenida López Cotilla 1905 (Francisco Javier Gamboa y Juan Ruíz Alarcón), Guadalajara, Jalisco
+Invictus Functional Combat	Gym and Studio	18021	20.673445	-103.376485	Calle Lopez Cotilla, 44140 Guadalajara, Jalisco
+Street Wod Crossfitters	Gym and Studio	18021	20.673357	-103.376357	Avenida López Cotilla 1905 (Juan Ruiz De Alarcon), 44600 Guadalajara, Jalisco
+Reebok	Sporting Goods Retail	17117	20.674265	-103.380996	Avenida Vallarta 2425 (Av. Vallarta y Frsco de quevedo), 44140 Guadalajara, Jalisco
+Cor-San	Gym and Studio	18021	20.668112	-103.373275	Jesus Garcia 2875 (Terranova), Guadalajara, Jalisco
+Spazio Dance Studio	Dance Studio	18025	20.668432	-103.373154	Mexicaltzingo 2220 (Union), Guadalajara, Jalisco
+Hotel Demetria Gym	Gym and Studio	18021	20.67208	-103.372797	Avenida de la Paz 2219 (C. Simón Bolívar), 44150 Guadalajara, Jalisco
+Maha Shakti	Yoga Studio	18028	20.676363	-103.377548	Luis Pérez Verdía 27 (Entre Morelos E Hidalgo), 44600 Guadalajara, Jalisco
+World Gym	Gym and Studio	18021	20.675595	-103.375062	
+Gimbasio Para Mujeres Guadalajara	Gym and Studio	18021	20.674427	-103.381693	Avenida Vallarta 2425C, Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.679134	-103.380535	Avenida México 2539, 44600 Guadalajara, Jalisco
+Fight And Fitness Champions	Gym and Studio	18021	20.67964	-103.381174	Avenida México 2534, Guadalajara, Jalisco
+Snap Fitness 24/7	Gym and Studio	18021	20.678993	-103.380512	Avenida México (Pablo Villaseñor), Guadalajara, Jalisco
+Elite fighters gym	Boxing Gym	18022	20.683615	-103.381595	Guadalajara, Jalisco
+Squash & Gym	Gym and Studio	18021	20.679609	-103.380788	Mexico 2534, 44680 Guadalajara, Jalisco
+Aleux GYM	Gym and Studio	18021	20.680688	-103.38017	Calle Reforma 2510 (Martín casillas), 44650 Guadalajara, Jalisco
+Electrodos Luiggi	Gym and Studio	18021	20.682256	-103.375924	
+Ego Perfect Design	Gym and Studio	18021	20.682545	-103.376025	Guadalajara, Jalisco
+Fit Spot	Gym and Studio	18021	20.677818	-103.37449	Justo Sierra 2292 (Amado Nervo), 44600 Guadalajara, Jalisco
+Air Dance	Gym and Studio	18021	20.67752	-103.374581	Calle Amado Nervo 128 (entre manuel caballero y av. mexico), 44600 Guadalajara, Jalisco
+Liberty Dance Complex	Education	12009	20.684111	-103.377165	Luis Perez Verdia 424 (Av. Manuel Acuña Y Herrera y Cairo), Guadalajara, Jalisco
+Life Fitness	Gym and Studio	18021	20.68419	-103.38111	Avenida Lopez Mateos Norte 525, 46250 Guadalajara, Jalisco
+Centro Cultural de Danza Internacional Conny Rodriguez	Dance Studio	18025	20.685021	-103.378435	Guadalajara, Jalisco
+Kordance	Dance Studio	18025	20.685362	-103.380864	Francisco Vazquez Coronado 2753A (Isla cedros and Isla Trinidad), Guadalajara, Jalisco
+Ddnce Studio	Dance Studio	18025	20.683281	-103.373323	44200 Guadalajara, Jalisco
+World Gym Providencia	Gym and Studio	18021	20.688924	-103.37965	Miguel Angel Quevedo 804 (Jesús Garcia), Guadalajara, Jalisco
+60 D	Gym and Studio	18021	20.686122	-103.379384	López Mateos esquina Hospital, Zapopan, Jalisco
+United Fitness Center	Gym and Studio	18021	20.69138	-103.376506	Guadalajara, Jalisco
+Wodbox Crossfit	Gym and Studio	18021	20.69142	-103.376567	Jalisco
+Academia De Danza Doris Topete	Dance Studio	18025	20.68704437494778	-103.37660551071167	FranciscoFrancisco Zarco ＃2354-1 Zarco, 44680 Guadalajara, Jalisco
+Pole Art	Gym and Studio	18021	20.687137	-103.376475	Avenida Eulogio Parra 2353 (Entre Luis Perez Verdia y Aurelio Gallardo), 44650 Guadalajara, Jalisco
+Corporacion Florencia	Gym and Studio	18021	20.693164	-103.379439	Florencia 2515 (Monza), 44630 Guadalajara, Jalisco
+Box - World Gym Providencia	Boxing Gym	18022	20.688801	-103.37966	
+Row Workout Studio	Gym and Studio	18021	20.687233	-103.378296	Eulogio Parra 2441 - 2, 44600 Guadalajara, Jalisco
+Dance Studio	Gym and Studio	18021	20.687213	-103.376461	Guadalajara, Jalisco
+Canto Spa	Spa	11073	20.688213	-103.37615	Aurelio Luis Gallardo 646, 44600 Guadalajara, Jalisco
+Topete Se Kowski Dora Elena	Dance Studio	18025	20.687028	-103.376421	Francisco Zarco 2354 1, Guadalajara, Jalisco
+d-dance Academy	Yoga Studio	18028	20.687156	-103.376279	
+Plataforma Siete	Gym and Studio	18021	20.690866	-103.377076	Lopez Mateos 951 (Verona), Guadalajara, Jalisco
+Lifefitness	Gym and Studio	18021	20.691698	-103.379558	
+Plataforma 7	Gym and Studio	18021	20.69138	-103.376506	
+Punto Barre	Gym and Studio	18021	20.691267	-103.376487	Verona 2010 (Lopez Mateos), Zapopan, Jalisco
+Rezett Crossfit	Gym and Studio	18021	20.691422	-103.37652	Avenida Lopez Mateos (Verona), 44648 Guadalajara, Jalisco
+Almería, Estudio de Danza Española y Flamenco.	Dance Studio	18025	20.689297	-103.37472	740 Amado Nervo ((esquina Jesús García).), 44600 Guadalajara, Jalisco
+Cica	Dance Studio	18025	20.690005	-103.373856	Jose Maria Vigil 2272 (Av. Américas), 44658 Guadalajara, Jalisco
+Pilates Contrology & Vibra Health	Yoga Studio	18028	20.693482	-103.379472	Jalisco
+Casa Chatan	Yoga Studio	18028	20.69129	-103.374149	Lago Patzcuaro 795 (Florencia), 44648 Guadalajara, Jalisco
+Mik Studio	Dance Studio	18025	20.690596	-103.37348	Avenida de las Américas 781 (Jose María Vigil), 62517 Guadalajara, Jalisco
+Superchick Pole	Yoga Studio	18028	20.692317	-103.375117	Avenida López Mateos 1038 (Florencia), 44648 Guadalajara, Jalisco
+Onoma	Gym and Studio	18021	20.693512	-103.375384	Avenida Adolfo Lopez Mateos (Venecia), 44648 Guadalajara, Jalisco
+Gym (Gimnasio)	Gym and Studio	18021	20.694263	-103.376091	44648 Guadalajara, Jalisco
+Title Boxing Club	Boxing Gym	18022	20.69378	-103.375077	Avenida López Mateos 1133, 44648 Guadalajara, Jalisco
+Ruahine Danza Polinesia	Dance Studio	18025	20.691778	-103.372837	Américas, Guadalajara, Jalisco
+Anytime Fitness Ottawa	Gym and Studio	18021	20.69802	-103.377141	Avenida Pablo Neruda 2365 (Esquina Ottawa), 44630 Guadalajara, Jalisco
+Puerta al Corazon	Yoga Studio	18028	20.698464	-103.380402	Calle Bogotá 2612, 44630 Guadalajara, Jalisco
+Bikram Yoga México	Yoga Studio	18028	20.70152	-103.377506	Paulo 2364 (Américas), 44630 Guadalajara, Jalisco
+Rolo	Cycle Studio	18024	20.703257	-103.377332	Avenida Providencia 2386 (Asuncion), 44630 Guadalajara, Jalisco
+Dexfit	Gym and Studio	18021	20.697944	-103.372824	Avenida Américas, 44610 Guadalajara, Jalisco
+Crossfit 220	Gym and Studio	18021	20.697312	-103.380452	Avenida Pablo Neruda 2640, 44630 Guadalajara, Jalisco
+Smart Fit Midtown	Gym and Studio	18021	20.695613	-103.376604	Avenida Lopez Mateos Norte 2405 (Colomos Y Venecia), 44648 Guadalajara, Jalisco
+Smart Fit	Gym and Studio	18021	20.702469	-103.376698	Valparaiso 2367 (Avenida de las Américas), 44630 Guadalajara, Jalisco
+Smart Fir Midtown	Gym and Studio	18021	20.6949	-103.375917	44648 Guadalajara, Jalisco
+HighFitness	Gym and Studio	18021	20.697006	-103.375039	Avenida Circunvalación 1387 (Btw. Puerto Ángel & Puero del Carmen), Guadalajara, Jalisco
+Impulse	Gym and Studio	18021	20.698217	-103.378677	Pablo Neruda (Otawa), 44630 Guadalajara, Jalisco
+IDAC Institute of Dance & Arts Centre	Dance Studio	18025	20.697593	-103.380017	Avenida Pablo Neruda 2614 (Ontario), 44630 Guadalajara, Jalisco
+Electro-Body Center	Gym and Studio	18021	20.698587	-103.377214	44635 Guadalajara, Jalisco
+Cf 220	Gym and Studio	18021	20.697516	-103.380553	Pablo Neruda 2640 (Ontario), 44670 Guadalajara, Jalisco
+iCycle	Cycle Studio	18024	20.694255	-103.375248	44648 Guadalajara, Jalisco
+Smart Fit Midtown	Gym and Studio	18021	20.694177	-103.375445	44648 Guadalajara, Jalisco
+Body In Motion	Gym and Studio	18021	20.702089	-103.378315	44630 Guadalajara, Jalisco
+Haria Yoga Studio	Yoga Studio	18028	20.702117	-103.37833	Ottawa 1568-13 (Providencia), 44630 Guadalajara, Jalisco
+Tango Brujo	Dance Studio	18025	20.702086	-103.381402	Córdoba 2630 (btwn Ontario & Montreal), Zapopan, Jalisco
+Ride	Cycle Studio	18024	20.702696	-103.377723	Avenida Providencia 2411, 44630 Guadalajara, Jalisco
+Aloft gym	Gym and Studio	18021	20.701973	-103.375487	
+Rebel Room by Rolo	Gym and Studio	18021	20.703152	-103.377528	2388 Avenida Providencia, 44630 Guadalajara, Jalisco
+Fitness Center	Gym and Studio	18021	20.70317	-103.38151	Fiesta Americana Grand Country (Americas 1555), Zapopan, Jalisco
+House of Bars	Outdoor Gym	18026	20.703404	-103.376768	Avenida Providencia 2368 (Avenida Américas), 44630 Guadalajara, Jalisco
+Estudio de Danza Pilar Villasante	Dance Studio	18025	20.704284	-103.377878	Guayaquil 2395, 44630 Guadalajara, Jalisco
+Jardín de Luz	Yoga Studio	18028	20.719158	-103.375944	Calle 6 118 (Entre calle C y D.  Colonia Seattle), Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.715721	-103.380655	Zapopan, Jalisco
+Baila Corazon	Dance Studio	18025	20.714884	-103.37835	Avenida Avila Camacho 2970, 45150 Zapopan, Jalisco
+Curves Patria	Gym and Studio	18021	20.715066	-103.378166	Zapopan, Jalisco
+Curves Gym	Gym and Studio	18021	20.714529	-103.377967	Zapopan, Jalisco
+Yoguitos Latinoamérica	Education	12009	20.715328	-103.38053	Avenida Obelisco 25, 45160 Zapopan, Jalisco
+Relevé	Dance Studio	18025	20.718259	-103.373116	Av. D, 45150 Zapopan, Jalisco
+Aktif Gym	Gym and Studio	18021	20.724076	-103.373963	Zapopan, Jalisco
+patukas GYM	Gym and Studio	18021	20.724098	-103.376359	Zapopan, Jalisco
+Faith Youngers	Dance Studio	18025	20.725809	-103.376273	Maria de Jesus Romo de Vivar 182A (Calle Rayon), 45180 Zapopan, Jalisco
+Seattle GYM	Gym and Studio	18021	20.722254	-103.375246	Aurelio Ortega 767, 48902 Zapopan, Jalisco
+Factor 5 Dance Studio	Dance Studio	18025	20.722007	-103.374042	Aurelio Ortega 805 (Av. San Jorge), 45150 Zapopan, Jalisco
+Steel Vc Club Fit	Gym and Studio	18021	20.728224	-103.374146	45184 Guadalajara, Jalisco
+Arena Training Club	Gym and Studio	18021	20.722082	-103.372735	Aurelio Ortega 863 (Pulino Navarro), 45150 Zapopan, Jalisco
+Crossfit	Gym and Studio	18021	20.744898	-103.37187	Calzada del Vergel (calzada de los belenes), 45180 Zapopan, Jalisco
+Locus Gym	Gym and Studio	18021	20.777857	-103.37736	Nuevo México, Jalisco
+Spacio vitae GYM	Gym and Studio	18021	20.626325	-103.370286	Av. 8 De Julio, 44960 Guadalajara, Jalisco
+"Gym de Box ""La Nueva Era"""	Gym and Studio	18021	20.626465	-103.372409	Julian Granados 1891 (calle laura mendez), 44960 Guadalajara, Jalisco
+Adanzar	Education	12009	20.627922	-103.369673	Jalisco
+Energym	Gym and Studio	18021	20.628756	-103.36959	Jalisco
+Lion´s Gym Legazpi	Gym and Studio	18021	20.63414	-103.363477	Avenida Lopez de Legazpi, Guadalajara, Jalisco
+Gym	Gym and Studio	18021	20.637161	-103.371987	Vicente Yáñez Pinzón 2766, Guadalajara, Jalisco
+Hen Sei Kai	Education	12009	20.634767	-103.369834	Palma Sola 1353 (Bartolomé Diaz), 44960 Guadalajara, Jalisco
+Dunia's Spinning	Gym and Studio	18021	20.634372	-103.37227	Jalisco
+Gym	Gym and Studio	18021	20.636983	-103.372072	
+Sport. GyM	Gym and Studio	18021	20.637443	-103.371976	Lopez de Legazpi (Vicente Yañez Pinzon), Guadalajara, Jalisco
+Alberca Olímpica López Mateos	Gym and Studio	18021	20.647067	-103.368155	Unidad Deportiva López Mateos (Av. Colón 2189), 44940 Guadalajara, Jalisco
+Shen Du	Gym and Studio	18021	20.649575	-103.37095	45400 Guadalajara, Jalisco
+Help Gym	Gym and Studio	18021	20.656046	-103.367361	Olmo, 44900 Guadalajara, Jalisco
+Tiger Arena CrossFIT	Gym and Studio	18021	20.655331	-103.369794	1482 Calle Roble (Parra y Eucalipto), 44900 Guadalajara, Jalisco
+Gym Panamericano	Gym and Studio	18021	20.651934	-103.365986	Guadalajara, Jalisco
+Mel Dance	Dance Studio	18025	20.656939	-103.371448	Naranjo, 44950 Guadalajara, Jalisco
+Kalobish	Pilates Studio	18027	20.657378	-103.370101	Fresno 1963 (Fresno), Guadalajara, Jalisco
+Tom Dae's GYM	Gym and Studio	18021	20.655562	-103.364523	Avenida Colón 1910 (ruiseñor), Guadalajara, Jalisco
+Lagar Gym	Gym and Studio	18021	20.658107	-103.36861	Roble 1325 (Fresa), 44900 Guadalajara, Jalisco
+Urban Yoga Shala Gdl	Yoga Studio	18028	20.667511	-103.367933	Vidrio 1987, 44160 Guadalajara, Jalisco
+Black studio	Education	12009	20.665736	-103.372321	Simón Bolívar 583 (Agustín Yañez), 44257 Guadalajara, Jalisco
+Satya Studio	Yoga Studio	18028	20.666462	-103.370377	
+36Five	Gym and Studio	18021	20.66708	-103.369077	Avenida Chapultepec, Guadalajara, Jalisco
+Quemando Culpas	Gym and Studio	18021	20.667714	-103.36869	Guadalajara, Jalisco
+Sondo	Yoga Studio	18028	20.667541	-103.367865	
+Festival Bailar Apantalla	Dance Studio	18025	20.665795	-103.372185	Simon Bolivar 583, Guadalajara, Jalisco
+Smart Fit	Gym and Studio	18021	20.667855	-103.369129	Avenida Chapultepec Sur 480 (Mexicaltzingo y Vidrio), 44140 Guadalajara, Jalisco
+Chapultepec Salsero	Salsa Club	10049	20.671579	-103.368823	Avenida Chapultepec (Avenida La Paz y Lerdo De Tejada), Jalisco
+Red Cultural GFU Guadalajara	Organization	12082	20.669699	-103.366419	Efrain Gonzalez Luna 1903, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.673531	-103.36898	44158 Guadalajara, Jalisco
+Kristal Century Fitness Center	Gym and Studio	18021	20.674204	-103.373033	Vallarta (Américas), 44680 Guadalajara, Jalisco
+Arte en Movimiento	Dance Studio	18025	20.669164	-103.370554	Jose Guadalupe Montenegro 2111A (Marsella), 44150 Guadalajara, Jalisco
+HC Fitness Room	Gym and Studio	18021	20.667796	-103.369265	
+Curves Chapultepec	Gym and Studio	18021	20.672115	-103.370649	Marsella (Av. La Paz), Guadalajara, Jalisco
+Black Jaguar Combat Club	Gym and Studio	18021	20.670786	-103.367282	Progreso 454 (Montenegro), 44100 Guadalajara, Jalisco
+Pasaje Yoga	Yoga Studio	18028	20.672096	-103.370845	Avenida La Paz 2121A (Marsella), 44158 Guadalajara, Jalisco
+Yoga Colonias #463	Yoga Studio	18028	20.66913	-103.365892	Guadalajara, Jalisco
+Yoga Class	Yoga Studio	18028	20.667705	-103.366404	Vidrio 1870, 44150 Guadalajara, Jalisco
+Distrito Yoga	Yoga Studio	18028	20.672766	-103.365789	Colonias 221 (la paz), 45136 Guadalajara, Jalisco
+Rubaw	Gym and Studio	18021	20.673582	-103.372436	44150 Guadalajara, Jalisco
+Tiger Extreme Workout Crossfit	Gym and Studio	18021	20.673474	-103.366302	Colonias 188 (Libertad), Guadalajara, Jalisco
+Gayatri estudio yoga	Yoga Studio	18028	20.67081	-103.36417	Juan de Ojeda 80, 44190 Guadalajara, Jalisco
+The Boxing Room	Boxing Gym	18022	20.669135	-103.363989	Guadalajara, Jalisco
+Kristal Gym	Gym and Studio	18021	20.674076	-103.373175	
+Sports Fitness	Gym and Studio	18021	20.674331	-103.373058	Vallarta 1791, 44140 Guadalajara, Jalisco
+Move Wellness Fam	Gym and Studio	18021	20.67457	-103.372802	44160 Guadalajara, Jalisco
+Studio Fussion Fitness 360	Gym and Studio	18021	20.67581	-103.369798	44600 Guadalajara, Jalisco
+Pilates Clasico	Gym and Studio	18021	20.67564	-103.368354	Camino a La presa 8, Guadalajara, Jalisco
+Gym América	Gym and Studio	18021	20.676066	-103.368676	Guadalajara, Jalisco
+Sports Fitness	Gym and Studio	18021	20.674265	-103.372981	Avenida Vallarta 1791, 44110 Guadalajara, Jalisco
+Freedom Gym Fitness Club	Gym and Studio	18021	20.680931	-103.36368	Garibaldi 1197 (Ignacio Ramírez), 44600 Guadalajara, Jalisco
+His & Her Gym	Gym and Studio	18021	20.680732	-103.369337	Pedro Buzeta 278 (Garibaldi Y Refoma), Guadalajara, Jalisco
+Perez Torquemada Ana Hortencia	Dance Studio	18025	20.678947	-103.37072	1a Norte 5123, 45030 Guadalajara, Jalisco
+Corpo-Espacio Danza	Dance Studio	18025	20.677687	-103.36986	44600 Guadalajara, Jalisco
+Jr. GYM	Gym and Studio	18021	20.685462	-103.367635	Hospital 1535, 44600, Guadalajara, Jalisco
+Área 360°	Gym and Studio	18021	20.681177	-103.370913	Calle Garibaldi 1523 (entre Manuel M.  Diéguez y Alfredo R. Plascencia), 44600 Guadalajara, Jalisco
+Motus Academia de Baile	Education	12009	20.682949	-103.367755	Herrera y Cairo 1483A, Guadalajara, Jalisco
+Atelier	Dance Studio	18025	20.683316	-103.366888	Herrera y Cairo (Miguel Cabrera), Guadalajara, Jalisco
+Studio 212	Dance Studio	18025	20.683237	-103.366779	Herrera y Cairo 1432, 44600 Guadalajara, Jalisco
+Dance Fit	Gym and Studio	18021	20.683875	-103.366914	44600 Guadalajara, Jalisco
+10 Segundos Box Gdl	Boxing Gym	18022	20.684245	-103.36773	Manuel Acuña 1486, 44600 Guadalajara, Jalisco
+Gimnasio Ojo de Tigre	Gym and Studio	18021	20.684278	-103.367299	Ramos Millan (Hospital), Guadalajara, Jalisco
+The Hood, Santa Tere Workout	Gym and Studio	18021	20.684586	-103.371027	Manuel M. Diéguez 507 (Manuel Acuña), 44600 Guadalajara, Jalisco
+Muhai Team	Clothing Store	17043	20.685077	-103.369164	Calle Juan Álvarez 1590, 44600 Guadalajara, Jalisco
+Sprint Functional Studio	Gym and Studio	18021	20.692947	-103.372138	Colomos 2192, Guadalajara, Jalisco
+Cross Boxing	Gym and Studio	18021	20.692946	-103.372287	
+Torre a	Gym and Studio	18021	20.68993	-103.37006	
+Danzare Belly Dance	Dance Studio	18025	20.68898	-103.371626	
+Beachbody Gym	Gym and Studio	18021	20.690301	-103.367671	En El Cuarto Trasero
+Mr. Ripped	Gym and Studio	18021	20.68579	-103.370735	Manuel M. Dieguez 600 (Hospital), Guadalajara, Jalisco
+Revive Club	Gym and Studio	18021	20.691948	-103.366905	Gabriel Ramos Millán 945, 44600 Guadalajara, Jalisco
+Gym Colomos	Gym and Studio	18021	20.692907	-103.372077	Guadalajara, Jalisco
+Reckless Box By Cencalli	Gym and Studio	18021	20.695062	-103.371862	Regidores 1055, Jalisco
+Bike House Spinning & Gym	Gym and Studio	18021	20.697127	-103.366675	Avenida Plan de San Luis 1935 (Chapultepec Country), 44620 Guadalajara, Jalisco
+Station 24 Fitness Country	Gym and Studio	18021	20.696806	-103.37086	44620 Guadalajara, Jalisco
+La Caja Mágica	Radio Station	11144	20.698826	-103.367793	Nuevo León
+Cross Boxing	Gym and Studio	18021	20.695062	-103.371862	Colomos 2192 (Bernardo de Balbuena), 44620 Guadalajara, Jalisco
+Vertical Fit Studio	Gym and Studio	18021	20.702076	-103.365979	Mar del Sur 2014 (av. circunvalación), 44610 Guadalajara, Jalisco
+Cencalli Buceo	Gym and Studio	18021	20.697309	-103.362566	Regidores, Guadalajara, Jalisco
+Centro Estetico Country Club	Gym and Studio	18021	20.703091	-103.36611	
+Aerobici's	Gym and Studio	18021	20.696085	-103.362169	Nicolás Romero 1356 (Plan De San Luis), 45528 Guadalajara, Jalisco
+Brudden de México	Gym and Studio	18021	20.697439	-103.368385	Cll Plan de Sn Luis 2130, 44610 Guadalajara, Jalisco
+Country gym	Gym and Studio	18021	20.709226	-103.367276	Jalisco
+Vaihere	Dance Studio	18025	20.706636	-103.365269	Salto del agua 2154
+Sat Nam Yoga	Yoga Studio	18028	20.7104	-103.367483	Plateros 2378, 44210 Guadalajara, Jalisco
+Silvan's	Gym and Studio	18021	20.707109	-103.363274	
+Ori Tahiti Te Ora	Education	12009	20.706727	-103.362469	Guadalajara, Jalisco
+Maohi Nui Guadalajara	Dance Studio	18025	20.715594	-103.368665	Zapopan, Jalisco
+Euro Gym	Gym and Studio	18021	20.720219	-103.367995	Colina Aurea, Zapopan, Jalisco
+"Centro Cultural de Danza ""LAULIMA"""	Education	12009	20.713512	-103.367821	Zapopan, Jalisco
+"Academia ""MAE AFRICA"""	Education	12009	20.713501	-103.367692	Avenida Patria (Lago Superior), Zapopan, Jalisco
+Super Fitness	Gym and Studio	18021	20.713263	-103.363957	Zapopan, Jalisco
+EuroGym	Gym and Studio	18021	20.719248	-103.364721	Colina del congreso, 45170 Zapopan, Jalisco
+Energy Fitness	Gym and Studio	18021	20.721626	-103.36916	45180 Zapopan, Jalisco
+Martinez Barajas Arnoldo Joel	Gym and Studio	18021	20.724846	-103.369284	Juan Dominguez 955, 45180 Guadalajara, Jalisco
+Academia Pogodas Twerking	Gym and Studio	18021	20.725067	-103.367645	Zapopan, Jalisco
+Lea Fit Gym	Gym and Studio	18021	20.727633	-103.370964	45180 Zapopan, Jalisco
+GYM Equinoxio	Gym and Studio	18021	20.726643	-103.365151	Zapopan, Jalisco
+Rock gym	Gym and Studio	18021	20.723403	-103.362201	Zapopan, Jalisco
+Diego Orea Ramirez	Gym and Studio	18021	20.728621	-103.368629	Juan Dominguez 955, Guadalajara, Jalisco
+Trainer Fitness Gym	Gym and Studio	18021	20.735914	-103.367079	Zapopan, Jalisco
+Tabachines GYM	Gym and Studio	18021	20.737445	-103.369066	Pinabetes 3271, Zapopan, Jalisco
+Zeus gym	Gym and Studio	18021	20.737445	-103.369066	Zapopan, Jalisco
+Sport & Spa	Gym and Studio	18021	20.740305	-103.365085	45020 Zapopan, Jalisco
+Universal Gym	Gym and Studio	18021	20.748814	-103.371369	Calzada del Vergel 1341 (Jardine De Los Alhelies), 45180 Zapopan, Jalisco
+Planeta Pilates	Gym and Studio	18021	20.777748	-103.370755	Zapopan, Jalisco
+Eurofitness GYM Club las Cañadas	Gym and Studio	18021	20.780257	-103.369727	Club de Golf las Cañadas, Zapopan, Jalisco
+Integrity CrossFit Patria	Gym and Studio	18021	20.622752	-103.357491	Avenida Patria 743, Guadalajara, Jalisco
+Club de Baile & Fitness	Gym and Studio	18021	20.625919	-103.355042	Pedro Garcia Conde (Antonio Neri), Jalisco
+SBT Gym	Gym and Studio	18021	20.644519	-103.353834	Guadalajara, Jalisco
+The Big Apple Gym	Gym and Studio	18021	20.653238	-103.35886	8 de Julio 1550 (Fresno), 44910 Guadalajara, Jalisco
+Dance factory	Dance Studio	18025	20.650939	-103.356464	Milano 1037, Guadalajara, Jalisco
+Gimnasio seccion 33	Gym and Studio	18021	20.664909	-103.363222	Alemania, Guadalajara, Jalisco
+Flex Gym	Cycle Studio	18024	20.662237	-103.360489	Polonia 68 s/n, 44190 Guadalajara, Jalisco
+YCWA Natacion	Gym and Studio	18021	20.663308	-103.362002	Guadalajara, Jalisco
+Barre Physique Guadalajara	Yoga Studio	18028	20.665035	-103.36159	Avenida Alemania 1602 (Lorena), Guadalajara, Jalisco
+YWCA Escuela de Natacion ACF	Gym and Studio	18021	20.669641	-103.361047	Jose Guadalupe Montenegro 1614, 44170 Guadalajara, Jalisco
+Casa Yoga	Yoga Studio	18028	20.671879	-103.361407	Guadalajara, Jalisco
+Casa de la Danza	Dance Studio	18025	20.673807	-103.359725	López Cotilla 972 (e/ Prado & Enrique Díaz De León), 44100 Guadalajara, Jalisco
+Casinéate	Dance Studio	18025	20.671638	-103.358932	Libertad 1476 (Escorza), 44160 Guadalajara, Jalisco
+Dínamic SportGym	Gym and Studio	18021	20.668052	-103.359561	Guadalajara, Jalisco
+Ultrasoya	Gym and Studio	18021	20.667993	-103.359514	Guadalajara, Jalisco
+La Bailería	Dance Studio	18025	20.672887	-103.356642	Prisciliano Sanchez 731A (Rayon), 44100 Guadalajara, Jalisco
+Orishas Fitness Center	Gym and Studio	18021	20.674126	-103.357524	44160 Guadalajara, Jalisco
+Help Gym	Gym and Studio	18021	20.667943	-103.355321	Federalismo 568, 44260 Guadalajara, Jalisco
+Latinos Dance Studio	Dance Studio	18025	20.674151	-103.357205	44160 Guadalajara, Jalisco
+Clases de Danza Arabe Fusion y ATS	Dance Studio	18025	20.674642	-103.357957	Avenida Juarez 881 (Enrique Diaz de Leon), 44100 Guadalajara, Jalisco
+Centro de Acondicionamiento Físico Udeg	Gym and Studio	18021	20.675202	-103.359139	Avenida Juarez, 44100 Guadalajara, Jalisco
+Tapout XT Fitness	Gym and Studio	18021	20.673994	-103.355624	
+Gfu	Yoga Studio	18028	20.674315	-103.35611	Guadalajara, Jalisco
+Academia Mexicana de Yoga	Office	11124	20.675801	-103.360951	Guadalajara, Jalisco
+The Store for Dianabol	Gym and Studio	18021	20.675792	-103.362561	Pedro Moreno 1160, 44450 Guadalajara, Jalisco
+New Sanson Gym	Gym and Studio	18021	20.681191	-103.354518	Enrrique Díaz de Leon, 155 (Juan Manuel), 44900 Guadalajara, Jalisco
+MPN Nutrición Deportiva	Gym and Studio	18021	20.68527	-103.359359	Enrique Díaz, Guadalajara, Jalisco
+Reaction Gym	Gym and Studio	18021	20.678445	-103.359457	Avenida Enrique Díaz de León (Juan Manuel), 44200 Guadalajara, Jalisco
+Airesis	Community Center	12004	20.681312	-103.358523	Garibaldi 906 (Juan Ruiz de Alarcón), 44200 Guadalajara, Jalisco
+Calle San felipe	Dance Studio	18025	20.679986	-103.353925	
+La Salle de Sport	Cycle Studio	18024	20.683939	-103.363078	
+Grupo Folklorico Magisterial SENTE Sección 47	Dance Studio	18025	20.682242	-103.354089	Herrera y Cairo 675, Guadalajara, Jalisco
+Gym Pro Fitness Center	Gym and Studio	18021	20.697034	-103.357538	Calle Plan de San Luis 1472, Guadalajara, Jalisco
+Expert Fitness Center	Gym and Studio	18021	20.698193	-103.355025	Avenida Federalismo 1490 (Avila Camacho), 44220 Guadalajara, Jalisco
+New Force Plan de San Luis	Gym and Studio	18021	20.696579	-103.357973	Plan de San Luis 1495B (Enrique Díaz De León), 44260 Guadalajara, Jalisco
+Danzen	Gym and Studio	18021	20.696847	-103.36164	Plan de San Luis, Guadalajara, Jalisco
+Danze Academia & Fitness	Gym and Studio	18021	20.696985	-103.36184	Nicolás Romero 1356 (plan de San Luis), 44260 Guadalajara, Jalisco
+Gyms	Gym and Studio	18021	20.697261	-103.357321	Plan de San Luis (Enrique Diaz De Leon), Guadalajara, Jalisco
+Red Fit, Fitness Center	Gym and Studio	18021	20.697093	-103.357403	Plan de San Luis 1472 (Enrique Díaz De Leon), 44260 , Jalisco
+Makani Academia de Expresion Artistica	Education	12009	20.702077	-103.36047	Nicolas Romero 1555, 44620 Guadalajara, Jalisco
+Nassib Studio	Dance Studio	18025	20.699501	-103.354311	Tabasco 1479, Guadalajara, Jalisco
+Easy fit by vivo 47 - Avila Camacho	Gym and Studio	18021	20.702206	-103.358643	Jalisco
+Black Panter Crossfit	Gym and Studio	18021	20.707317	-103.359429	Circunvalacion, 44210 Guadalajara, Jalisco
+Mae Africa	Dance Studio	18025	20.710054	-103.360323	
+Pro fitness	Gym and Studio	18021	20.707435	-103.355335	Avenida Federalismo Norte 1940, 44220 Guadalajara, Jalisco
+Rowingym Country	Gym and Studio	18021	20.715018	-103.361448	Lomas del Camino 2047 (Enrique Díaz de León), 45176 Guadalajara, Jalisco
+Spirit Fit	Gym and Studio	18021	20.714188	-103.35618	Guadalajara, Jalisco
+AFFEJ Empresarial	Legal Service	11111	20.713212	-103.356119	Jalisco
+CorpoSao	Gym and Studio	18021	20.714813	-103.354523	
+Victory Gym	Gym and Studio	18021	20.717415	-103.354404	Federalismo Norte (Justo Sierra), Zapopan, Jalisco
+Academia de Danza Pascual Martinez	Dance Studio	18025	20.71666	-103.361909	Zoquipan 2112, 45170 Guadalajara, Jalisco
+Colosso Gym	Gym and Studio	18021	20.726957	-103.358767	Zapopan, Jalisco
+Deportivo Morelos	College Soccer Field	12037	20.725048	-103.354744	Avenida federalismo (Perifetico), 45190 Zapopan, Jalisco
+Ares GYM	Gym and Studio	18021	20.729407	-103.357875	Obreros de Cananea, 45186 Zapopan, Jalisco
+Chakal's GYM	Gym and Studio	18021	20.729948	-103.360608	Obreros de Cananea 1341 (Natividad Macias), 45180 Zapopan, Jalisco
+Positif	Gym and Studio	18021	20.729317	-103.355939	Zapopan, Jalisco
+Spinning Bike Habibi	Gym and Studio	18021	20.729972	-103.355809	Zapopan, Jalisco
+Cronos Gym	Gym and Studio	18021	20.60218	-103.349442	Tlaquepaque, Jalisco
+Bull Gym	Gym and Studio	18021	20.61809	-103.3452	Gobernador Curiel 3570, 44990 Guadalajara, Jalisco
+Studio 3	Dance Studio	18025	20.617393	-103.349431	
+Gym Sport & Family	Gym and Studio	18021	20.613123	-103.346991	Avenida de la Pintura 349, 44990 Guadalajara, Jalisco
+"Gimasio de box ""El Alacran"" Torres"	Gym and Studio	18021	20.621689	-103.347626	Jose Ma. Aguayo 4439 (Avenida Patria y Gobernador Luis G. Curiel), Guadalajara, Jalisco
+Lions Gym	Gym and Studio	18021	20.625789	-103.347217	Avenida Gobernador Curiel (Av. Patria), Guadalajara, Jalisco
+Lions Gym area de Cardio	Gym and Studio	18021	20.625942	-103.346972	
+Yonic Sport	Dance Studio	18025	20.62263	-103.347144	Guadalajara, Jalisco
+Spartan GYM	Gym and Studio	18021	20.636155	-103.350134	Guadalajara, Jalisco
+Magnos Gym & Fitness	Boxing Gym	18022	20.642692	-103.351573	Calle 14 2030 (Lázaro Cardenas), 44440 Guadalajara, Jalisco
+Sport Max	Gym and Studio	18021	20.643533	-103.349528	Guadalajara, Jalisco
+sport tiger GYM	Gym and Studio	18021	20.643088	-103.351774	Guadalajara, Jalisco
+Fitness Center Howard Johnson	Gym and Studio	18021	20.643906	-103.352264	
+Gim	Gym and Studio	18021	20.645187	-103.351913	
+Luna Navarro Lucia	Gym and Studio	18021	20.645648	-103.353074	Heroes de Nacozari 1670, 44910 Guadalajara, Jalisco
+Ceos Gym mixto	Gym and Studio	18021	20.665649	-103.351727	Colón 752 (Mexicaltzingo), 44100 Guadalajara, Jalisco
+Kristal Century	Cycle Studio	18024	20.667977	-103.34683	Avenida La Paz 54 (Comercio), 44100 Guadalajara, Jalisco
+El arenal club vapor	Spa	11073	20.670622	-103.349157	Leandro Valle 944 (e/ Ocampo & Colón), 44100 Guadalajara, Jalisco
+Estudio de Danza Gabriela Rodriguez	Education	12009	20.671202	-103.349812	Libertad 1013 (Ocampo), 44100 Guadalajara, Jalisco
+Technogym	Gym and Studio	18021	20.669869	-103.347678	Guadalajara, Jalisco
+Megafitmex	Gym and Studio	18021	20.66969	-103.347631	Avenida 16 (Av.), Guadalajara, Jalisco
+Club Deportivo Mutualista	Gym and Studio	18021	20.675604	-103.35177	Pedro Moreno 621 (Enrique González Martinez y 8 de Julio), 44100 Guadalajara, Jalisco
+Kcg	Gym and Studio	18021	20.667977	-103.34683	Avenida de la Paz 54, 44100 Tlaquepaque, Jalisco
+Doca Studio	Dance Studio	18025	20.67052	-103.346641	Guadalajara, 44469, Guadalajara, Jalisco
+Move Wellness	Gym and Studio	18021	20.668017	-103.346891	Avenida La paz 60 (Av 16 de septiembre), 44100 Guadalajara, Jalisco
+Hercules Gym	Gym and Studio	18021	20.669826	-103.345026	Guadalajara, Jalisco
+The Gym	Gym and Studio	18021	20.674865	-103.346076	Hotel Real Maestranza, Guadalajara, Jalisco
+Aqua Fitness	Gym and Studio	18021	20.665995	-103.344807	20 de Noviembre 652, 44469 Guadalajara, Jalisco
+Center Gym & Fitness	Cycle Studio	18024	20.681556	-103.348326	Pedro Loza 323 (Juan Alvarez), 44100 Guadalajara, Jalisco
+Center Gym	Gym and Studio	18021	20.678	-103.349797	Pedro Loza, Guadalajara, Jalisco
+Quality Gyms	Gym and Studio	18021	20.680469	-103.347462	1512 s/n, 44600 Guadalajara, Jalisco
+Astral	Yoga Studio	18028	20.684556	-103.351979	Contreras Medellin 507 (Juan Alvarez), 44100 Guadalajara, Jalisco
+Pilates Garzon	Gym and Studio	18021	20.685387	-103.349015	Hospital (Santa Monica), Guadalajara, Jalisco
+Gimnasio	Gym and Studio	18021	20.681308	-103.348286	Calle Pedro Loza 323, 44100 Guadalajara, Jalisco
+Gym Torres del Parque	Gym and Studio	18021	20.689184	-103.348693	Guadalajara, Jalisco
+Cloroformo	Boxing Gym	18022	20.690486	-103.348862	Torres Quintero 1036 (Pedro Loza), Guadalajara, Jalisco
+F. A. Training	Gym and Studio	18021	20.690582	-103.348885	Pedro Loza 1036 (Torres Quintero), 44200 Guadalajara, Jalisco
+Diamonds GYM	Gym and Studio	18021	20.690797	-103.348635	Calle Torres Quintero 1036 (Pedro Loza), 44260 Guadalajara, Jalisco
+Gym Guzman Boxing	Boxing Gym	18022	20.691654	-103.34514	Guadalajara, 44270 (Silvestre Revueltas Y Gonzalo Curiel), Guadalajara, Jalisco
+Grupo Folklorico Ciudad de Gaudalajara A.c.	Dance Studio	18025	20.698993	-103.350279	Rafael Camacho 1495, 44260 Guadalajara, Jalisco
+Universe All-star	Gym and Studio	18021	20.695172	-103.351114	Jalisco
+Confeeracion Olimpica de Porristas	Gym and Studio	18021	20.699373	-103.348945	Cll Magisterio 1243 1, 44260 Guadalajara, Jalisco
+Ballet de Jalisco	Performing Arts Venue	10035	20.699369	-103.348133	Avenida Prolongación Alcalde 1451, 1 (Tamaulipas), 47900 Guadalajara, Jalisco
+Esgrima Code	Gym and Studio	18021	20.69842	-103.347161	Guadalajara, Jalisco
+Fosa de Clavados	Gym and Studio	18021	20.698784	-103.346477	CODE Jalisco (Av. Alcalde 1360), 44270 Guadalajara, Jalisco
+Elohym Dance Studio	Dance Studio	18025	20.702136	-103.347179	Guadalajara, Jalisco
+Studio Elohym	Dance Studio	18025	20.70224	-103.346953	Guadalajara, Jalisco
+Xpose Center	Dance Studio	18025	20.693171	-103.344325	Avenida de los Maestros 682, 44270 Guadalajara, Jalisco
+Ballet Teatro de Guadalajara	Dance Studio	18025	20.699863	-103.343637	Guadalajara, Jalisco
+Gimnasio Mondo Forza	Gym and Studio	18021	20.705509	-103.348139	Circunvalación División del Norte 1037 (Av. Alcalde), 44220 Guadalajara, Jalisco
+Keep Dance	Gym and Studio	18021	20.707439	-103.352418	Guadalajara, Jalisco
+Rooster Fighters Factory	Gym and Studio	18021	20.710071	-103.346256	44220 Guadalajara, Jalisco
+Just Dance	Gym and Studio	18021	20.709539	-103.345598	Guadalajara, Jalisco
+Guadalajara Jazz Studio	Gym and Studio	18021	20.711122	-103.346088	Avenida Alcalde 2420 (Fidel Velazquez), Guadalajara, Jalisco
+Ananda Yoga	Yoga Studio	18028	20.70991	-103.347959	1051 Calle Federico E. Ibarra, 44220 Guadalajara, Jalisco
+Integrity Crossfit	Gym and Studio	18021	20.715196	-103.345638	44230 Guadalajara, Jalisco
+Black Bulls atemajac	Boxing Gym	18022	20.719509	-103.350047	Experiencia 65, Zapopan, Jalisco
+Mikes Gym Fitness Club	Gym and Studio	18021	20.71988	-103.353225	45190 Zapopan, Jalisco
+Vida Natura Pilates & Spa	Gym and Studio	18021	20.7165	-103.342894	Abrantes 907 (Cádiz), 44230 Guadalajara, Jalisco
+Ananda Yoga	Yoga Studio	18028	20.716957	-103.342913	Ovar 926 (Lusitania), 44220 Guadalajara, Jalisco
+Perfect Body Gym	Gym and Studio	18021	20.730759	-103.348795	Club Cinegetico (Manuel Gómez Morin), Zapopan, Jalisco
+Perfect Body Gym And Fittnes	Gym and Studio	18021	20.729627	-103.346963	Manuel Gomez Morin 325 (Canica), Zapopan, Jalisco
+Gym Loaiza	Gym and Studio	18021	20.727614	-103.351442	Zapopan, Jalisco
+World Gym And Fitness	Gym and Studio	18021	20.728995	-103.353314	Obreros de Cananea 1523 (Juan Del Carmen), 45180 Zapopan, Jalisco
+Sport Fitness	Gym and Studio	18021	20.73638	-103.34934	45190 Zapopan, Jalisco
+Alexalu Fit Studio	Gym and Studio	18021	20.731194	-103.344368	Avenida Deportes 5129A (Waterpolo), 45190 , Jalisco
+Champions Gym	Gym and Studio	18021	20.731811	-103.342856	Zapopan, Jalisco
+Gym Villa	Gym and Studio	18021	20.745487	-103.345509	Zapopan, Jalisco
+EGM Estudio de Baile	Gym and Studio	18021	20.742228	-103.351021	Calle Juan Alvarez 1D, 45180 Zapopan, Jalisco
+Rhino's Fitness Gym	Gym and Studio	18021	20.606581	-103.338189	Juan de la Barrera 5219, 45590 Tlaquepaque, Jalisco
+Bull GYM Guadalajara	Gym and Studio	18021	20.610814	-103.340652	
+Factor 5	Yoga Studio	18028	20.609438	-103.33758	Tlaquepaque, Jalisco
+Gimnasio Pulidos	Gym and Studio	18021	20.632971	-103.343392	Jalisco
+Trenor Fitness	Gym and Studio	18021	20.649748	-103.33989	Avenida R Michel s/n, 44790 Guadalajara, Jalisco
+Urban fitness club	Gym and Studio	18021	20.65069	-103.33521	Salvador Lopez Chavez 1521, Guadalajara, Jalisco
+Cloroformo Boxing Club	Boxing Gym	18022	20.650785	-103.335222	Salvador López Chávez 1521 (González gallo), 44430 Guadalajara, Jalisco
+Tequila Fitness Crossfit	Gym and Studio	18021	20.668488	-103.339195	Avenida Revolución 392 (analco y Nicolás bravo), 44450 Guadalajara, Jalisco
+Gimnasio de Boxeo	Gym	18077	20.671244	-103.342681	Medrano 85 (Calzada Independencia), Jalisco
+Spinning Speed Bike	Gym and Studio	18021	20.667563	-103.341818	Guadalupe Victoria 302 (5 De Mayo), Jalisco
+Deportes Obregon	Gym and Studio	18021	20.672074	-103.338354	Guadalajara, Jalisco
+Academia Nuevo Jalisco	Dance Studio	18025	20.677237	-103.34312	Avenida Miguel Hidalgo y Costilla 107, 44100 Guadalajara, Jalisco
+Aztecs GDL Developing Atlhetes	Gym and Studio	18021	20.68254	-103.342343	Calle Coronel Calderón 476, 44280 Guadalajara, Jalisco
+Gym Serna	Gym and Studio	18021	20.683297	-103.33759	Guadalajara, Jalisco
+Guerreros Aztecas Boxing Gym	Gym and Studio	18021	20.67773	-103.334426	Republica 323 (Juan Diaz Covarrubias), 44360 Guadalajara, Jalisco
+Acrobatics Center Guadalajara	Gym and Studio	18021	20.679722	-103.334189	Federacion 381 (Mariano Jiménez y Juan Díaz Covarrubias), 44100 Guadalajara, Jalisco
+Ufit Sport	Gym and Studio	18021	20.688449	-103.334155	Calzada independencia 992 (Monte caucaso), Guadalajara, Jalisco
+Snoopy Gym	Gym and Studio	18021	20.689517	-103.333989	Calzada Independencia 948 (Paricutín), 44360 Guadalajara, Jalisco
+Gimnasio Damas Geminis	Gym and Studio	18021	20.690508	-103.341159	Guadalajara, Jalisco
+Team Yerenas Muay Thai	Boxing Gym	18022	20.689106	-103.33735	Francisco Peñuñuri 44 (Acerina), 44280 Guadalajara, Jalisco
+Balletto Dance Studio	Dance Studio	18025	20.687399	-103.336211	Eulogio Parra 61Z (Monte De Las Animas), Guadalajara, Jalisco
+Solo Arqueria Calzada	Steakhouse	13383	20.687509	-103.33555	Calzada Independencia Norte 771, 44280 Guadalajara, Jalisco
+New Edge Dance And Fitness	Gym and Studio	18021	20.693873	-103.342172	Junípero Serra 1131 (Fray Juan de San Miguel), 44270 Guadalajara, Jalisco
+Snap Fitness 24/7 Circunvalacion	Gym and Studio	18021	20.699278	-103.335623	Guadalajara, Jalisco
+Amazing Gym	Gym and Studio	18021	20.695045	-103.33826	Normalistas, Guadalajara, Jalisco
+Evolution Fitness Gym	Gym and Studio	18021	20.69496	-103.333704	Maestros (Jorullo), Guadalajara, Jalisco
+Kawaikini Centro de danzas polinesias y fitness	Gym and Studio	18021	20.702578	-103.340655	Guadalajara, Jalisco
+Speed Bike Gym	Gym and Studio	18021	20.699976	-103.342664	Paseo de los Filósofos 1613 (Científicos), Guadalajara, Jalisco
+RedFit Select Gym	Gym and Studio	18021	20.69489	-103.334157	Guadalajara, Jalisco
+Apsara Dance Studio	Gym and Studio	18021	20.699182	-103.342808	Jalisco
+Apsara	Clothing Store	17043	20.699182	-103.342808	44150 , Jalisco
+Smart Fit Normalistas	Gym and Studio	18021	20.698885	-103.336865	44270 Guadalajara, Jalisco
+Chip Ghara Yoga	Yoga Studio	18028	20.701217	-103.343311	Joaquin Aguirre Berlanga 740 (Carlos villaseñor), 44270 Guadalajara, Jalisco
+Station 24 Fitness - Providencia	Gym and Studio	18021	20.699282	-103.33554	44670 Guadalajara, Jalisco
+Atletic Center Fitness	Gym and Studio	18021	20.698205	-103.334805	Santa Fé, Jalisco
+Aloha Fit Dance	Gym and Studio	18021	20.698165	-103.334745	Platón 1334, 44270 Guadalajara, Jalisco
+Fitness Natura	Yoga Studio	18028	20.701631	-103.343382	44290 Guadalajara, Jalisco
+Las Barras Guadalajara	Outdoor Gym	18026	20.696029	-103.334557	Nevado de Toluca 100 (Sierra Leona), 44290 Guadalajara, Jalisco
+Hawaikini	Dance Studio	18025	20.702618	-103.340715	Guadalajara, Jalisco
+Curves Circunvalacion	Gym and Studio	18021	20.69871	-103.334054	Circunvalación, Guadalajara, Jalisco
+Energy Sport Center	Gym and Studio	18021	20.704665	-103.337076	José María Rodríguez 2150, 44290 Guadalajara, Jalisco
+Sport Gym	Gym and Studio	18021	20.706859	-103.339812	Gaspar Bolaños 708 (Jardines Alcalde), Guadalajara, Jalisco
+Fear Factor GYM.	Gym and Studio	18021	20.706955	-103.339764	Gaspar Bolaños 708, 45138 Guadalajara, Jalisco
+Tucson Fitness Gym	Gym and Studio	18021	20.703286	-103.335659	Amado Aguirre 407, 44299 Guadalajara, Jalisco
+Academia Belle Ballet	Dance Studio	18025	20.708466	-103.340385	Guadalajara, Jalisco
+Yoga Unidad Tucson	Yoga Studio	18028	20.708264	-103.33568	Calle Alfonso Gravioto, 44298 Guadalajara, Jalisco
+Zumba Clases	Gym and Studio	18021	20.711456	-103.336944	44800 Guadalajara, Jalisco
+Estudio de Danza Na'ili Puakea	Public Art	10047	20.719525	-103.340064	Avenida Experiencia 3432B, Jalisco
+Spinning Body Laura	Gym and Studio	18021	20.715252	-103.341787	Avenida Patria 856 (esq. Av. Experiencia), Guadalajara, Jalisco
+Seidokai Gym	Gym and Studio	18021	20.716045	-103.337819	Abrantes 1526, 44230 Guadalajara, Jalisco
+Mendoza Venegas Cecilia	Gym and Studio	18021	20.725107	-103.339272	Guadalajara, Jalisco
+Alexalu Fit Studio Zumba	Dance Studio	18025	20.729648	-103.334212	Agustín Quirarte 2, 45180 Zapopan, Jalisco
+Club Desspeja	Social Club	12097	20.618053	-103.326942	Tlaquepaque, Jalisco
+Studio Ole	Dance Studio	18025	20.643661	-103.327709	
+Atlas Gym	Gym and Studio	18021	20.645008	-103.32794	Jalisco
+Aaron's Gym	Gym and Studio	18021	20.647394	-103.330098	Rio tizapan (Rio mascota), Guadalajara, Jalisco
+Neegers	Gym and Studio	18021	20.64794	-103.32823	Guadalajara, Jalisco
+Negers GYM	Gym and Studio	18021	20.65593	-103.328663	Rio Mascota, 44890 Guadalajara, Jalisco
+Imagen Gym	Gym and Studio	18021	20.6504	-103.331288	Guadalajara, Jalisco
+Big bull Gym	Gym and Studio	18021	20.65149	-103.328782	Guadalajara, Jalisco
+GyM	Gym and Studio	18021	20.64962	-103.332461	Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.651993	-103.328084	Calzada Olimpica 1581 (Rio Nilo), 44870 Guadalajara, Jalisco
+Begsfit Performance Guadalajara	Physical Therapy Clinic	15026	20.650929	-103.327931	Río Pánuco 1191 (Río Nilo), 44870 Guadalajara, Jalisco
+Logna's Gym	Gym and Studio	18021	20.65629	-103.330385	Guadalajara, Jalisco
+S.O.S - Sistema Optimo de Superación Fitness	Gym and Studio	18021	20.660118	-103.325157	Avenida Revolución 1500, 44430 Guadalajara, Jalisco
+Club Deportivo Hercules	Gym and Studio	18021	20.669544	-103.327626	Gigantes 786 Sector Reforma Entre La Calle 90 (Dr. Silverio García), 44400 Guadalajara, Jalisco
+Jan Fitness Club	Gym and Studio	18021	20.66896	-103.329887	Gomez Farias , 769, 44400 Guadalajara, Jalisco
+Club Gimnasio Hercules	Cycle Studio	18024	20.669555	-103.327755	Gigiantes 790, 44890 Guadalajara, Jalisco
+Club Gimnasio Hercules	Gym and Studio	18021	20.669653	-103.32768	Gigantes 790, 44400 Guadalajara, Jalisco
+Definitions Gym	Gym and Studio	18021	20.672606	-103.329912	Avenida Javier Mina 708, Guadalajara, Jalisco
+Yofit	Gym and Studio	18021	20.669525	-103.324179	Juan R. Zavala, Guadalajara, Jalisco
+Pepes Gym	Gym and Studio	18021	20.68279	-103.331874	Francisco Tolentino 671 (e/ Pablo Valdez y Quevedo y Zubieta), 44360 Guadalajara, Jalisco
+Step Dance Art	Dance Studio	18025	20.683644	-103.331962	Guadalajara, Jalisco
+Athletics Gym	Gym and Studio	18021	20.694261	-103.331182	Calzada independencia (Sierra Madre), 44340 Guadalajara, Jalisco
+Valquiria Studio Dance + Fitness	Dance Studio	18025	20.69232	-103.332283	Calzada Independencia Norte 1178, 44340 Guadalajara, Jalisco
+Pilates GEO	Gym and Studio	18021	20.690703	-103.325446	Guadalajara, Jalisco
+FitXpress	Gym and Studio	18021	20.695973	-103.32816	Avenida Circunvalación Doctor Atl. 154 (Calle Los Alpes), Guadalajara, Jalisco
+Relevé	Event Service	11038	20.701106	-103.327517	Calzada Independencia Norte 1872 (Puerto Altata y Puerto Ensenada), 44320 Guadalajara, Jalisco
+Kristal Century Fitness Center los Alpes	Gym and Studio	18021	20.695933	-103.328099	Guadalajara, Jalisco
+Centro Apurva Yoga	Yoga Studio	18028	20.701694	-103.327847	Calzada Independencia 1773, Guadalajara, Jalisco
+Etre Le Danse	Dance Studio	18025	20.695301	-103.330624	Guadalajara, Jalisco
+Boxercise	Gym and Studio	18021	20.69592	-103.333025	Jalisco
+Fitness Club Anytime/Gonzalez	Gym and Studio	18021	20.69805	-103.328276	Montes Apeninos, Guadalajara, Jalisco
+Liliana Sendel Jazz Style	Dance Studio	18025	20.699445	-103.329044	Guadalajara, Jalisco
+Star Ballet Art Center	Dance Studio	18025	20.695158	-103.328047	Sierra Nevada 1580, Guadalajara, Jalisco
+Bitania Studio	Yoga Studio	18028	20.695593	-103.326515	Avenida Circunvalación Doctor Atl. 321 (Monte Alban), Guadalajara, Jalisco
+Nibana Studio	Yoga Studio	18028	20.695202	-103.326479	44340 Guadalajara, Jalisco
+Epicenter GYM	Gym and Studio	18021	20.699155	-103.326805	Sierra Nevada (Puerto Altata), 44340 Guadalajara, Jalisco
+Academia de Baile Zujash	Gym and Studio	18021	20.700932	-103.328377	Puerto Ensenada (Sierra Nevada), Guadalajara, Jalisco
+Cali, Centro de Formación Artística	Dance Studio	18025	20.701006	-103.32767	Calzada Independencia 1746, 44320 Guadalajara, Jalisco
+Feminis Gym	Gym and Studio	18021	20.702163	-103.331818	Guadalajara, Jalisco
+Fitness 18 Veintiuno	Gym and Studio	18021	20.702137	-103.32749	Calzada Independencia Norte 1821 (Monte libano), 44290 Guadalajara, Jalisco
+Tecno Fitness	Gym and Studio	18021	20.697114	-103.324158	Guadalajara, Jalisco
+Akasha Kei Studio | Academia de Danza Árabe & Tribal en Guadalajara.	Dance Studio	18025	20.694886	-103.325611	Sierra Mojada 1448, 44320 Guadalajara, Jalisco
+LIEBE Danza Integral	Dance Studio	18025	20.700898	-103.325853	Puerto Ensenada 96, 44320, 44320 Guadalajara, Jalisco
+Clubes Unidos de Jalisco A.C.	Gym and Studio	18021	20.704742	-103.327413	Calle Siete Colinas 1772, 44290 Guadalajara, Jalisco
+Leilani's 24/7 Fitness LOL	Gym and Studio	18021	20.718536	-103.333617	Guadalajara, Jalisco
+Trx Osiris	Gym and Studio	18021	20.620484	-103.320741	Tlaquepaque, Jalisco
+Gym Army	Gym and Studio	18021	20.626436	-103.315612	Tlaquepaque, Jalisco
+Jet Dance	Education	12009	20.63082	-103.319902	Tlaquepaque, Jalisco
+Nutribalans	Gym and Studio	18021	20.630718	-103.319523	Avenida Niños Héroes, Tlaquepaque, Jalisco
+EasyFit by Vivo47 Tlaquepaque.	Gym and Studio	18021	20.632141	-103.318086	Tlaquepaque, Jalisco
+Kingdom Black Lions	Gym and Studio	18021	20.635621	-103.316961	Niños Héroes 205A (Porvenir Y Santos Degollado), Tlaquepaque, Jalisco
+FitDance Dance & Fitnes Center	Gym and Studio	18021	20.638221	-103.31832	Juárez 375, Tlaquepaque, Jalisco
+BalleTlaquepaque	Dance Studio	18025	20.638537	-103.3179	Tlaquepaque, Jalisco
+Blue Swim	Gym and Studio	18021	20.638144	-103.317364	Tlaquepaque, Jalisco
+Smart Fit Forum	Gym and Studio	18021	20.648322	-103.319706	Guadalajara, Jalisco
+American's Gym	Gym and Studio	18021	20.642661	-103.3182	Boulevard Marcelino García Barragán 2492 (esq. Río Mezquital), Tlaquepaque, Jalisco
+Americans Cycling	Cycle Studio	18024	20.64232	-103.318287	44670 Guadalajara, Jalisco
+Centro Recreativo las Tortugas	Arts and Entertainment	10000	20.645917	-103.32325	Kilómetro 1, Guadalajara, Jalisco
+Pista de atletismo UDG	Hiking Trail	16019	20.655614	-103.323577	Calzada Olímpica (Av. Revolución), Guadalajara, Jalisco
+Black Haka Crossfit	Gym and Studio	18021	20.65062	-103.314878	Justo Corro 2126 (Rafael Delgado), 44840 Guadalajara, Jalisco
+AC Fitness & Wellness	Gym and Studio	18021	20.657188	-103.318885	Irineo Paz (Av.  Revolución), Guadalajara, Jalisco
+Foro de Halterofilia	Gym and Studio	18021	20.649649	-103.322618	Guadalajara, Jalisco
+Spinning New Life	Gym and Studio	18021	20.650821	-103.319003	La 30, Guadalajara, Jalisco
+Acero Gym	Gym and Studio	18021	20.658203	-103.320986	Guadalajara, Jalisco
+Acero Gym	Gym and Studio	18021	20.658033	-103.321213	Avenida Revolución 1629, 44410 Guadalajara, Jalisco
+Tamma Fitness & Nutrition	Gym and Studio	18021	20.655895	-103.31836	Guadalajara, Jalisco
+Gimnasio de Box	Gym and Studio	18021	20.657642	-103.324712	Guadalajara, Jalisco
+Athletic Center Gym	Gym and Studio	18021	20.656581	-103.318751	Irineo Paz 469, 44410 Guadalajara, Jalisco
+Alberca Olimpica de la Universidad de Guadalajara	Education	12009	20.655262	-103.322705	Calzada Olímpica No., 740, Guadalajara, Jalisco
+Gimnasio de Usos Múltiples - Tecnológico	Gym and Studio	18021	20.658394	-103.323299	Avenida Revolución 1500, Guadalajara, Jalisco
+Jr. Fitt	Gym and Studio	18021	20.660727	-103.320055	Avenida Revolución 1679, Guadalajara, Jalisco
+24Fitclub	Gym and Studio	18021	20.658751	-103.320889	Olímpica 593, Guadalajara, Jalisco
+Gimnasio de Box UdeG	Gym and Studio	18021	20.65806	-103.323915	Guadalajara, Jalisco
+Versus GYM	Gym and Studio	18021	20.659733	-103.317568	Aldama, Guadalajara, Jalisco
+Areba	Real Estate Service	11145	20.660715	-103.315358	06700 , Ciudad de México
+By Mony Dance	Dance Studio	18025	20.670583	-103.323512	Avenida Francisco Javier Mina 1003 (Pedro Celestino Negrete), Guadalajara, Jalisco
+Ponce de Santiago Carlos	Dance Studio	18025	20.668594	-103.319105	Crt El Castillo 70, Guadalajara, Jalisco
+Gym City	Gym and Studio	18021	20.667287	-103.318134	Jalisco
+Squalo Fitness Body Bulding	Gym and Studio	18021	20.673304	-103.319281	Ramón Blancarte 277, Guadalajara, Jalisco
+EKOUS Gym	Gym and Studio	18021	20.673274	-103.324856	Guadalajara, Jalisco
+JUMP dance.studio	Dance Studio	18025	20.671188	-103.315735	Dionisio Rodriguez 1269 (Castellanos Y Tapia), 44380 Guadalajara, Jalisco
+Factor Fitness 2.0	Gym and Studio	18021	20.667425	-103.31547	Juan de Dios Robledo 70 (Javier Mina y Álvaro Obregon), 44730 Guadalajara, Jalisco
+Gimnasio 58	Gym and Studio	18021	20.667775	-103.314716	Jalisco
+Emotion Life Fitness Center	Gym and Studio	18021	20.676981	-103.321799	República, Guadalajara, Jalisco
+Centro Cultural Gandhi GFU	Yoga Studio	18028	20.679292	-103.322635	Industria 1043 (Industria), 45134 Guadalajara, Jalisco
+Gimnasio My Body en Forma	Gym and Studio	18021	20.678351	-103.31761	entre esteban alatorre y federacion 528A, 44370 Guadalajara, Jalisco
+Gimnasio Galaxia	Gym and Studio	18021	20.690309	-103.320691	Puerto Melaque 723, 44350 Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.69409	-103.322765	44330 Guadalajara, Jalisco
+Tecnofitness	Gym and Studio	18021	20.69696	-103.321451	Belisario Dominguez (Puerto Altata), Guadalajara, Jalisco
+Live, Force & Training	Gym and Studio	18021	20.694409	-103.32365	Guadalajara, Jalisco
+Tsubasa Fitness	Yoga Studio	18028	20.698337	-103.32073	
+Academia de danza Chiquina Palafox	Education	12009	20.698782	-103.319728	Chimborazo 531, Guadalajara, Jalisco
+Dance in the City	Dance Studio	18025	20.694737	-103.323812	Puerto Soto La Marina 1615 (Circunvalacion), Guadalajara, Jalisco
+Diva's Spinning	Cycle Studio	18024	20.701303	-103.318036	Guadalajara, Jalisco
+Red Force Academia de Danza	Dance Studio	18025	20.702157	-103.319895	valladolid 2648A, Jalisco
+Danza en Movimiento	Gym and Studio	18021	20.7026	-103.322702	Ococcingo, 44320 Guadalajara, Jalisco
+Everlast Fitness Equipment	Gym and Studio	18021	20.697527	-103.314332	Clle Monte La Luna 873, 44330 Guadalajara, Jalisco
+Station 24 Fitness	Gym and Studio	18021	20.712037	-103.322406	Av Calzada Independencia, 44650 Guadalajara, Jalisco
+Life Gym Estadio	Gym and Studio	18021	20.704596	-103.316637	Mesa del Norte 468, 44320, 44320 Guadalajara, Jalisco
+Pole Dancer's Studio	Gym and Studio	18021	20.707546	-103.322337	Mesa del Norte 109, 44320 Guadalajara, Jalisco
+Gimnasio la Perdida	Gym and Studio	18021	20.707075	-103.3183	Montes Urales y Fraternidad, 44300 Guadalajara, Jalisco
+Sector 53 Fitness Center	Gym and Studio	18021	20.708057	-103.323494	Guadalajara, Jalisco
+Black Hammer	Gym and Studio	18021	20.706022	-103.31742	Monte Parnaso, 44320 Guadalajara, Jalisco
+Reckless Box Crossfit	Gym and Studio	18021	20.709638	-103.323489	Calzada Independencia Norte 2981, 44240 Guadalajara, Jalisco
+D' Kings	Dance Studio	18025	20.703263	-103.316739	
+Pro Fit	Gym and Studio	18021	20.710608	-103.322929	Guadalajara, Jalisco
+Pro Fit	Gym and Studio	18021	20.710718	-103.322904	
+Gaby + Chavos Gym	Gym and Studio	18021	20.724452	-103.319463	Rafael Cardenas, 44250 Guadalajara, Jalisco
+Big Muscle Gym	Gym and Studio	18021	20.731039	-103.316163	Volcan Malinche, 44250 Guadalajara, Jalisco
+Exerceo Gym Tlaquepaque	Education	12009	20.639359	-103.308361	Hidalgo 61, 45500 Tlaquepaque, Jalisco
+Excerceo Fitness Center	Gym and Studio	18021	20.639439	-103.308483	Hidalgo 61, 45600 Tlaquepaque, Jalisco
+Asgard fitness center	Gym and Studio	18021	20.646332	-103.31006	Avenida Rio Nilo, Tlaquepaque, Jalisco
+Gym Ssport	Gym and Studio	18021	20.638808	-103.309323	Tlaquepaque, Jalisco
+Gaya kenpo	Yoga Studio	18028	20.641688	-103.312792	Donato Guerra 155 (Prisciliano Sánchez), Tlaquepaque, Jalisco
+Hips Pole & Fitness	Gym and Studio	18021	20.639337	-103.309788	Tlaquepaque, Jalisco
+GymHouse	Gym and Studio	18021	20.638746	-103.314513	Tlaquepaque, Jalisco
+Alexian dance	Gym and Studio	18021	20.646218	-103.3091	Avenida San Rafael, Guadalajara, Jalisco
+Centro de Movimiento Corporal	Cultural Center	12005	20.638634	-103.308051	Zaragoza 85 (5 de Mayo e Ignacio Allende), Tlaquepaque, Jalisco
+Tamayo Avila Alejandro	Dance Studio	18025	20.648226	-103.313044	Avenida Rio Nilo 8018, Guadalajara, Jalisco
+Monster Cross	Gym and Studio	18021	20.651067	-103.305894	Avenida Chamizal 714, 44810 Guadalajara, Jalisco
+Emotion Life Fitness Center	Gym and Studio	18021	20.650196	-103.314385	Justo Corro 2152, Guadalajara, Jalisco
+Emotion Life Fitness Center	Gym and Studio	18021	20.65019	-103.314338	Justo Corro 2152 (Luis G. Cuevas), 44840 Guadalajara, Jalisco
+Nutrition People	Gym and Studio	18021	20.650038	-103.31377	Justo Corro 2186 (Francisco Marquez), 44840 Guadalajara, Jalisco
+Effort57 Gym	Gym and Studio	18021	20.64957	-103.30626	Avenida Chamizal 812 (Av. Revolución), 44810 Guadalajara, Jalisco
+Paty Geyer Dance Center	Education	12009	20.649996	-103.306066	Guadalajara, Jalisco
+Eneri Dance	Gym and Studio	18021	20.652981	-103.305314	Jalisco
+Studio 74	Photographer	11138	20.663143	-103.308702	Guadalajara, Jalisco
+Forza Gym	Gym and Studio	18021	20.659815	-103.314217	Guadalajara, Jalisco
+Poseidón Fitness Center	Gym and Studio	18021	20.660521	-103.307085	
+Tiburon Gym	Gym and Studio	18021	20.662537	-103.307114	
+Versus GYM	Gym and Studio	18021	20.659265	-103.306304	Aldama, Guadalajara, Jalisco
+HumanisArte	Dance Studio	18025	20.681967	-103.306688	Calle 64 817 (Pto Melaque), Guadalajara, Jalisco
+Unlimited Dance Studio	Dance Studio	18025	20.687774	-103.308548	1033 Calle Juan de Dios Robledo (Entre San Pedro y San Pablo), 44719 Guadalajara, Jalisco
+Nitró Gym	Gym and Studio	18021	20.686537	-103.308563	Juan de Dios Robledo 986, 45404 Guadalajara, Jalisco
+Centro Gimnástico Cervantes	Gym and Studio	18021	20.691275	-103.31185	44350 Guadalajara, Jalisco
+Sport Fitness	Gym and Studio	18021	20.691294	-103.31433	44350 Guadalajara, Jalisco
+Sport Fit Gym	Gym and Studio	18021	20.697094	-103.313338	Monte La Luna 873 (btw Puerto del Carmen & Puerto Angel), Guadalajara, Jalisco
+Ledsmotion	Gym and Studio	18021	20.697327	-103.314028	Monte La Luna 873, 44330 Guadalajara, Jalisco
+Walks Academy	Education	12009	20.703741	-103.311507	Guadalajara, Jalisco
+Meraki Pole Elite	Gym and Studio	18021	20.704037	-103.310217	854 Calle San Eustaquio, 44330 Guadalajara, Jalisco
+Elite Master GYM	Gym and Studio	18021	20.707324	-103.309074	Belisario Dominguez 2807, Guadalajara, Jalisco
+Maximum Gym	Gym and Studio	18021	20.706551	-103.308665	Belisario Dominguez 2807, 44300 Guadalajara, Jalisco
+Elite Master Gym	Gym and Studio	18021	20.710848	-103.30817	Guadalajara, Jalisco
+Academia de Baile Natarasca	Dance Studio	18025	20.713033	-103.312002	Amistad 536 (Montañas Rocallosas), 44300 Guadalajara, Jalisco
+King's Gym	Gym and Studio	18021	20.727682	-103.314555	Calzada Independencia N, 44250 Guadalajara, Jalisco
+La Paz Gym	Gym and Studio	18021	20.642463	-103.296863	Tlaquepaque, Jalisco
+Promotora de Actividades Deportivas Pac	Gym and Studio	18021	20.643544	-103.303473	Avenida Adolfo Lopez Mateos 3333C, Guadalajara, Jalisco
+Corpo In Movo	Education	12009	20.639896	-103.302996	Tlaquepaque, Jalisco
+Piixel 2.0	Education	12009	20.6455	-103.302243	Jalisco
+Poly Gym	Gym and Studio	18021	20.645907	-103.303237	Manuel Rivera Cambas 2735, Guadalajara, Jalisco
+Attitude Dance Pole Dance &Fitness	Gym and Studio	18021	20.645125	-103.300141	Guadalajara, Jalisco
+Shape Gym	Gym and Studio	18021	20.646253	-103.301065	Guadalajara, Jalisco
+Gym Sr	Gym and Studio	18021	20.645091	-103.299303	Río Nilo, Jalisco
+Levyfit Gym	Gym and Studio	18021	20.638841	-103.29993	Heliotropo 24 (Hidalgo), 45520 Tlaquepaque, Jalisco
+PiiXeL	Dance Studio	18025	20.646682	-103.304973	José María Marroquí (Av. Revolución), Guadalajara, Jalisco
+Pixel	Education	12009	20.647345	-103.304518	Avenida Real de los Abetos 787 (Revolución), Guadalajara, Jalisco
+N.U.B.A. Yoga	Yoga Studio	18028	20.64549	-103.297773	Lopez de Gomara 1124 (Manuel Rivera Cambas), 44860 Guadalajara, Jalisco
+Gimnasio Bulgaria	Gym and Studio	18021	20.636356	-103.30152	Calle Tonala 355 (Don Bosco), 45500 Tlaquepaque, Jalisco
+La Paz Gym	Gym and Studio	18021	20.642494	-103.296713	Tlaquepaque, Jalisco
+Country Gym	Gym and Studio	18021	20.651839	-103.301671	Avenida del Parque 644 (San Rafael), 44817 Guadalajara, Jalisco
+Chivas Gym	Gym and Studio	18021	20.650197	-103.295812	Manuel M. Ponce, Guadalajara, Jalisco
+Orozco Chavez Ana Laura	Dance Studio	18025	20.651207	-103.29869	Florencia 2820A, Guadalajara, Jalisco
+Gimnasio San Rafael	Gym and Studio	18021	20.653236	-103.297386	Parque San Rafael Medrano (e/ San Jacinto y Manuel M. Ponce), 44810 Guadalajara, Jalisco
+Kaal Yoga studio	Yoga Studio	18028	20.655056	-103.300835	Avenida del parque 421 (Entre Medrado y Artes), 44810 Guadalajara, Jalisco
+RE9C -Centro de Acondicionamiento Físico y Coaching Personal	Yoga Studio	18028	20.660758	-103.301491	Avenida Gomez Farias 2667B (Calle Secundina Gallo), 44810 Guadalajara, Jalisco
+Alvarez Plascencia Rosa Aurora	Gym and Studio	18021	20.660478	-103.301065	Avenida Aurelio Ortega 767, Guadalajara, Jalisco
+World sport gym	Gym and Studio	18021	20.674011	-103.305995	Francisco Villa 472, 44730, Guadalajara, Jalisco
+Gimnasio Saul Canelo Alvarez	Gym and Studio	18021	20.678098	-103.302281	Jesús Urueta 2281, 44730 Guadalajara, Jalisco
+Viper Gym	Gym and Studio	18021	20.6805	-103.296598	Jose Maria Narvaez (San Pablo), Guadalajara, Jalisco
+Rene Covarrubias Martinez	Gym and Studio	18021	20.680558	-103.298147	Cll Jose Ma Narvaez 1159, Guadalajara, Jalisco
+Smart fit	College Gym	12027	20.687523	-103.29609	44716 Guadalajara, Jalisco
+Cross Kingdom Circunvalacion	Gym and Studio	18021	20.688603	-103.301359	Avenida Circunvalación Oblatos 2293 (Artesanos), 44716 Guadalajara, Jalisco
+Labans	Dance Studio	18025	20.686508	-103.299754	Francisco Sarabia 1086 (Julián Medinaceli Castillo), 44716 Guadalajara, Jalisco
+Gimnasio de Box Olimpica	Gym and Studio	18021	20.685653	-103.299581	
+Bio 110 Gym	Gym and Studio	18021	20.689743	-103.299041	Jalisco
+Bull Gym	Gym and Studio	18021	20.689871	-103.298899	
+FitClub10x	Gym and Studio	18021	20.692526	-103.302852	Hacienda Santiago, 44700 Guadalajara, Jalisco
+Fitness 360	Gym and Studio	18021	20.696266	-103.299384	Avenida Juan Pablo II (Hacienda Mochitiltic), Guadalajara, Jalisco
+Gimnasio Fitness Evolution	Gym and Studio	18021	20.696156	-103.29927	Calzada Juan Pablo II, 44700 Guadalajara, Jalisco
+Yoga	Yoga Studio	18028	20.695276	-103.29799	Hacienda Huescalapa (Hacienda Santiago), 44700 Guadalajara, Jalisco
+Body Style Fitness Gym	Gym and Studio	18021	20.693625	-103.296838	Jalisco
+Impacto Gym	Gym and Studio	18021	20.706851	-103.297457	Abundancia 1500, Guadalajara, Jalisco
+Gym NS	Cycle Studio	18024	20.709629	-103.299514	Guadalajara, Jalisco
+Gladiador Club Deportivo	Yoga Studio	18028	20.708848	-103.297452	Rivas Guillén 2656 (Himno), Guadalajara, Jalisco
+UP Training & Fitness	Gym and Studio	18021	20.708206	-103.296334	Avenida Artesanos 3639 (Zacarías Rubio y Luis Alcaraz), 44300 Guadalajara, Jalisco
+Naff Sport	Gym and Studio	18021	20.704689	-103.295703	Avenida Artesanos, 44700 Guadalajara, Jalisco
+Snaff Sport	Gym and Studio	18021	20.704873	-103.295564	44700 Guadalajara, Jalisco
+Gym neo spa	Gym and Studio	18021	20.712302	-103.296846	Avenida Artesanos, 44730 Guadalajara, Jalisco
+Stayfit Gym	Gym and Studio	18021	20.644496	-103.287056	Avenida Rio Nilo, Guadalajara, Jalisco
+Max GYM	Gym and Studio	18021	20.643975	-103.28795	Avenida Rio Nilo, Tlaquepaque, Jalisco
+Academia de Danza Olu Ka Hula	Dance Studio	18025	20.644565	-103.290417	Miguel Mondragon 1142 (Rio Nilo), Guadalajara, Jalisco
+Botigym	Gym and Studio	18021	20.64557	-103.290705	Marquesa Calderón, 44860 Guadalajara, Jalisco
+First Your	Gym and Studio	18021	20.647968	-103.287939	
+Eddy's Gym	Gym and Studio	18021	20.652288	-103.293141	Jalisco
+Cardio Fitness	Climbing Gym	18023	20.655998	-103.293935	Manuel M. Ponce 374 (Adrian Puga), 44810 Guadalajara, Jalisco
+Dance & Be Free	Dance Studio	18025	20.655639	-103.295526	
+Crossfit 22	Gym and Studio	18021	20.65028	-103.287256	44824 Guadalajara, Jalisco
+Jm Sport	Gym and Studio	18021	20.648067	-103.287864	44824 Guadalajara, Jalisco
+Padma	Yoga Studio	18028	20.647478	-103.2879	Cipriano Campos Alatorre 945 (Historiadores), 44860 Guadalajara, Jalisco
+Gym	Gym and Studio	18021	20.659884	-103.294323	
+Country Sport Gym	Gym and Studio	18021	20.661326	-103.290178	Igantes 3911 (San Francisco), 44810 Guadalajara, Jalisco
+Fitness & Nutrition Center	Gym and Studio	18021	20.661105	-103.28876	Gigantes 3468 (C. Ruben Rodriguez y C. Demostenes), Guadalajara, Jalisco
+Iron Crossfit	Gym and Studio	18021	20.662499	-103.288233	Guadalajara, Jalisco
+Vera's Gym	Gym and Studio	18021	20.670187	-103.290959	Jalisco
+WT White Fitness Center	Gym and Studio	18021	20.672705	-103.293095	Esmirna 722 (e/ Pablo Valdez y Esteban Alatorre), 44750 Guadalajara, Jalisco
+Sport Gym Elite	Gym and Studio	18021	20.665288	-103.287058	
+Gym pegaso's	Gym and Studio	18021	20.680766	-103.290935	Rancho alegre, 44720 Guadalajara, Jalisco
+IKAL Dance Company	Country Dance Club	10012	20.6794	-103.287408	Avenida José María Iglesias 3317 (Demostenes), 44724 Guadalajara, Jalisco
+Gym	Gym and Studio	18021	20.680766	-103.290935	Guadalajara, Jalisco
+Fitness Perfect World	Gym and Studio	18021	20.690668	-103.294418	Guadalajara, Jalisco
+Fitness evolution	Gym and Studio	18021	20.693554	-103.289062	Juan Pablo II 2216 (Hacienda Mochitiltic y Hacienda La Quemada), 44700 Guadalajara, Jalisco
+Hemi Fitness Gym	Gym and Studio	18021	20.699333	-103.292573	Calzada Juan Pablo II 2805A (Hacienda Del Carmen), 44700 Guadalajara, Jalisco
+Cronos Crossfit	Climbing Gym	18023	20.701952	-103.295421	Avenida Artesanos 2451, 44700 Guadalajara, Jalisco
+Fitness Concept Gym	Gym and Studio	18021	20.705573	-103.290911	Jalisco
+Centro Cultural Yoga Devanand	Yoga Studio	18028	20.702539	-103.288558	Lerdo de Tejada 2484 (Lope De Vega Y Calderón de la Barca), 44700 Guadalajara, Jalisco
+Smartfit Tonala	Gym and Studio	18021	20.640954	-103.278992	Avenida río nilo, 45403 Tonalá, Jalisco
+Super Fitness	Gym and Studio	18021	20.638511	-103.282475	Guadalajara, Jalisco
+HiperFitness	Gym and Studio	18021	20.638441	-103.282482	Jalisco
+Curves Río Nilo	Gym and Studio	18021	20.644452	-103.284405	Avenida Rio Nilo 3645, 44823 Guadalajara, Jalisco
+Trainer Kings Gym	Gym and Studio	18021	20.637845	-103.28616	Avenida Santa Rosalia 1033, 45520 Tlaquepaque, Jalisco
+Studio 9:11	Gym and Studio	18021	20.637729	-103.286524	Tlaquepaque, Jalisco
+Level 3	Gym and Studio	18021	20.649554	-103.283829	Jalisco
+Fulltraining Functional Center	Gym and Studio	18021	20.648602	-103.28093	Manuel R. Alatorre 4012 (col. Insurgentes), 44820 Guadalajara, Jalisco
+Country Sport Gym	Gym and Studio	18021	20.660495	-103.280983	Gigantes
+Reinaldo Hernandez Lozano	Gym and Studio	18021	20.660793	-103.28458	Gigantes 3718, 44829 Guadalajara, Jalisco
+Gimnasio al Aire Libre	Gym and Studio	18021	20.658762	-103.283748	Paseo Andrés Bello (Hecho por la negra Ines), Jalisco
+Cervantes Delgado Samuel	Gym and Studio	18021	20.660403	-103.281006	Cll Gigantes 3911, 44460 Guadalajara, Jalisco
+Orvaiton Fitness Equipment	Gym and Studio	18021	20.660758	-103.285426	Gigantes 3718, 44820 Guadalajara, Jalisco
+HP FitClub	Gym and Studio	18021	20.669197	-103.284104	Centro Recreativo y Cultural SJF, 44770 Guadalajara, Jalisco
+Mercury Gym	Gym and Studio	18021	20.672367	-103.279991	Presa Palmito 818 (btw Pablo Váldez & Canaán), 44770 Guadalajara, Jalisco
+Krack Sport Center	Gym and Studio	18021	20.679609	-103.277835	Jalisco
+Sport Center	Gym and Studio	18021	20.679584	-103.277438	Eduardo Zepeda, 44790 Guadalajara, Jalisco
+Deluxe Boys Dance Academy	Education	12009	20.674576	-103.277601	Jalisco
+Iron Gym	Gym and Studio	18021	20.686071	-103.281029	Emilio Acevedo, 44720 Guadalajara, Jalisco
+Boss Gym	Gym and Studio	18021	20.686142	-103.280548	Emilio Acevedo (Ramón Silva), 44720 Guadalajara, Jalisco
+Vulcano gym	Gym and Studio	18021	20.692621	-103.27925	Jalisco
+Club Live 21 Gym & Fitness	Gym and Studio	18021	20.638558	-103.275022	Tonalá, Jalisco
+GNC Rio Nilo	Gym and Studio	18021	20.639883	-103.275048	Jalisco
+Gym Insurgentes	Gym and Studio	18021	20.651412	-103.271595	Jalisco
+HC Sport and Wellness Center	Gym and Studio	18021	20.664703	-103.27512	Jalisco
+HE Sport and Wellness	Gym and Studio	18021	20.665224	-103.274963	
+Hc Gym	Gym and Studio	18021	20.666473	-103.274856	Jalisco
+Mondo Sportivo	Gym and Studio	18021	20.675398	-103.272686	Jalisco
+Health fitness gym	Gym and Studio	18021	20.681928	-103.271577	Jalisco
+Spinning D´ROSSY	Gym and Studio	18021	20.691034	-103.274486	Esteban coronado 4085 (egipto), 44720 Guadalajara, Jalisco
+Coleman's Gym	Gym and Studio	18021	20.691965	-103.272189	Betsayda 2867 (Hebron y jerimoth), 44720 Guadalajara, Jalisco
+Gym Body Life	Gym and Studio	18021	20.657414	-103.263285	Jalisco
