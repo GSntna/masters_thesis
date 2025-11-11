@@ -179,62 +179,73 @@ def get_osm_venues(
 
 
 # --- Google Maps ------------------------------------------------------------ #
-def get_google_venues(lat:float, lon:float, venue_type:str) -> dict:
+def _google_text_search(lat: float, lon: float, query: str, radius: int = RADIUS, language: str = 'es') -> dict:
     '''
-    Calls Google Maps API to return the venues withe the given venue_type
-    around the specified lat and lon.
-
-    :param float lat: latitude
-    :param float lon: longitude
-    :param str category: venue type (e.g. 'hospital', 'school')
-    '''
-    results = gmaps.places_nearby(
-        location=(lat, lon),
-        radius=RADIUS,
-        type=venue_type
-    )
-    return results['results']
-
-def process_google_json(
-        categories:list[str],
-        centroids:pd.DataFrame
-        ) -> pd.DataFrame:
-    '''
-    Retrives the venue information from Google's API result for given centroids
-    and categories. Categories can be found here
+    Performs a Google Places API Text Search within a radius of a coordinate.
     
-    :param list[str] categories: list of category codes to look
-    :param pd.DataFrame centroids: dataframe with api_lat and api_lon columns
-    to iterate over
-    :returns: dataframe with name, category, category_code, lat and lon of the
-    venues
-    :rtype: pd.DataFrame
+    :param lat: Latitude of center point
+    :param lon: Longitude of center point
+    :param query: Search term (e.g., "primaria")
+    :param radius: Search radius in meters (max 50,000)
+    :param language: Results language (default: Spanish)
+    :returns: API response (JSON)
+    :raises: HTTPError if API call fails
+    '''
+    url = 'https://maps.googleapis.com/maps/api/place/textsearch/json'
+    params = {
+        'query': query,
+        'location': f'{lat},{lon}',
+        'radius': radius,
+        'key': GOOGLE_KEY,
+        'language': language
+    }
+    
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    return response.json()
+
+def get_google_text_venues(queries: list[str], centroids: pd.DataFrame, radius: int = RADIUS) -> pd.DataFrame:
+    '''
+    Retrieves venues matching text queries across multiple grid centroids.
+    
+    :param queries: List of search terms (e.g., ["primaria", "secundaria"])
+    :param centroids: DataFrame with api_lat and api_lon columns
+    :param radius: Search radius in meters (default: 750m)
+    :returns: DataFrame with name, query, lat, lon, and address
     '''
     all_venues = []
     failed = 0
-    show = False
     
-    for cat in categories:
-        
-        for _, row in tqdm.tqdm(centroids.iterrows(), total=len(centroids), desc='grids'):
-            venues = get_google_venues(row['api_lat'], row['api_lon'], venue_type=cat)
-            
-            for venue in venues:
-                try:
-                    all_venues.append({
-                        "name": venue["name"],
-                        'category': cat,
-                        'category_code': None,
-                        "lat": venue["geometry"]["location"]["lat"],
-                        "lon": venue["geometry"]["location"]["lng"]
-                    })
-                    time.sleep(2)  # Google requires delay for pagination
-                except:
-                    show = True
-                    failed += 1
+    for query in queries:
+        for _, row in tqdm.tqdm(centroids.iterrows(), total=len(centroids), desc=f'Searching "{query}"', leave=True):
+            try:
+                data = _google_text_search(row['api_lat'], row['api_lon'], query, radius)
                 
-                time.sleep(1)
-    if show:
-        logging.warning(f'Couldn\'t add {failed}')
-
-    return pd.DataFrame(all_venues)
+                for venue in data.get('results', []):
+                    try:
+                        all_venues.append({
+                            'google_id': venue['place_id'],
+                            'name': venue.get('name'),
+                            'query': query,  # Track which search term matched
+                            'lat': venue['geometry']['location']['lat'],
+                            'lon': venue['geometry']['location']['lng'],
+                            'address': venue.get('formatted_address', ''),
+                            'types': venue.get('types', [])  # Google's classification
+                        })
+                    except KeyError as e:
+                        failed += 1
+                        logging.debug(f"Missing key {e} in venue: {venue}")
+                
+                # Respect rate limits (1 request/second for free tier)
+                time.sleep(1.1)  # Slightly above 1s to avoid QPS errors
+                
+            except requests.exceptions.HTTPError as e:
+                failed += 1
+                logging.warning(f"API error for '{query}' at ({row['api_lat']}, {row['api_lon']}): {e}")
+                if e.response.status_code == 429:  # Rate limit hit
+                    time.sleep(60)  # Wait 1 minute before retrying
+    
+    if failed > 0:
+        logging.warning(f"Failed to process {failed} venue lookups")
+    
+    return pd.DataFrame(all_venues).drop_duplicates(subset=['google_id', 'query'], ignore_index=True)

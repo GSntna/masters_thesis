@@ -770,3 +770,63 @@ def process_fsq(df:pd.DataFrame, category:str) -> gpd.GeoDataFrame:
         raise ValueError(f"Unknown category: {category}")
     
     return category_functions[category](df=df)
+
+# --- Process Google Results ------------------------------------------------- #
+
+goog_education_dict ={
+    'preparatoria': 'highschool',
+    'preescolar': 'preschool',
+    'escuela primaria': 'primary school',
+    'secundaria': 'secondary school',
+    'universidad': 'university',
+}
+
+def _goog_education(df:pd.DataFrame) -> gpd.GeoDataFrame:
+    '''
+    Peforms the following processing:
+    - removing irrelevant columns (high null value count)
+    - handling category and subcategory columns (creation/renaming)
+    - remove duplicated instances (same geometry, different names)
+
+    :param pd.DataFrame df: sports DataFrame to process
+    :returns: processed GeoDataFrame with columns
+        ['category', 'subcategory', 'name', 'geometry']
+    :rtype: gpd.GeoDataFrame
+    '''
+    # subcategory and category cols
+    df.rename(columns={'query': 'subcategory'}, inplace=True)
+    df['category'] = 'education'
+    df['subcategory'] = df['subcategory'].replace(goog_education_dict)
+
+    # get geometry
+    geometry = gpd.points_from_xy(df['lon'], df['lat'])
+    df = gpd.GeoDataFrame(df, geometry=geometry, crs='EPSG:4326')
+
+    # remove duplicated values
+    df = df.sort_values(by=['name'], na_position='last')
+    df.drop_duplicates(subset=['category', 'subcategory', 'geometry'])
+
+    return df[['category', 'subcategory', 'name', 'geometry']]
+
+def process_goog(df:pd.DataFrame, category:str) -> gpd.GeoDataFrame:
+    '''
+    Processes a given DataFrame based on the category.
+
+    :param pd.DataFrame df: DataFrame to process
+    :param category: the type of venues being processed. The available categories
+    are: 
+    :return: Processed GeoDataFrame
+    :rtype: gpd.GeoDataFrame
+    '''
+    category_functions = {
+        'highschools': _goog_education,
+        'preschools': _goog_education,
+        'primary_schools': _goog_education,
+        'secondary_schools': _goog_education,
+        'universities': _goog_education,
+    }
+    
+    if category not in category_functions:
+        raise ValueError(f"Unknown category: {category}")
+    
+    return category_functions[category](df=df)
